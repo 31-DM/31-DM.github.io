@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Thanks for stopping by!"
 email: 'dam387@cornell.edu'
-description:"
+description: "
 - 🔭 I’m currently working on: Developing case study solutions for business strategy and operations challenges
 - 🌱 I’m currently learning: How to scuba dive; in the process of getting certified
 - 👯 I’m looking to collaborate on: Data-driven storytelling through analytics and visualization
