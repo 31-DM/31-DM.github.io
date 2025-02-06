@@ -13,14 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jami Gibbs."
-email: 'jami0821@gmail.com'
-description: "I'm a software developer and designer from Chicago creating useful things for the web."
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://jamigibbs.github.io/phantom" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
-github_username: 'jamigibbs'
-medium_username: 'blog.jamigibbs.com'
+title: "Thanks for stopping by!"
+email: 'dam387@cornell.edu'
+description: 
+- 🔭 I’m currently working on: Developing case study solutions for business strategy and operations challenges
+- 🌱 I’m currently learning: How to scuba dive; in the process of getting certified
+- 👯 I’m looking to collaborate on: Data-driven storytelling through analytics and visualization
+- 🤔 I’m looking for help with: Breaking into corporate strategy and product management roles
+- 💬 Ask me about: Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
+- 📫 How to reach me: [Email](mailto:dam387@cornell.edu) | [LinkedIn](https://www.linkedin.com/in/dev-misra/)  
+- ⚡ Fun fact: I've driven a tank
+url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+linkedin_username: 'dev-misra'
+github_username: '31-DM'
 
 # Build settings
 markdown: kramdown
@@ -92,13 +97,10 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '© 2018 Jami Gibbs'
-admin_name: 'Jami Gibbs'
-google_analytics: "UA-9999999-99" # Update with your own tracking ID
-enable_contact: false
+footer_text: 'DM Portfolio 2025'
+admin_name: 'DM'
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
