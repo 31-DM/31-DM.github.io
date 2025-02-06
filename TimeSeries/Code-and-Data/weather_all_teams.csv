@@ -1,0 +1,1549 @@
+﻿Date,Home Team,Away Team,Home Score,Away Score,Overtime?,Playoff Game?,Neutral Venue?,Home Line Open,Total Score Open,Total Score,Differential,Average Temperature,Average Humidity,Average Wind,Precipitation,Fog or Haze
+9/7/2006,Pittsburgh Steelers,Miami Dolphins,28,17,,,,-1.5,34,45,11,66.5,71.75,4,None,0
+9/10/2006,Tennessee Titans,New York Jets,16,23,,,,-3,35.5,39,3.5,86.25,46,6,None,0
+9/10/2006,Tampa Bay Buccaneers,Baltimore Ravens,0,27,,,,-3,33.5,27,-6.5,88.5,62,7.5,None,0
+9/10/2006,New York Giants,Indianapolis Colts,21,26,,,,3,48,47,-1,65.5,53.25,7.5,None,0
+9/10/2006,New England Patriots,Buffalo Bills,19,17,,,,-9.5,41,36,-5,63.5,52,13.25,None,0
+9/10/2006,Kansas City Chiefs,Cincinnati Bengals,10,23,,,,-1,48.5,33,-15.5,69,82.75,8,rain,0
+9/10/2006,Jacksonville Jaguars,Dallas Cowboys,24,17,,,,2,36.5,41,4.5,81,77,7.75,rain,0
+9/10/2006,Green Bay Packers,Chicago Bears,0,26,,,,3.5,34.5,26,-8.5,61.5,52,8.75,None,0
+9/10/2006,Cleveland Browns,New Orleans Saints,14,19,,,,-3,36.5,33,-3.5,68,70.5,17.5,None,0
+9/10/2006,Carolina Panthers,Atlanta Falcons,6,20,,,,-4.5,38.5,26,-12.5,82.25,54.75,2.25,None,1
+9/11/2006,Washington Redskins,Minnesota Vikings,16,19,,,,-4,36,35,-1,63.75,66.75,5.75,None,0
+9/11/2006,Oakland Raiders,San Diego Chargers,0,27,,,,3,42,27,-15,68.25,64.5,4.25,None,0
+9/17/2006,Seattle Seahawks,Arizona Cardinals,21,10,,,,-7,47,31,-16,64,52.5,5.5,None,0
+9/17/2006,San Francisco 49ers,St. Louis Rams,20,13,,,,3,43.5,33,-10.5,79,34,7.75,None,0
+9/17/2006,San Diego Chargers,Tennessee Titans,40,7,,,,-11.5,38,47,9,85,23.5,10,None,0
+9/17/2006,Philadelphia Eagles,New York Giants,24,30,Y,,,-2.5,42,54,12,79,50.5,5.5,None,0
+9/17/2006,New York Jets,New England Patriots,17,24,,,,6,37.5,41,3.5,79.5,52.5,2,None,0
+9/17/2006,Miami Dolphins,Buffalo Bills,6,16,,,,-6.5,37,22,-15,86.5,61,14.75,None,0
+9/17/2006,Green Bay Packers,New Orleans Saints,27,34,,,,1.5,39.5,61,21.5,82.25,52.75,10.5,None,0
+9/17/2006,Denver Broncos,Kansas City Chiefs,9,6,Y,,,-10.5,38.5,15,-23.5,62.5,18,22.5,None,0
+9/17/2006,Dallas Cowboys,Washington Redskins,27,10,,,,-7,37,37,0,74,93.5,5.75,None,0
+9/17/2006,Cincinnati Bengals,Cleveland Browns,34,17,,,,-10,40.5,51,10.5,82.75,48.5,10.25,None,0
+9/17/2006,Chicago Bears,Detroit Lions,34,7,,,,-7.5,32,41,9,81.5,55,15.5,None,0
+9/17/2006,Baltimore Ravens,Oakland Raiders,28,6,,,,-13,34,34,0,80.5,48,4.5,None,0
+9/18/2006,Jacksonville Jaguars,Pittsburgh Steelers,9,0,,,,2.5,36.5,9,-27.5,81,75,2,None,0
+9/24/2006,Tampa Bay Buccaneers,Carolina Panthers,24,26,,,,3.5,33.5,50,16.5,89,45,6.75,None,0
+9/24/2006,Seattle Seahawks,New York Giants,42,30,,,,-3.5,42.5,72,29.5,70.75,55.5,8.5,None,0
+9/24/2006,San Francisco 49ers,Philadelphia Eagles,24,38,,,,6.5,42,62,20,72.5,53.5,14.25,None,0
+9/24/2006,Pittsburgh Steelers,Cincinnati Bengals,20,28,,,,-2,42,48,6,70.5,54.5,16.25,None,0
+9/24/2006,New England Patriots,Denver Broncos,7,17,,,,-6.5,38.5,24,-14.5,62.75,89.5,4.25,None,0
+9/24/2006,Miami Dolphins,Tennessee Titans,13,10,,,,-10.5,35.5,23,-12.5,88.66666667,59.33333333,14.33333333,None,0
+9/24/2006,Cleveland Browns,Baltimore Ravens,14,15,,,,7,33,29,-4,64,71.5,21.25,None,0
+9/24/2006,Buffalo Bills,New York Jets,20,28,,,,-6,33.5,48,14.5,64.5,69.5,21.75,None,0
+10/1/2006,Washington Redskins,Jacksonville Jaguars,36,30,Y,,,2,34,66,32,67.5,50,6.75,None,0
+10/1/2006,Tennessee Titans,Dallas Cowboys,14,45,,,,9.5,37.5,59,21.5,81,26.5,5.5,None,0
+10/1/2006,Oakland Raiders,Cleveland Browns,21,24,,,,1,33.5,45,11.5,63,54,6.75,None,0
+10/1/2006,New York Jets,Indianapolis Colts,28,31,,,,7.5,46.5,59,12.5,68,59,9,None,0
+10/1/2006,Kansas City Chiefs,San Francisco 49ers,41,0,,,,-7,39.5,41,1.5,87.5,36.5,13,None,0
+10/1/2006,Cincinnati Bengals,New England Patriots,13,38,,,,-5.5,46,51,5,73.75,43.75,5.25,None,0
+10/1/2006,Chicago Bears,Seattle Seahawks,37,6,,,,-3.5,36.5,43,6.5,65.5,62.75,8,None,0
+10/1/2006,Carolina Panthers,New Orleans Saints,21,18,,,,-7,41,39,-2,78,46.5,4.25,None,0
+10/1/2006,Buffalo Bills,Minnesota Vikings,17,12,,,,-2,34.5,29,-5.5,61.5,61.25,14,None,0
+10/1/2006,Baltimore Ravens,San Diego Chargers,16,13,,,,-1,33.5,29,-4.5,69,50.25,13.25,None,0
+10/2/2006,Philadelphia Eagles,Green Bay Packers,31,9,,,,-11.5,49.5,40,-9.5,61.25,70.5,3.25,None,0
+10/8/2006,San Francisco 49ers,Oakland Raiders,34,20,,,,-3.5,39.5,54,14.5,72.25,48.75,5,None,0
+10/8/2006,San Diego Chargers,Pittsburgh Steelers,23,13,,,,-3.5,37,36,-1,64.5,68.75,7,None,0
+10/8/2006,Philadelphia Eagles,Dallas Cowboys,38,24,,,,-1,43,62,19,69,43.25,4,None,0
+10/8/2006,New York Giants,Washington Redskins,19,3,,,,-5.5,46,22,-24,70.75,35,2.75,None,0
+10/8/2006,New England Patriots,Miami Dolphins,20,10,,,,-9.5,36.5,30,-6.5,70.5,27.25,3,None,0
+10/8/2006,Jacksonville Jaguars,New York Jets,41,0,,,,-7,38.5,41,2.5,75.25,43,10.75,None,0
+10/8/2006,Green Bay Packers,St. Louis Rams,20,23,,,,2.5,46.5,43,-3.5,73.5,36.75,12.25,None,0
+10/8/2006,Chicago Bears,Buffalo Bills,40,7,,,,-9.5,34.5,47,12.5,70,38.5,10.5,None,0
+10/8/2006,Carolina Panthers,Cleveland Browns,20,12,,,,-8,38,32,-6,61.5,85.5,14.5,rain,0
+10/9/2006,Denver Broncos,Baltimore Ravens,13,3,,,,-5,33,16,-17,39.5,100,6.25,rain,0
+10/15/2006,Washington Redskins,Tennessee Titans,22,25,,,,-12,39.5,47,7.5,60.5,24,6.25,None,0
+10/15/2006,Tampa Bay Buccaneers,Cincinnati Bengals,14,13,,,,4.5,44.5,27,-17.5,81.5,37,8,None,0
+10/15/2006,San Francisco 49ers,San Diego Chargers,19,48,,,,10,42,67,25,57,72,11.75,None,0
+10/15/2006,Pittsburgh Steelers,Kansas City Chiefs,45,7,,,,-6.5,37,52,15,52.5,38,6.25,None,0
+10/15/2006,New York Jets,Miami Dolphins,20,17,,,,-2.5,36,37,1,54,36.5,7.5,None,0
+10/15/2006,Denver Broncos,Oakland Raiders,13,3,,,,-15.5,37.5,16,-21.5,60.25,46,7,None,0
+10/15/2006,Dallas Cowboys,Houston Texans,34,6,,,,-13,43.5,40,-3.5,69.5,85.5,10.25,rain,0
+10/15/2006,Baltimore Ravens,Carolina Panthers,21,23,,,,-3,33.5,44,10.5,60,30.75,8.75,None,0
+10/16/2006,Arizona Cardinals,Chicago Bears,23,24,,,,12.5,40.5,47,6.5,77,31.25,2.5,None,0
+10/22/2006,Tampa Bay Buccaneers,Philadelphia Eagles,23,21,,,,6.5,42.5,44,1.5,87.75,61.75,8.25,None,0
+10/22/2006,Seattle Seahawks,Minnesota Vikings,13,31,,,,-6.5,40.5,44,3.5,63,50,4.5,None,0
+10/22/2006,Oakland Raiders,Arizona Cardinals,22,9,,,,3,39.5,31,-8.5,74.5,40,7.75,None,0
+10/22/2006,New York Jets,Detroit Lions,31,24,,,,-4,43.5,55,11.5,59.5,48.5,10.25,rain,0
+10/22/2006,Miami Dolphins,Green Bay Packers,24,34,,,,-6,40.5,58,17.5,87.5,59,8.25,None,0
+10/22/2006,Kansas City Chiefs,San Diego Chargers,30,27,,,,6,38.5,57,18.5,45.25,51.5,11.5,None,0
+10/22/2006,Houston Texans,Jacksonville Jaguars,27,7,,,,7.5,39.5,34,-5.5,64,50.5,13.25,None,0
+10/22/2006,Cleveland Browns,Denver Broncos,7,17,,,,4.5,31.5,24,-7.5,45.75,72.75,22,None,0
+10/22/2006,Cincinnati Bengals,Carolina Panthers,17,14,,,,-3,44,31,-13,45.5,69.5,13.5,None,0
+10/22/2006,Buffalo Bills,New England Patriots,6,28,,,,5.5,36.5,34,-2.5,50,80,14.25,rain,0
+10/23/2006,Dallas Cowboys,New York Giants,22,36,,,,-3,43.5,58,14.5,61,33.75,6.25,None,0
+10/29/2006,Tennessee Titans,Houston Texans,28,22,,,,-3,41.5,50,8.5,73.75,28.5,8,None,0
+10/29/2006,San Diego Chargers,St. Louis Rams,38,24,,,,-9.5,46,62,16,72,51.25,9,None,0
+10/29/2006,Philadelphia Eagles,Jacksonville Jaguars,6,13,,,,-8,38.5,19,-19.5,55,23.75,24.5,None,0
+10/29/2006,Oakland Raiders,Pittsburgh Steelers,20,13,,,,9,38.5,33,-5.5,60,63.25,11.5,None,0
+10/29/2006,New York Giants,Tampa Bay Buccaneers,17,3,,,,-9,36,20,-16,52.5,29,25,None,0
+10/29/2006,Kansas City Chiefs,Seattle Seahawks,35,28,,,,-5.5,37,63,26,75.25,26.75,11.25,None,0
+10/29/2006,Green Bay Packers,Arizona Cardinals,31,14,,,,-4,45,45,0,49.5,28.75,15.75,None,0
+10/29/2006,Denver Broncos,Indianapolis Colts,31,34,,,,-3,40,65,25,68.25,18,14.25,None,0
+10/29/2006,Cleveland Browns,New York Jets,20,13,,,,-2,37,33,-4,47.33333333,48,20.33333333,None,0
+10/29/2006,Cincinnati Bengals,Atlanta Falcons,27,29,,,,-4,45.5,56,10.5,60.5,35.5,11.5,None,0
+10/29/2006,Chicago Bears,San Francisco 49ers,41,10,,,,-16.5,42,51,9,53.5,28.75,13,None,0
+10/29/2006,Carolina Panthers,Dallas Cowboys,14,35,,,,-4.5,41,49,8,54.25,63.25,3.5,None,0
+11/5/2006,Washington Redskins,Dallas Cowboys,22,19,,,,3,41,41,0,51,34.5,3,None,0
+11/5/2006,Tampa Bay Buccaneers,New Orleans Saints,14,31,,,,-1,37.5,45,7.5,81.5,35.25,10,None,0
+11/5/2006,San Francisco 49ers,Minnesota Vikings,9,3,,,,4,43,12,-31,66.25,68.25,10.5,None,0
+11/5/2006,San Diego Chargers,Cleveland Browns,32,25,,,,-13,41.5,57,15.5,81,20.25,10,None,0
+11/5/2006,Pittsburgh Steelers,Denver Broncos,20,31,,,,-3,36.5,51,14.5,49,33.5,6,None,0
+11/5/2006,New York Giants,Houston Texans,14,10,,,,-13,43,24,-19,49,36.25,7,None,0
+11/5/2006,New England Patriots,Indianapolis Colts,20,27,,,,-3,48.5,47,-1.5,27.75,83.75,0,None,0
+11/5/2006,Jacksonville Jaguars,Tennessee Titans,37,7,,,,-9.5,37.5,44,6.5,67,77.5,20.25,rain,0
+11/5/2006,Chicago Bears,Miami Dolphins,13,31,,,,-13,37.5,44,6.5,53.5,46.75,9,None,0
+11/5/2006,Buffalo Bills,Green Bay Packers,24,10,,,,-3.5,41.5,34,-7.5,50,46,8.25,None,0
+11/5/2006,Baltimore Ravens,Cincinnati Bengals,26,20,,,,-3,41.5,46,4.5,49,39.75,6.5,None,0
+11/6/2006,Seattle Seahawks,Oakland Raiders,16,0,,,,-7,34,16,-18,59,85.25,12.25,rain,0
+11/12/2006,Tennessee Titans,Baltimore Ravens,26,27,,,,6.5,38,53,15,48.5,56.75,5,None,0
+11/12/2006,Seattle Seahawks,St. Louis Rams,24,22,,,,-3,43.5,46,2.5,48.5,81.5,9.75,rain,0
+11/12/2006,Pittsburgh Steelers,New Orleans Saints,38,31,,,,-6.5,46,69,23,39,87.25,9.25,None,0
+11/12/2006,Philadelphia Eagles,Washington Redskins,27,3,,,,-8,41.5,30,-11.5,55.5,91.5,14.75,rain,0
+11/12/2006,Oakland Raiders,Denver Broncos,13,17,,,,9,33.5,30,-3.5,58.5,39,5,None,0
+11/12/2006,New York Giants,Chicago Bears,20,38,,,,-1,37,58,21,48.5,86.75,9.75,rain,0
+11/12/2006,New England Patriots,New York Jets,14,17,,,,-10,38,31,-7,54,96.5,7,rain,0
+11/12/2006,Miami Dolphins,Kansas City Chiefs,13,10,,,,-1.5,40,23,-17,80.75,48.75,5.5,None,0
+11/12/2006,Jacksonville Jaguars,Houston Texans,10,13,,,,-10,37,23,-14,64,41.25,5.75,None,0
+11/12/2006,Cincinnati Bengals,San Diego Chargers,41,49,,,,1,48,90,42,42.5,61.25,4.75,None,0
+11/12/2006,Arizona Cardinals,Dallas Cowboys,10,27,,,,6.5,43,37,-6,74.33333333,25.33333333,6,None,0
+11/13/2006,Carolina Panthers,Tampa Bay Buccaneers,24,10,,,,-10,37,34,-3,54.25,66,3.75,None,0
+11/19/2006,Tampa Bay Buccaneers,Washington Redskins,20,17,,,,-3,33.5,37,3.5,69.25,42.75,11.5,None,0
+11/19/2006,San Francisco 49ers,Seattle Seahawks,20,14,,,,3,43.5,34,-9.5,59.75,84.5,4.5,rain,1
+11/19/2006,Philadelphia Eagles,Tennessee Titans,13,31,,,,-13,44,44,0,46.75,52.25,10.5,None,0
+11/19/2006,New York Jets,Chicago Bears,0,10,,,,6,39.5,10,-29.5,46.5,54.5,6.25,None,0
+11/19/2006,Miami Dolphins,Minnesota Vikings,24,20,,,,-3.5,34,44,10,71.5,30,10.25,None,0
+11/19/2006,Kansas City Chiefs,Oakland Raiders,17,13,,,,-8,36,30,-6,46,46.5,3.25,None,0
+11/19/2006,Houston Texans,Buffalo Bills,21,24,,,,-3,36.5,45,8.5,65.75,29,6.75,None,0
+11/19/2006,Green Bay Packers,New England Patriots,0,35,,,,6,45.5,35,-10.5,42,42.5,7.25,None,0
+11/19/2006,Denver Broncos,San Diego Chargers,27,35,,,,-3,42.5,62,19.5,41.5,42,3.25,None,0
+11/19/2006,Dallas Cowboys,Indianapolis Colts,21,14,,,,1.5,50,35,-15,61,22,7,None,0
+11/19/2006,Cleveland Browns,Pittsburgh Steelers,20,24,,,,4.5,37,44,7,39,83.75,9.5,rain,0
+11/19/2006,Carolina Panthers,St. Louis Rams,15,0,,,,-6.5,44,15,-29,54.5,46,8.75,None,0
+11/19/2006,Baltimore Ravens,Atlanta Falcons,24,10,,,,-3.5,41,34,-7,48,58,7,None,0
+11/20/2006,Jacksonville Jaguars,New York Giants,26,10,,,,-3.5,38.5,36,-2.5,49.5,59.5,12.25,None,0
+11/23/2006,Kansas City Chiefs,Denver Broncos,19,10,,,,-2,39,29,-10,61.75,40.75,9.5,None,0
+11/23/2006,Dallas Cowboys,Tampa Bay Buccaneers,38,10,,,,-12.5,38.5,48,9.5,73.25,40.75,13.5,None,0
+11/26/2006,Washington Redskins,Carolina Panthers,17,13,,,,5.5,36,30,-6,60.5,48.5,3,None,0
+11/26/2006,Tennessee Titans,New York Giants,24,21,,,,3.5,45,45,0,64.5,33.75,5.75,None,0
+11/26/2006,San Diego Chargers,Oakland Raiders,21,14,,,,-13.5,43,35,-8,62.25,54.5,9,None,0
+11/26/2006,New York Jets,Houston Texans,26,11,,,,-5,40,37,-3,59.5,52.5,8.75,None,0
+11/26/2006,New England Patriots,Chicago Bears,17,13,,,,-4.5,38,30,-8,49.25,72.25,5.25,None,0
+11/26/2006,Cleveland Browns,Cincinnati Bengals,0,30,,,,3.5,44,30,-14,64.75,38,15,None,0
+11/26/2006,Buffalo Bills,Jacksonville Jaguars,27,24,,,,3,35,51,16,57.5,54.25,13,None,0
+11/26/2006,Baltimore Ravens,Pittsburgh Steelers,27,0,,,,-3,40,27,-13,59.5,53.5,3.5,None,0
+11/27/2006,Seattle Seahawks,Green Bay Packers,34,24,,,,-10,42,58,16,30.5,86.75,6.75,snow,0
+11/30/2006,Cincinnati Bengals,Baltimore Ravens,13,7,,,,-3,41.5,20,-21.5,55,96,4,None,0
+12/3/2006,Washington Redskins,Atlanta Falcons,14,24,,,,1,38.5,38,-0.5,43,46.33333333,2.666666667,None,0
+12/3/2006,Tennessee Titans,Indianapolis Colts,20,17,,,,7.5,46.5,37,-9.5,41,47.75,12.5,None,0
+12/3/2006,Pittsburgh Steelers,Tampa Bay Buccaneers,20,3,,,,-8,40.5,23,-17.5,40,43.75,8.25,None,0
+12/3/2006,Oakland Raiders,Houston Texans,14,23,,,,-3,35.5,37,1.5,58,49.25,5.5,None,0
+12/3/2006,New York Giants,Dallas Cowboys,20,23,,,,3.5,43.5,43,-0.5,44,48,8,None,0
+12/3/2006,New England Patriots,Detroit Lions,28,21,,,,-13.5,41.5,49,7.5,44.75,43,10.5,None,0
+12/3/2006,Miami Dolphins,Jacksonville Jaguars,10,24,,,,-1.5,35.5,34,-1.5,77.5,68.25,8.5,None,0
+12/3/2006,Green Bay Packers,New York Jets,10,38,,,,0,39,48,9,20,69.25,16.25,snow,0
+12/3/2006,Denver Broncos,Seattle Seahawks,20,23,,,,-4.5,40.5,43,2.5,23.33333333,56.66666667,4,None,0
+12/3/2006,Cleveland Browns,Kansas City Chiefs,31,28,Y,,,4,35.5,59,23.5,29.5,60.25,14,None,0
+12/3/2006,Chicago Bears,Minnesota Vikings,23,13,,,,-9,34.5,36,1.5,17,65.5,15.25,None,0
+12/3/2006,Buffalo Bills,San Diego Chargers,21,24,,,,5.5,40,45,5,33.5,74.25,11.75,snow,0
+12/4/2006,Philadelphia Eagles,Carolina Panthers,27,24,,,,3,37.5,51,13.5,29.5,47,8.5,None,0
+12/7/2006,Pittsburgh Steelers,Cleveland Browns,27,7,,,,-7,34,34,0,18,64,12.25,None,0
+12/10/2006,Washington Redskins,Philadelphia Eagles,19,21,,,,2,40.5,40,-0.5,55.25,26.25,4.5,None,0
+12/10/2006,Tampa Bay Buccaneers,Atlanta Falcons,6,17,,,,3.5,37.5,23,-14.5,74.75,47.5,11,None,0
+12/10/2006,San Francisco 49ers,Green Bay Packers,19,30,,,,-4,44,49,5,57.5,74.25,12,None,0
+12/10/2006,San Diego Chargers,Denver Broncos,48,20,,,,-7.5,41,68,27,61,57,12.75,None,0
+12/10/2006,New York Jets,Buffalo Bills,13,31,,,,-4.5,37.5,44,6.5,51.75,29.75,7.75,None,0
+12/10/2006,Miami Dolphins,New England Patriots,21,0,,,,3.5,37,21,-16,75,60,19.5,None,0
+12/10/2006,Kansas City Chiefs,Baltimore Ravens,10,20,,,,-3,37,30,-7,50,52,21.25,None,0
+12/10/2006,Jacksonville Jaguars,Indianapolis Colts,44,17,,,,1,44,61,17,65.5,53,12.75,None,0
+12/10/2006,Dallas Cowboys,New Orleans Saints,17,42,,,,-7.5,47.5,59,11.5,51.5,91.25,12.75,rain,0
+12/10/2006,Cincinnati Bengals,Oakland Raiders,27,10,,,,-11,40,37,-3,50.5,20,11.5,None,0
+12/10/2006,Carolina Panthers,New York Giants,13,27,,,,3,39,40,1,53.75,18.5,7,None,0
+12/14/2006,Seattle Seahawks,San Francisco 49ers,14,24,,,,-10,37.5,38,0.5,53.25,76.25,21,rain,0
+12/17/2006,Tennessee Titans,Jacksonville Jaguars,24,17,,,,3.5,41,41,0,71.25,37,10.25,None,0
+12/17/2006,San Diego Chargers,Kansas City Chiefs,20,9,,,,-9,47.5,29,-18.5,50.5,65,3.25,None,0
+12/17/2006,Oakland Raiders,St. Louis Rams,0,20,,,,-3,39,20,-19,52,55.75,9.75,None,0
+12/17/2006,New York Giants,Philadelphia Eagles,22,36,,,,-5.5,45.5,58,12.5,52.25,54,6.5,None,0
+12/17/2006,New England Patriots,Houston Texans,40,7,,,,-12.5,38,47,9,54.5,45,10.75,None,0
+12/17/2006,Green Bay Packers,Detroit Lions,17,9,,,,-6,45,26,-19,41.5,54.25,13,None,0
+12/17/2006,Chicago Bears,Tampa Bay Buccaneers,34,31,Y,,,-13.5,35,65,30,51.5,34.25,1.5,None,0
+12/17/2006,Carolina Panthers,Pittsburgh Steelers,3,37,,,,3,39,40,1,65.5,54.25,6.75,None,0
+12/17/2006,Buffalo Bills,Miami Dolphins,21,0,,,,-1,34,21,-13,47,96.5,12.5,rain,0
+12/17/2006,Baltimore Ravens,Cleveland Browns,27,17,,,,-12.5,35,44,9,59.5,43.5,4,None,0
+12/17/2006,Arizona Cardinals,Denver Broncos,20,37,,,,3,43.5,57,13.5,59.5,20.75,7.5,None,0
+12/21/2006,Green Bay Packers,Minnesota Vikings,9,7,,,,-4,38,16,-22,36.75,93.25,10.75,rain,0
+12/23/2006,Oakland Raiders,Kansas City Chiefs,9,20,,,,7,36.5,29,-7.5,48.5,80,1.75,None,0
+12/24/2006,Seattle Seahawks,San Diego Chargers,17,20,,,,4,45.5,37,-8.5,44.5,82.5,8.25,rain,0
+12/24/2006,San Francisco 49ers,Arizona Cardinals,20,26,,,,-3.5,45,46,1,51.25,77,5.25,None,0
+12/24/2006,Pittsburgh Steelers,Baltimore Ravens,7,31,,,,-4,36.5,38,1.5,43,60,6,None,0
+12/24/2006,New York Giants,New Orleans Saints,7,30,,,,-3,47.5,37,-10.5,52,41,13.25,None,0
+12/24/2006,Jacksonville Jaguars,New England Patriots,21,24,,,,-3,37,45,8,64.25,77.5,7.5,None,0
+12/24/2006,Denver Broncos,Cincinnati Bengals,24,23,,,,-3,44.5,47,2.5,31,83,10.5,snow,0
+12/24/2006,Cleveland Browns,Tampa Bay Buccaneers,7,22,,,,-3,37.5,29,-8.5,42.5,71.75,9,None,0
+12/24/2006,Buffalo Bills,Tennessee Titans,29,30,,,,-5,37.5,59,21.5,39,80.5,23.75,None,0
+12/25/2006,Miami Dolphins,New York Jets,10,13,,,,-2,36.5,23,-13.5,70,93,3.75,rain,0
+12/25/2006,Dallas Cowboys,Philadelphia Eagles,7,23,,,,-7,47.5,30,-17.5,46.75,32.25,18.5,None,0
+12/30/2006,Washington Redskins,New York Giants,28,34,,,,2,42.5,62,19.5,40.5,86.75,0,None,0
+12/31/2006,Tennessee Titans,New England Patriots,23,40,,,,-3.5,41,63,22,61,77.25,8,rain,0
+12/31/2006,Tampa Bay Buccaneers,Seattle Seahawks,7,23,,,,-3,37,30,-7,82.25,57,7.5,None,0
+12/31/2006,San Diego Chargers,Arizona Cardinals,27,20,,,,-13.5,44.5,47,2.5,60.25,58.5,6.75,None,0
+12/31/2006,Philadelphia Eagles,Atlanta Falcons,24,17,,,,-6.5,42.5,41,-1.5,44.75,54.5,6.75,None,0
+12/31/2006,New York Jets,Oakland Raiders,23,3,,,,-10.5,34,26,-8,43.5,39.5,6,None,0
+12/31/2006,Kansas City Chiefs,Jacksonville Jaguars,35,30,,,,-2.5,36.5,65,28.5,37,88.75,13.5,snow,0
+12/31/2006,Houston Texans,Cleveland Browns,14,6,,,,-6,37.5,20,-17.5,63.5,39,14.25,None,0
+12/31/2006,Denver Broncos,San Francisco 49ers,23,26,Y,,,-11,40,49,9,36,33,8,None,0
+12/31/2006,Dallas Cowboys,Detroit Lions,31,39,,,,-13.5,45,70,25,45.75,54.75,15.5,None,0
+12/31/2006,Cincinnati Bengals,Pittsburgh Steelers,17,23,Y,,,-6,44,40,-4,60,80,6.5,None,0
+12/31/2006,Chicago Bears,Green Bay Packers,7,26,,,,-3.5,38.5,33,-5.5,50,69.75,12.75,None,0
+12/31/2006,Baltimore Ravens,Buffalo Bills,19,7,,,,-9.5,36.5,26,-10.5,42.75,66.25,5,None,0
+1/6/2007,Seattle Seahawks,Dallas Cowboys,21,20,,Y,,-2,48.5,41,-7.5,43.5,71.25,10.25,None,0
+1/7/2007,Philadelphia Eagles,New York Giants,23,20,,Y,,-6.5,46.5,43,-3.5,47,64.75,11.75,rain,0
+1/7/2007,New England Patriots,New York Jets,37,16,,Y,,-9.5,39,53,14,50,35.75,4.5,None,0
+1/13/2007,Baltimore Ravens,Indianapolis Colts,6,15,,Y,,-4,41.5,21,-20.5,58,70.75,0,None,0
+1/14/2007,San Diego Chargers,New England Patriots,21,24,,Y,,-4.5,46,45,-1,52.25,36.25,7,None,0
+1/14/2007,Chicago Bears,Seattle Seahawks,27,24,Y,Y,,-9,37,51,14,36,72,13.5,None,0
+1/21/2007,Chicago Bears,New Orleans Saints,39,14,,Y,,-2.5,43,53,10,31.5,81.75,6.25,snow,0
+9/9/2007,Washington Redskins,Miami Dolphins,16,13,Y,,,-3,34.5,29,-5.5,87.5,53.5,4,None,0
+9/9/2007,Seattle Seahawks,Tampa Bay Buccaneers,20,6,,,,-6,41,26,-15,73.5,39.25,9,None,0
+9/9/2007,San Diego Chargers,Chicago Bears,14,3,,,,-7,42.5,17,-25.5,75,56.25,10.25,None,0
+9/9/2007,Oakland Raiders,Detroit Lions,21,36,,,,-3,39.5,57,17.5,66,68,13.75,None,0
+9/9/2007,New York Jets,New England Patriots,14,38,,,,6.5,41,52,11,84.5,48.75,10.5,None,0
+9/9/2007,Jacksonville Jaguars,Tennessee Titans,10,13,,,,-7.5,39,23,-16,87.75,50,7,None,0
+9/9/2007,Green Bay Packers,Philadelphia Eagles,16,13,,,,3.5,42,29,-13,64.5,72.5,8.75,None,0
+9/9/2007,Dallas Cowboys,New York Giants,45,35,,,,-6.5,45,80,35,77.5,82.75,4.25,None,0
+9/9/2007,Cleveland Browns,Pittsburgh Steelers,7,34,,,,5.5,36,41,5,73,80.25,7.25,None,0
+9/9/2007,Buffalo Bills,Denver Broncos,14,15,,,,3,37.5,29,-8.5,66,92.25,8.5,rain,0
+9/10/2007,San Francisco 49ers,Arizona Cardinals,20,17,,,,-3.5,47,37,-10,62.25,76,15.75,None,0
+9/10/2007,Cincinnati Bengals,Baltimore Ravens,27,20,,,,-3,40.5,47,6.5,79.75,64.5,6.25,None,0
+9/16/2007,Tennessee Titans,Indianapolis Colts,20,22,,,,7,46,42,-4,74,27.25,3,None,0
+9/16/2007,Tampa Bay Buccaneers,New Orleans Saints,31,14,,,,5,42,45,3,89.75,60.25,7.75,None,0
+9/16/2007,Pittsburgh Steelers,Buffalo Bills,26,3,,,,-10,39,29,-10,59,45.75,5,None,0
+9/16/2007,New York Giants,Green Bay Packers,13,35,,,,-3,39.5,48,8.5,64,39,4,None,0
+9/16/2007,New England Patriots,San Diego Chargers,38,14,,,,-3.5,46.5,52,5.5,46.5,88,0,None,0
+9/16/2007,Miami Dolphins,Dallas Cowboys,20,37,,,,3.5,40,57,17,86,63,9.75,None,0
+9/16/2007,Jacksonville Jaguars,Atlanta Falcons,13,7,,,,-10.5,34.5,20,-14.5,89.75,48.25,11.75,None,0
+9/16/2007,Denver Broncos,Oakland Raiders,23,20,Y,,,-9.5,37,43,6,80.66666667,30.66666667,5.333333333,None,0
+9/16/2007,Cleveland Browns,Cincinnati Bengals,51,45,,,,7.5,41.5,96,54.5,61.75,48.25,6.25,None,0
+9/16/2007,Chicago Bears,Kansas City Chiefs,20,10,,,,-12,34.5,30,-4.5,71.5,28,10.25,None,0
+9/16/2007,Carolina Panthers,Houston Texans,21,34,,,,-6.5,38,55,17,74,35.75,7,None,0
+9/16/2007,Baltimore Ravens,New York Jets,20,13,,,,-9.5,33,33,0,65.25,37.5,7.5,None,0
+9/17/2007,Philadelphia Eagles,Washington Redskins,12,20,,,,-7,39,32,-7,58.5,69.5,6.25,None,0
+9/23/2007,Washington Redskins,New York Giants,17,24,,,,-3.5,42,41,-1,81.25,29,6,None,0
+9/23/2007,Tampa Bay Buccaneers,St. Louis Rams,24,3,,,,-3.5,38.5,27,-11.5,81,75,8.75,None,0
+9/23/2007,Seattle Seahawks,Cincinnati Bengals,24,21,,,,-3,50,45,-5,59.5,58,2.25,None,0
+9/23/2007,Pittsburgh Steelers,San Francisco 49ers,37,16,,,,-10,37.5,53,15.5,74.25,36.5,2.75,None,0
+9/23/2007,Philadelphia Eagles,Detroit Lions,56,21,,,,-4.5,44.5,77,32.5,79.75,27.5,12.25,None,0
+9/23/2007,Oakland Raiders,Cleveland Browns,26,24,,,,-3,41.5,50,8.5,63.5,73.25,9.5,None,0
+9/23/2007,New York Jets,Miami Dolphins,31,28,,,,-3,36.5,59,22.5,78,31.25,7.5,None,0
+9/23/2007,New England Patriots,Buffalo Bills,38,7,,,,-16.5,41,45,4,77.5,31,11.5,None,0
+9/23/2007,Kansas City Chiefs,Minnesota Vikings,13,10,,,,-3,33.5,23,-10.5,86.5,47.25,9,None,0
+9/23/2007,Green Bay Packers,San Diego Chargers,31,24,,,,6,42.5,55,12.5,77,33.75,11.5,None,0
+9/23/2007,Denver Broncos,Jacksonville Jaguars,14,23,,,,-3.5,36,37,1,73.25,41.75,14.25,None,0
+9/23/2007,Chicago Bears,Dallas Cowboys,10,34,,,,-3,41.5,44,2.5,73,53.5,7,None,0
+9/23/2007,Baltimore Ravens,Arizona Cardinals,26,23,,,,-7,35.5,49,13.5,83.5,21.75,6,None,0
+9/30/2007,San Francisco 49ers,Seattle Seahawks,3,23,,,,2,41,26,-15,67.5,48.25,16.5,None,0
+9/30/2007,San Diego Chargers,Kansas City Chiefs,16,30,,,,-12.5,39,46,7,80.25,40.5,7.25,None,0
+9/30/2007,New York Giants,Philadelphia Eagles,16,3,,,,2.5,47.5,19,-28.5,63.75,65.5,4.75,None,0
+9/30/2007,Miami Dolphins,Oakland Raiders,17,35,,,,-3.5,39.5,52,12.5,81,70.75,16.25,None,0
+9/30/2007,Dallas Cowboys,St. Louis Rams,35,7,,,,-13.5,47,42,-5,85,57.75,10.75,None,0
+9/30/2007,Cleveland Browns,Baltimore Ravens,27,13,,,,4,40,40,0,75,35.5,5.75,None,0
+9/30/2007,Carolina Panthers,Tampa Bay Buccaneers,7,20,,,,-3,39,27,-12,78.75,21.25,8.5,None,0
+9/30/2007,Buffalo Bills,New York Jets,17,14,,,,3.5,37.5,31,-6.5,72.25,39.75,8.25,None,0
+10/1/2007,Cincinnati Bengals,New England Patriots,13,34,,,,8.5,54.5,47,-7.5,64.75,64.75,4.5,None,0
+10/7/2007,Washington Redskins,Detroit Lions,34,3,,,,-3.5,45,37,-8,89.5,47.5,6.5,None,0
+10/7/2007,Tennessee Titans,Atlanta Falcons,20,13,,,,-7.5,41,33,-8,87.25,42.5,5.75,None,0
+10/7/2007,San Francisco 49ers,Baltimore Ravens,7,9,,,,4,35,16,-19,68.75,47.25,8,None,0
+10/7/2007,Pittsburgh Steelers,Seattle Seahawks,21,0,,,,-5,41.5,21,-20.5,82.75,56.25,0.75,None,0
+10/7/2007,New York Giants,New York Jets,35,24,,,,-4,41,59,18,80,54.25,7.75,None,0
+10/7/2007,New England Patriots,Cleveland Browns,34,17,,,,-16,48,51,3,58.5,65.75,6.5,None,0
+10/7/2007,Kansas City Chiefs,Jacksonville Jaguars,7,17,,,,2.5,36,24,-12,79.5,74.25,8.25,None,0
+10/7/2007,Green Bay Packers,Chicago Bears,20,27,,,,-3.5,41,47,6,75.5,74,4.5,None,0
+10/7/2007,Denver Broncos,San Diego Chargers,3,41,,,,1,43,44,1,54.66666667,36.5,10,None,0
+10/8/2007,Buffalo Bills,Dallas Cowboys,24,25,,,,11,45.5,49,3.5,72.25,80.5,10.75,None,0
+10/14/2007,Tampa Bay Buccaneers,Tennessee Titans,13,10,,,,-2,37,23,-14,85.5,43.5,9,None,0
+10/14/2007,Seattle Seahawks,New Orleans Saints,17,28,,,,-6,43,45,2,62.25,60,4,None,0
+10/14/2007,San Diego Chargers,Oakland Raiders,28,14,,,,-9.5,44.5,42,-2.5,67.25,66,11.5,None,0
+10/14/2007,New York Jets,Philadelphia Eagles,9,16,,,,4,43,25,-18,63.5,41.25,12.25,None,0
+10/14/2007,Kansas City Chiefs,Cincinnati Bengals,27,20,,,,2.5,43.5,47,3.5,73.5,54,11,None,0
+10/14/2007,Jacksonville Jaguars,Houston Texans,37,17,,,,-6.5,37,54,17,78.5,53,12,None,0
+10/14/2007,Green Bay Packers,Washington Redskins,17,14,,,,-3,40,31,-9,48,89.5,5,rain,0
+10/14/2007,Dallas Cowboys,New England Patriots,27,48,,,,5.5,52.5,75,22.5,82,52.25,16.25,None,0
+10/14/2007,Cleveland Browns,Miami Dolphins,41,31,,,,-4,45.5,72,26.5,58.5,44.75,4.75,None,0
+10/14/2007,Chicago Bears,Minnesota Vikings,31,34,,,,-4.5,36,65,29,60,66,5.5,None,0
+10/14/2007,Baltimore Ravens,St. Louis Rams,22,3,,,,-9,37,25,-12,69,31,10.25,None,0
+10/21/2007,Washington Redskins,Arizona Cardinals,21,19,,,,-8,35.5,40,4.5,78,30.5,7.5,None,0
+10/21/2007,Seattle Seahawks,St. Louis Rams,33,6,,,,-8,39.5,39,-0.5,54.25,71,6.5,None,0
+10/21/2007,Philadelphia Eagles,Chicago Bears,16,19,,,,-5,42.5,35,-7.5,73.25,36,6.5,None,0
+10/21/2007,Oakland Raiders,Kansas City Chiefs,10,12,,,,-2.5,37.5,22,-15.5,70,30.25,8.75,None,0
+10/21/2007,New York Giants,San Francisco 49ers,33,15,,,,-9.5,39,48,9,73.75,35,8.5,None,0
+10/21/2007,Miami Dolphins,New England Patriots,28,49,,,,16,50,77,27,85.75,65.5,12,None,0
+10/21/2007,Denver Broncos,Pittsburgh Steelers,31,28,,,,4.5,38,59,21,38.33333333,53.66666667,10,None,0
+10/21/2007,Dallas Cowboys,Minnesota Vikings,24,14,,,,-9.5,46,38,-8,86,38.5,17.75,None,0
+10/21/2007,Cincinnati Bengals,New York Jets,38,31,,,,-6,48,69,21,76.5,31.25,8.5,None,0
+10/21/2007,Buffalo Bills,Baltimore Ravens,19,14,,,,3,34,33,-1,75,33,14.25,None,0
+10/22/2007,Jacksonville Jaguars,Indianapolis Colts,7,29,,,,3,45,36,-9,74.5,92.5,9.5,None,0
+10/28/2007,Tennessee Titans,Oakland Raiders,13,9,,,,-7,39.5,22,-17.5,62.5,47.75,13.75,None,0
+10/28/2007,Tampa Bay Buccaneers,Jacksonville Jaguars,23,24,,,,-3.5,32.5,47,14.5,82.5,62,13.25,None,0
+10/28/2007,San Francisco 49ers,New Orleans Saints,10,31,,,,2.5,40.5,41,0.5,66,66.25,6.75,None,0
+10/28/2007,San Diego Chargers,Houston Texans,35,10,,,,-10,46,45,-1,81.75,28.25,9.5,None,1
+10/28/2007,New York Jets,Buffalo Bills,3,13,,,,-3,38,16,-22,53.25,36.75,13,None,0
+10/28/2007,New England Patriots,Washington Redskins,52,7,,,,-15,47,59,12,51,30.5,11,None,0
+10/28/2007,Miami Dolphins,New York Giants,10,13,,,Y,10,47.5,23,-24.5,56.5,96.25,11.5,None,0
+10/28/2007,Cincinnati Bengals,Pittsburgh Steelers,13,24,,,,4,48.5,37,-11.5,57,36.5,8.25,None,0
+10/28/2007,Chicago Bears,Detroit Lions,7,16,,,,-6,45.5,23,-22.5,54.75,34.25,6.5,None,0
+10/28/2007,Carolina Panthers,Indianapolis Colts,7,31,,,,7,44,38,-6,65.25,46.75,12,None,0
+10/29/2007,Denver Broncos,Green Bay Packers,13,19,Y,,,-3,43.5,32,-11.5,59,27.66666667,8,None,0
+11/4/2007,Tennessee Titans,Carolina Panthers,20,7,,,,-5.5,35.5,27,-8.5,67,27,12.25,None,0
+11/4/2007,Tampa Bay Buccaneers,Arizona Cardinals,17,10,,,,-3.5,39,27,-12,77.75,33,9.5,None,0
+11/4/2007,Philadelphia Eagles,Dallas Cowboys,17,38,,,,3.5,46.5,55,8.5,49.25,53.5,8.25,None,0
+11/4/2007,Oakland Raiders,Houston Texans,17,24,,,,-3,41.5,41,-0.5,70.5,40.75,7.25,None,0
+11/4/2007,New York Jets,Washington Redskins,20,23,Y,,,3.5,35.5,43,7.5,55,44,6,None,0
+11/4/2007,Kansas City Chiefs,Green Bay Packers,22,33,,,,-2.5,38,55,17,66,26.25,10.25,None,0
+11/4/2007,Cleveland Browns,Seattle Seahawks,33,30,Y,,,-1,47,63,16,48.5,47,6.25,None,0
+11/4/2007,Buffalo Bills,Cincinnati Bengals,33,21,,,,0,43.5,54,10.5,49,49.75,10.5,None,0
+11/5/2007,Pittsburgh Steelers,Baltimore Ravens,38,7,,,,-9,36,45,9,46.75,88.25,10.75,rain,0
+11/11/2007,Washington Redskins,Philadelphia Eagles,25,33,,,,-2.5,38,58,20,50,50,1,None,0
+11/11/2007,Tennessee Titans,Jacksonville Jaguars,13,28,,,,-4.5,35.5,41,5.5,63.75,32.5,12.5,None,0
+11/11/2007,San Diego Chargers,Indianapolis Colts,23,21,,,,3.5,48,44,-4,59.5,87,2,rain,0
+11/11/2007,Pittsburgh Steelers,Cleveland Browns,31,28,,,,-10,47,59,12,43,76,6,None,0
+11/11/2007,Oakland Raiders,Chicago Bears,6,17,,,,3.5,38.5,23,-15.5,62.5,59.25,13.25,None,0
+11/11/2007,New York Giants,Dallas Cowboys,20,31,,,,2,48.5,51,2.5,42.25,46.5,2,None,0
+11/11/2007,Miami Dolphins,Buffalo Bills,10,13,,,,3,41,23,-18,78,51.25,11,None,0
+11/11/2007,Kansas City Chiefs,Denver Broncos,11,27,,,,-3,37.5,38,0.5,70.5,67,13.25,None,0
+11/11/2007,Green Bay Packers,Minnesota Vikings,34,0,,,,-5.5,41,34,-7,53,60,8,None,1
+11/11/2007,Carolina Panthers,Atlanta Falcons,13,20,,,,-3.5,35.5,33,-2.5,55.75,37,5.25,None,0
+11/11/2007,Baltimore Ravens,Cincinnati Bengals,7,21,,,,-3,44,28,-16,47.5,55.25,3.5,None,0
+11/12/2007,Seattle Seahawks,San Francisco 49ers,24,0,,,,-9,37.5,24,-13.5,46.25,72.5,5.5,None,0
+11/18/2007,Seattle Seahawks,Chicago Bears,30,23,,,,-6,38,53,15,46,72.75,0,None,0
+11/18/2007,San Francisco 49ers,St. Louis Rams,9,13,,,,3,39.5,22,-17.5,60.25,82.5,8.25,None,0
+11/18/2007,Philadelphia Eagles,Miami Dolphins,17,7,,,,-9.5,40.5,24,-16.5,39.5,88,12.25,rain,0
+11/18/2007,New York Jets,Pittsburgh Steelers,19,16,Y,,,9,40.5,35,-5.5,44.5,37.25,5.5,None,0
+11/18/2007,Jacksonville Jaguars,San Diego Chargers,24,17,,,,-3,40.5,41,0.5,68.5,47.5,3.75,None,0
+11/18/2007,Green Bay Packers,Carolina Panthers,31,17,,,,-10,37.5,48,10.5,43,46.25,12,None,0
+11/18/2007,Dallas Cowboys,Washington Redskins,28,23,,,,-11,47,51,4,74.75,54.75,6,None,0
+11/18/2007,Cincinnati Bengals,Arizona Cardinals,27,35,,,,-3,48.5,62,13.5,47,64,5.5,None,0
+11/18/2007,Buffalo Bills,New England Patriots,10,56,,,,16.5,47,66,19,35.5,68,9,None,0
+11/18/2007,Baltimore Ravens,Cleveland Browns,30,33,Y,,,2,43.5,63,19.5,49,68.5,11.75,None,0
+11/19/2007,Denver Broncos,Tennessee Titans,34,20,,,,-1,38.5,54,15.5,55.5,16.5,9.75,None,0
+11/22/2007,Dallas Cowboys,New York Jets,34,3,,,,-14.5,48,37,-11,42.25,56.75,11.66666667,rain,0
+11/25/2007,Tampa Bay Buccaneers,Washington Redskins,19,13,,,,-3,38,32,-6,81.25,56.75,6.75,None,0
+11/25/2007,San Diego Chargers,Baltimore Ravens,32,14,,,,-9,38.5,46,7.5,65,31.75,6.75,None,0
+11/25/2007,New York Giants,Minnesota Vikings,17,41,,,,-7,40.5,58,17.5,49.25,28.75,9.25,None,0
+11/25/2007,New England Patriots,Philadelphia Eagles,31,28,,,,-24.5,51.5,59,7.5,31.25,67.5,3.5,None,0
+11/25/2007,Kansas City Chiefs,Oakland Raiders,17,20,,,,-4,34.5,37,2.5,47,46.75,3,None,0
+11/25/2007,Jacksonville Jaguars,Buffalo Bills,36,14,,,,-8.5,37,50,13,70,82,7.75,None,1
+11/25/2007,Cleveland Browns,Houston Texans,27,17,,,,-3,52,44,-8,41.5,46.5,9.25,None,0
+11/25/2007,Cincinnati Bengals,Tennessee Titans,35,6,,,,0,47,41,-6,46.5,59.75,4.25,None,0
+11/25/2007,Chicago Bears,Denver Broncos,37,34,Y,,,-1,42,71,29,35,80.25,10.75,snow,0
+11/25/2007,Carolina Panthers,New Orleans Saints,6,31,,,,3,41.5,37,-4.5,49,50,7,None,0
+11/25/2007,Arizona Cardinals,San Francisco 49ers,31,37,Y,,,-10.5,37.5,68,30.5,64,23,0,None,0
+11/26/2007,Pittsburgh Steelers,Miami Dolphins,3,0,,,,-15.5,37.5,3,-34.5,48.75,93.75,10.5,rain,0
+11/29/2007,Dallas Cowboys,Green Bay Packers,37,27,,,,-7,51.5,64,12.5,53,58,6.75,None,0
+12/2/2007,Washington Redskins,Buffalo Bills,16,17,,,,-6.5,37,33,-4,42.5,72.75,1.5,None,0
+12/2/2007,Tennessee Titans,Houston Texans,28,20,,,,-3.5,40,48,8,60.5,73,11,None,0
+12/2/2007,Pittsburgh Steelers,Cincinnati Bengals,24,10,,,,-7,40.5,34,-6.5,49.75,92.5,13.25,rain,0
+12/2/2007,Philadelphia Eagles,Seattle Seahawks,24,28,,,,-3,41,52,11,30.75,91,5.5,rain,0
+12/2/2007,Oakland Raiders,Denver Broncos,34,20,,,,4,42,54,12,58.5,58.5,17.5,None,0
+12/2/2007,Miami Dolphins,New York Jets,13,40,,,,-2,37,53,16,80.75,59.5,9,None,0
+12/2/2007,Kansas City Chiefs,San Diego Chargers,10,24,,,,5.5,37,34,-3,35.25,56.25,17,None,0
+12/2/2007,Chicago Bears,New York Giants,16,21,,,,1.5,39.5,37,-2.5,37,88.75,16.25,rain,0
+12/2/2007,Carolina Panthers,San Francisco 49ers,31,14,,,,-3,35.5,45,9.5,52.25,54.75,5,None,0
+12/2/2007,Arizona Cardinals,Cleveland Browns,27,21,,,,-1,52.5,48,-4.5,62,34,2,None,0
+12/3/2007,Baltimore Ravens,New England Patriots,24,27,,,,19,46.5,51,4.5,36.75,48.5,25.75,None,0
+12/6/2007,Washington Redskins,Chicago Bears,24,16,,,,-3,39.5,40,0.5,22,96.25,0,None,0
+12/9/2007,Tennessee Titans,San Diego Chargers,17,23,Y,,,1.5,40,40,0,71,74.5,8,None,0
+12/9/2007,Seattle Seahawks,Arizona Cardinals,42,21,,,,-7.5,44.5,63,18.5,36.75,70.5,3,None,0
+12/9/2007,San Francisco 49ers,Minnesota Vikings,7,27,,,,8.5,39,34,-5,55.25,38.5,4.5,None,0
+12/9/2007,Philadelphia Eagles,New York Giants,13,16,,,,-3,42,29,-13,38.75,69.25,6,None,0
+12/9/2007,New York Jets,Cleveland Browns,18,24,,,,3.5,47.5,42,-5.5,36.75,57.5,4.75,None,0
+12/9/2007,New England Patriots,Pittsburgh Steelers,34,13,,,,-11,49,47,-2,34,55.75,1.5,None,0
+12/9/2007,Jacksonville Jaguars,Carolina Panthers,37,6,,,,-11,39,43,4,71.75,69.5,9.25,None,0
+12/9/2007,Green Bay Packers,Oakland Raiders,38,7,,,,-10.5,40.5,45,4.5,19.5,52.5,4,None,0
+12/9/2007,Denver Broncos,Kansas City Chiefs,41,7,,,,-7.5,37.5,48,10.5,23,81.75,3.75,rain,0
+12/9/2007,Cincinnati Bengals,St. Louis Rams,19,10,,,,-10,45.5,29,-16.5,42,89.25,4.5,rain,0
+12/9/2007,Buffalo Bills,Miami Dolphins,38,17,,,,-7,34.5,55,20.5,29,78.5,7.75,snow,0
+12/9/2007,Baltimore Ravens,Indianapolis Colts,20,44,,,,8.5,42,64,22,38.25,91.5,5.5,rain,0
+12/13/2007,Houston Texans,Denver Broncos,31,13,,,,2.5,47.5,44,-3.5,58.25,77.25,8,None,0
+12/15/2007,San Francisco 49ers,Cincinnati Bengals,20,13,,,,9,42.5,33,-9.5,50,81.5,8.75,None,0
+12/16/2007,Tampa Bay Buccaneers,Atlanta Falcons,37,3,,,,-13,37.5,40,2.5,63.5,54.5,18.5,None,0
+12/16/2007,San Diego Chargers,Detroit Lions,51,14,,,,-9.5,46,65,19,61.5,38,7.5,None,0
+12/16/2007,Pittsburgh Steelers,Jacksonville Jaguars,22,29,,,,-3,34.5,51,16.5,29.5,77.25,21.75,snow,0
+12/16/2007,Oakland Raiders,Indianapolis Colts,14,21,,,,10,45,35,-10,53.75,58.75,6.5,None,0
+12/16/2007,New York Giants,Washington Redskins,10,22,,,,-6,36,32,-4,35,62,17,None,0
+12/16/2007,New England Patriots,New York Jets,20,10,,,,-20,41.5,30,-11.5,38.75,92.5,13,rain,0
+12/16/2007,Miami Dolphins,Baltimore Ravens,22,16,Y,,,3,37,38,1,75.75,77.75,11.5,None,0
+12/16/2007,Kansas City Chiefs,Tennessee Titans,17,26,,,,3.5,34.5,43,8.5,30,60.25,3,None,0
+12/16/2007,Dallas Cowboys,Philadelphia Eagles,6,10,,,,-10,49,16,-33,47.5,31.5,3,None,0
+12/16/2007,Cleveland Browns,Buffalo Bills,8,0,,,,-4.5,36,8,-28,29,85.5,36.5,snow,0
+12/16/2007,Carolina Panthers,Seattle Seahawks,13,10,,,,7.5,37,23,-14,48.5,41,12,None,0
+12/22/2007,Carolina Panthers,Dallas Cowboys,13,20,,,,10.5,42.5,33,-9.5,48.5,81.5,7,None,0
+12/23/2007,Tennessee Titans,New York Jets,10,6,,,,-8,37,16,-21,40.75,36.25,7.25,None,0
+12/23/2007,Seattle Seahawks,Baltimore Ravens,27,6,,,,-12,39,33,-6,46.75,89.5,12.25,rain,0
+12/23/2007,San Francisco 49ers,Tampa Bay Buccaneers,21,19,,,,6.5,37,40,3,54.25,67.5,4,None,0
+12/23/2007,New England Patriots,Miami Dolphins,28,7,,,,-22,45,35,-10,49.75,80.75,8,None,0
+12/23/2007,Jacksonville Jaguars,Oakland Raiders,49,11,,,,-14,40,60,20,69,68.25,13.25,None,0
+12/23/2007,Cincinnati Bengals,Cleveland Browns,19,14,,,,2.5,43.5,33,-10.5,36.25,49.5,18.25,None,0
+12/23/2007,Chicago Bears,Green Bay Packers,35,7,,,,7.5,32,42,10,16.5,67,25.75,snow,0
+12/23/2007,Buffalo Bills,New York Giants,21,38,,,,2.5,32,59,27,46,85.25,22.75,rain,0
+12/23/2007,Arizona Cardinals,Atlanta Falcons,30,27,Y,,,-11,44,57,13,57.5,23,2,None,0
+12/24/2007,San Diego Chargers,Denver Broncos,23,3,,,,-9.5,47.5,26,-21.5,59.25,46,5,None,0
+12/29/2007,New York Giants,New England Patriots,35,38,,,,13.5,47,73,26,41.5,58,6.25,None,0
+12/30/2007,Washington Redskins,Dallas Cowboys,27,6,,,,-9,38.5,33,-5.5,37,100,4.75,None,0
+12/30/2007,Tampa Bay Buccaneers,Carolina Panthers,23,31,,,,3,35.5,54,18.5,78,70.25,12.5,None,0
+12/30/2007,Philadelphia Eagles,Buffalo Bills,17,9,,,,-9,39.5,26,-13.5,40.75,62.5,6.75,rain,0
+12/30/2007,Oakland Raiders,San Diego Chargers,17,30,,,,9.5,41,47,6,52.75,64,12,None,0
+12/30/2007,New York Jets,Kansas City Chiefs,13,10,Y,,,-5,35,23,-12,38.75,64.25,5.75,snow,0
+12/30/2007,Miami Dolphins,Cincinnati Bengals,25,38,,,,2.5,45.5,63,17.5,80.75,57.25,13,None,0
+12/30/2007,Houston Texans,Jacksonville Jaguars,42,28,,,,-7,42,70,28,66.75,30.5,7.25,None,0
+12/30/2007,Green Bay Packers,Detroit Lions,34,13,,,,-3.5,39,47,8,20.5,82.5,3.75,rain,1
+12/30/2007,Denver Broncos,Minnesota Vikings,22,19,Y,,,3,41,41,0,38.75,44.5,16.25,None,0
+12/30/2007,Cleveland Browns,San Francisco 49ers,20,7,,,,-11.5,41,27,-14,33,65.5,7,None,0
+12/30/2007,Chicago Bears,New Orleans Saints,33,25,,,,-1,41.5,58,16.5,32.75,70.5,9.75,None,0
+12/30/2007,Baltimore Ravens,Pittsburgh Steelers,27,21,,,,3.5,34.5,48,13.5,37.75,90.5,8.5,rain,0
+12/30/2007,Arizona Cardinals,St. Louis Rams,48,19,,,,-6,48.5,67,18.5,57,26.5,0,None,0
+1/5/2008,Seattle Seahawks,Washington Redskins,35,14,,Y,,-3.5,39,49,10,43,67.75,12,None,0
+1/5/2008,Pittsburgh Steelers,Jacksonville Jaguars,29,31,,Y,,3,40.5,60,19.5,38.75,97,7.5,rain,0
+1/6/2008,Tampa Bay Buccaneers,New York Giants,14,24,,Y,,-3,40,38,-2,72.75,58.5,7,None,0
+1/6/2008,San Diego Chargers,Tennessee Titans,17,6,,Y,,-10.5,39.5,23,-16.5,54.25,83.75,5.5,rain,0
+1/12/2008,New England Patriots,Jacksonville Jaguars,31,20,,Y,,-13.5,51.5,51,-0.5,30.25,84.25,1.25,None,0
+1/12/2008,Green Bay Packers,Seattle Seahawks,42,20,,Y,,-7.5,44,62,18,30.25,86.25,5.25,snow,0
+1/13/2008,Dallas Cowboys,New York Giants,17,21,,Y,,-7,47.5,38,-9.5,55.75,36,4.75,None,0
+1/20/2008,New England Patriots,San Diego Chargers,21,12,,Y,,-14,48,33,-15,21.5,41.5,14,None,0
+1/20/2008,Green Bay Packers,New York Giants,20,23,Y,Y,,-8,41.5,43,1.5,-3,53.25,10.5,None,0
+9/4/2008,New York Giants,Washington Redskins,16,7,,,,-4.5,41,23,-18,81.5,53,7,None,0
+9/7/2008,Tennessee Titans,Jacksonville Jaguars,17,10,,,,3,37,27,-10,81.75,47,2.75,None,0
+9/7/2008,San Francisco 49ers,Arizona Cardinals,13,23,,,,2.5,42.5,36,-6.5,67.75,63,22.75,None,0
+9/7/2008,San Diego Chargers,Carolina Panthers,24,26,,,,-9,41,50,9,79.75,54.5,8.75,None,0
+9/7/2008,Pittsburgh Steelers,Houston Texans,38,17,,,,-6.5,43.5,55,11.5,74.25,46.25,9.25,None,0
+9/7/2008,Philadelphia Eagles,St. Louis Rams,38,3,,,,-9,43.5,41,-2.5,78.5,42.75,10.5,None,0
+9/7/2008,New England Patriots,Kansas City Chiefs,17,10,,,,-16,43.5,27,-16.5,78.5,53,11.5,None,0
+9/7/2008,Miami Dolphins,New York Jets,14,20,,,,3,37,34,-3,89.25,57.25,11.75,None,0
+9/7/2008,Indianapolis Colts,Chicago Bears,13,29,,,,-10.5,43,42,-1,66.5,67.25,5.25,None,0
+9/7/2008,Cleveland Browns,Dallas Cowboys,10,28,,,,6,48.5,38,-10.5,70,61.75,7.25,None,0
+9/7/2008,Buffalo Bills,Seattle Seahawks,34,10,,,,-1.5,37.5,44,6.5,62.75,82.5,10.25,rain,0
+9/7/2008,Baltimore Ravens,Cincinnati Bengals,17,10,,,,2,37.5,27,-10.5,79.75,40.5,5.25,None,0
+9/8/2008,Oakland Raiders,Denver Broncos,14,41,,,,3,40.5,55,14.5,60.25,83.25,10.25,None,0
+9/8/2008,Green Bay Packers,Minnesota Vikings,24,19,,,,-2.5,37.5,43,5.5,54.5,78,2.25,None,0
+9/14/2008,Washington Redskins,New Orleans Saints,29,24,,,,-1,43,53,10,91.75,50.5,8.25,None,0
+9/14/2008,Tampa Bay Buccaneers,Atlanta Falcons,24,9,,,,-7,37.5,33,-4.5,86.25,62,11,None,0
+9/14/2008,Seattle Seahawks,San Francisco 49ers,30,33,Y,,,-6.5,38,63,25,71.75,48.75,7.75,None,0
+9/14/2008,New York Jets,New England Patriots,10,19,,,,1,37.5,29,-8.5,87.5,60.25,10,None,0
+9/14/2008,Kansas City Chiefs,Oakland Raiders,8,23,,,,-3.5,36,31,-5,60.25,62.75,16,None,0
+9/14/2008,Jacksonville Jaguars,Buffalo Bills,16,20,,,,-4.5,37,36,-1,89.75,50.75,7.75,None,0
+9/14/2008,Denver Broncos,San Diego Chargers,39,38,,,,-1,46,77,31,61,55,5.5,None,0
+9/14/2008,Cleveland Browns,Pittsburgh Steelers,6,10,,,,6.5,43.5,16,-27.5,69,78,28,None,0
+9/14/2008,Cincinnati Bengals,Tennessee Titans,7,24,,,,0,37,31,-6,89.33333333,47.66666667,30.33333333,None,0
+9/14/2008,Carolina Panthers,Chicago Bears,20,17,,,,-3,37,37,0,85.5,60,15.25,None,0
+9/15/2008,Dallas Cowboys,Philadelphia Eagles,41,37,,,,-6.5,46.5,78,31.5,67.75,42.75,5.75,None,0
+9/21/2008,Washington Redskins,Arizona Cardinals,24,17,,,,-3,43.5,41,-2.5,79.5,39.5,2,None,0
+9/21/2008,Tennessee Titans,Houston Texans,31,12,,,,-5,40,43,3,82,42,3.5,None,0
+9/21/2008,Seattle Seahawks,St. Louis Rams,37,13,,,,-8.5,44,50,6,63,61,2.75,None,0
+9/21/2008,San Francisco 49ers,Detroit Lions,31,13,,,,-5,47,44,-3,66.25,63.5,18.75,None,0
+9/21/2008,Philadelphia Eagles,Pittsburgh Steelers,15,6,,,,-3.5,44.5,21,-23.5,78.5,45.5,4.75,None,0
+9/21/2008,New York Giants,Cincinnati Bengals,26,23,Y,,,-13,42,49,7,79.75,38.25,1.5,None,1
+9/21/2008,New England Patriots,Miami Dolphins,13,38,,,,-12.5,37,51,14,77.25,49.25,2.25,None,0
+9/21/2008,Green Bay Packers,Dallas Cowboys,16,27,,,,3,50.5,43,-7.5,63.25,88.5,8.75,rain,0
+9/21/2008,Denver Broncos,New Orleans Saints,34,32,,,,-5.5,51.5,66,14.5,77,32,8.333333333,None,0
+9/21/2008,Chicago Bears,Tampa Bay Buccaneers,24,27,Y,,,-3,35,51,16,78.5,55.5,7.5,None,0
+9/21/2008,Buffalo Bills,Oakland Raiders,24,23,,,,-10,36.5,47,10.5,57.5,90.75,11,rain,0
+9/21/2008,Baltimore Ravens,Cleveland Browns,28,10,,,,-2.5,37,38,1,77,46.5,3,None,0
+9/22/2008,San Diego Chargers,New York Jets,48,29,,,,-8,46.5,77,30.5,66.5,72.25,6,None,0
+9/28/2008,Tennessee Titans,Minnesota Vikings,30,17,,,,-3,35.5,47,11.5,82.5,30.5,11,None,0
+9/28/2008,Tampa Bay Buccaneers,Green Bay Packers,30,21,,,,-2,43,51,8,81.75,63.5,6,None,0
+9/28/2008,Oakland Raiders,San Diego Chargers,18,28,,,,8,45.5,46,0.5,66,66.5,16.5,None,0
+9/28/2008,New York Jets,Arizona Cardinals,56,35,,,,-1,43.5,91,47.5,71.5,83,0,None,0
+9/28/2008,Kansas City Chiefs,Denver Broncos,33,19,,,,9,47,52,5,82.25,51,6.75,None,0
+9/28/2008,Jacksonville Jaguars,Houston Texans,30,27,Y,,,-6.5,43,57,14,84,39.25,7.5,None,0
+9/28/2008,Dallas Cowboys,Washington Redskins,24,26,,,,-10.5,46.5,50,3.5,86.25,28.75,4.5,None,0
+9/28/2008,Cincinnati Bengals,Cleveland Browns,12,20,,,,-1,42,32,-10,77.5,47,7.5,None,0
+9/28/2008,Chicago Bears,Philadelphia Eagles,24,20,,,,3,39,44,5,64,74.25,8.5,None,0
+9/28/2008,Carolina Panthers,Atlanta Falcons,24,9,,,,-7,39,33,-6,79.75,53,6.5,None,0
+9/29/2008,Pittsburgh Steelers,Baltimore Ravens,23,20,Y,,,-6,34.5,43,8.5,60.25,87,6,rain,0
+10/5/2008,San Francisco 49ers,New England Patriots,21,30,,,,3,41,51,10,68.5,55,13.5,None,0
+10/5/2008,Philadelphia Eagles,Washington Redskins,17,23,,,,-6.5,42,40,-2,69.25,50.75,7.25,None,0
+10/5/2008,New York Giants,Seattle Seahawks,44,6,,,,-6.5,43.5,50,6.5,60.5,75,4.75,None,0
+10/5/2008,Miami Dolphins,San Diego Chargers,17,10,,,,6,44.5,27,-17.5,84.25,73.5,13,None,0
+10/5/2008,Jacksonville Jaguars,Pittsburgh Steelers,21,26,,,,-5.5,38,47,9,76.25,79.75,12.75,None,0
+10/5/2008,Houston Texans,Indianapolis Colts,27,31,,,,4,48.5,58,9.5,82.5,52,12.75,None,0
+10/5/2008,Green Bay Packers,Atlanta Falcons,24,27,,,,-5.5,42,51,9,60,54,10.25,None,0
+10/5/2008,Denver Broncos,Tampa Bay Buccaneers,16,13,,,,-3.5,47,29,-18,64.5,40,10.5,rain,0
+10/5/2008,Dallas Cowboys,Cincinnati Bengals,31,22,,,,-16,46.5,53,6.5,84.75,35.25,17.25,None,0
+10/5/2008,Carolina Panthers,Kansas City Chiefs,34,0,,,,-9.5,38,34,-4,79,44.5,4.25,None,0
+10/5/2008,Baltimore Ravens,Tennessee Titans,10,13,,,,1,33.5,23,-10.5,71.75,44.75,8.75,None,0
+10/12/2008,Washington Redskins,St. Louis Rams,17,19,,,,-11.5,44,36,-8,76.5,35.5,2.75,None,0
+10/12/2008,Tampa Bay Buccaneers,Carolina Panthers,27,3,,,,-2,37,30,-7,88.5,55,6.5,None,0
+10/12/2008,Seattle Seahawks,Green Bay Packers,17,27,,,,-1,44.5,44,-0.5,57,44.25,2,None,0
+10/12/2008,San Francisco 49ers,Philadelphia Eagles,26,40,,,,5,41.5,66,24.5,66.5,24,15.75,None,0
+10/12/2008,San Diego Chargers,New England Patriots,30,10,,,,-6,44.5,40,-4.5,64.5,36.25,11.25,None,0
+10/12/2008,New York Jets,Cincinnati Bengals,26,14,,,,-9.5,43,40,-3,70.25,39,3.5,None,0
+10/12/2008,Indianapolis Colts,Baltimore Ravens,31,3,,,,-4,39,34,-5,81.5,39.75,11.5,None,0
+10/12/2008,Houston Texans,Miami Dolphins,29,28,,,,-3,45,57,12,82,68,13.25,None,0
+10/12/2008,Denver Broncos,Jacksonville Jaguars,17,24,,,,-3,48.5,41,-7.5,41,90,3,rain,0
+10/13/2008,Cleveland Browns,New York Giants,35,14,,,,7.5,43,49,6,67.75,52.5,8.75,None,0
+10/19/2008,Washington Redskins,Cleveland Browns,14,11,,,,-7,42,25,-17,54.5,42,3.5,None,0
+10/19/2008,Tampa Bay Buccaneers,Seattle Seahawks,20,10,,,,-11.5,40,30,-10,71.5,60.5,11.25,None,0
+10/19/2008,Oakland Raiders,New York Jets,16,13,Y,,,3,41.5,29,-12.5,58,73.5,12.5,None,0
+10/19/2008,New York Giants,San Francisco 49ers,29,17,,,,-10.5,46.5,46,-0.5,54.5,38.25,10.5,None,0
+10/19/2008,Miami Dolphins,Baltimore Ravens,13,27,,,,-3,36,40,4,81,63,15,None,0
+10/19/2008,Kansas City Chiefs,Tennessee Titans,10,34,,,,8.5,35,44,9,70.25,47.5,14.5,None,0
+10/19/2008,Houston Texans,Detroit Lions,28,21,,,,-11,47.5,49,1.5,75.75,46,6.75,None,0
+10/19/2008,Green Bay Packers,Indianapolis Colts,34,14,,,,2.5,47,48,1,60.5,49.5,15.5,None,0
+10/19/2008,Cincinnati Bengals,Pittsburgh Steelers,10,38,,,,8,36,48,12,59.75,35.25,2.75,None,0
+10/19/2008,Chicago Bears,Minnesota Vikings,48,41,,,,-3,38,89,51,60,41,16.5,None,0
+10/19/2008,Carolina Panthers,New Orleans Saints,30,7,,,,-3,44.5,37,-7.5,59.75,42.5,10,None,0
+10/19/2008,Buffalo Bills,San Diego Chargers,23,14,,,,0,44.5,37,-7.5,53.75,41.25,3.5,None,0
+10/20/2008,New England Patriots,Denver Broncos,41,7,,,,-3,48,48,0,37.75,82.75,0,None,0
+10/26/2008,Philadelphia Eagles,Atlanta Falcons,27,14,,,,-9,45,41,-4,61,46.25,10.5,None,0
+10/26/2008,New York Jets,Kansas City Chiefs,28,24,,,,-14,41,52,11,62.25,43,8.5,None,0
+10/26/2008,New Orleans Saints,San Diego Chargers,37,32,,,Y,3,46,69,23,51,92,8,None,0
+10/26/2008,New England Patriots,St. Louis Rams,23,16,,,,-8.5,41,39,-2,65,42.75,8.75,None,0
+10/26/2008,Miami Dolphins,Buffalo Bills,25,16,,,,0,42,41,-1,77.75,76,10.25,None,0
+10/26/2008,Jacksonville Jaguars,Cleveland Browns,17,23,,,,-7,42,40,-2,73.75,36.25,6.5,None,0
+10/26/2008,Houston Texans,Cincinnati Bengals,35,6,,,,-9,45,41,-4,83,34,0.75,None,0
+10/26/2008,Dallas Cowboys,Tampa Bay Buccaneers,13,9,,,,-1.5,40.5,22,-18.5,78,52,5.25,None,0
+10/26/2008,Carolina Panthers,Arizona Cardinals,27,23,,,,-5,43,50,7,64.25,49.5,4.5,None,0
+10/26/2008,Baltimore Ravens,Oakland Raiders,29,10,,,,-8,35,39,4,62,46,11.5,None,0
+10/27/2008,Tennessee Titans,Indianapolis Colts,31,21,,,,-4,41,52,11,43.75,51,9.75,None,0
+11/2/2008,Tennessee Titans,Green Bay Packers,19,16,Y,,,-3.5,41,35,-6,71.75,33,0,None,0
+11/2/2008,Seattle Seahawks,Philadelphia Eagles,7,26,,,,7,43.5,33,-10.5,53.5,74.25,12.5,None,0
+11/2/2008,Oakland Raiders,Atlanta Falcons,0,24,,,,3,41.5,24,-17.5,62.5,74.25,10.5,None,0
+11/2/2008,New York Giants,Dallas Cowboys,35,14,,,,-8.5,42,49,7,46,41.75,4,None,0
+11/2/2008,Kansas City Chiefs,Tampa Bay Buccaneers,27,30,Y,,,9.5,36.5,57,20.5,75.5,52.5,12.25,None,0
+11/2/2008,Indianapolis Colts,New England Patriots,18,15,,,,-6.5,44.5,33,-11.5,58.25,62.75,6,None,0
+11/2/2008,Denver Broncos,Miami Dolphins,17,26,,,,-4,50,43,-7,73.33333333,13.66666667,8.666666667,None,0
+11/2/2008,Cleveland Browns,Baltimore Ravens,27,37,,,,-3,36.5,64,27.5,52.5,70.5,7.75,None,0
+11/2/2008,Cincinnati Bengals,Jacksonville Jaguars,21,19,,,,7,40,40,0,72.25,47.25,1.5,None,0
+11/2/2008,Chicago Bears,Detroit Lions,27,23,,,,-12.5,43.5,50,6.5,65.5,59.5,10.25,None,0
+11/2/2008,Buffalo Bills,New York Jets,17,26,,,,-5,43.5,43,-0.5,49,47.75,11.75,None,0
+11/3/2008,Washington Redskins,Pittsburgh Steelers,6,23,,,,-2.5,37.5,29,-8.5,50,98.5,0,None,0
+11/6/2008,Cleveland Browns,Denver Broncos,30,34,,,,-3,47,64,17,55.5,77.25,3.25,rain,0
+11/9/2008,San Diego Chargers,Kansas City Chiefs,20,19,,,,-14.5,47.5,39,-8.5,60.75,62.75,19.75,None,0
+11/9/2008,Pittsburgh Steelers,Indianapolis Colts,20,24,,,,-3,39,44,5,40.5,67.5,13.25,None,0
+11/9/2008,Philadelphia Eagles,New York Giants,31,36,,,,-3,43,67,24,50,49.5,7.5,None,0
+11/9/2008,Oakland Raiders,Carolina Panthers,6,17,,,,10,37.5,23,-14.5,60.75,63.25,9.5,None,0
+11/9/2008,New York Jets,St. Louis Rams,47,3,,,,-9.5,43.5,50,6.5,54.25,45,11.5,None,0
+11/9/2008,New England Patriots,Buffalo Bills,20,10,,,,-3.5,41.5,30,-11.5,56.5,40.5,11,None,0
+11/9/2008,Miami Dolphins,Seattle Seahawks,21,19,,,,-8,41.5,40,-1.5,82,53.5,11.75,None,0
+11/9/2008,Houston Texans,Baltimore Ravens,13,41,,,,-2,43.5,54,10.5,73.75,38,10,None,0
+11/9/2008,Chicago Bears,Tennessee Titans,14,21,,,,3,37,35,-2,34.25,63.25,15,None,0
+11/10/2008,Arizona Cardinals,San Francisco 49ers,29,24,,,,-10,47.5,53,5.5,61,41,1.5,None,0
+11/13/2008,New England Patriots,New York Jets,31,34,Y,,,-3,40.5,65,24.5,45.5,95.25,0,rain,0
+11/16/2008,Washington Redskins,Dallas Cowboys,10,14,,,,2,43,24,-19,43,47.25,5.25,None,0
+11/16/2008,Tampa Bay Buccaneers,Minnesota Vikings,19,13,,,,-5,39,32,-7,61,40,9.25,None,0
+11/16/2008,Seattle Seahawks,Arizona Cardinals,20,26,,,,3,48,46,-2,53.5,81.5,2.75,None,0
+11/16/2008,San Francisco 49ers,St. Louis Rams,35,16,,,,-7,43.5,51,7.5,68,64.25,2.75,None,1
+11/16/2008,Pittsburgh Steelers,San Diego Chargers,11,10,,,,-4.5,40.5,21,-19.5,32.5,84.5,13.75,snow,0
+11/16/2008,New York Giants,Baltimore Ravens,30,10,,,,-7,40.5,40,-0.5,47,47,17.25,None,0
+11/16/2008,Miami Dolphins,Oakland Raiders,17,15,,,,-10,38,32,-6,68,33.5,11.25,None,0
+11/16/2008,Kansas City Chiefs,New Orleans Saints,20,30,,,,6,50.5,50,-0.5,58.25,39,10.75,None,0
+11/16/2008,Jacksonville Jaguars,Tennessee Titans,14,24,,,,3,40,38,-2,56.5,45.75,6,None,0
+11/16/2008,Green Bay Packers,Chicago Bears,37,3,,,,-3.5,43,40,-3,33,57.25,11.5,None,0
+11/16/2008,Cincinnati Bengals,Philadelphia Eagles,13,13,Y,,,9,41,26,-15,40,54,14.5,None,0
+11/16/2008,Carolina Panthers,Detroit Lions,31,22,,,,-14,40,53,13,52.5,37.5,9,None,0
+11/17/2008,Buffalo Bills,Cleveland Browns,27,29,,,,-5,40.5,56,15.5,28,82.5,10.75,snow,0
+11/20/2008,Pittsburgh Steelers,Cincinnati Bengals,27,10,,,,-11.5,34.5,37,2.5,30.25,75,10,snow,0
+11/23/2008,Tennessee Titans,New York Jets,13,34,,,,-5.5,41,47,6,52.5,34.25,7.25,None,0
+11/23/2008,Seattle Seahawks,Washington Redskins,17,20,,,,3,40.5,37,-3.5,49.5,67.75,4.5,None,0
+11/23/2008,San Diego Chargers,Indianapolis Colts,20,23,,,,-3,49.5,43,-6.5,58.5,79,2.5,None,0
+11/23/2008,Miami Dolphins,New England Patriots,28,48,,,,2,42.5,76,33.5,73.5,40.75,16.25,None,0
+11/23/2008,Kansas City Chiefs,Buffalo Bills,31,54,,,,3,43,85,42,53.5,59.5,11,None,0
+11/23/2008,Jacksonville Jaguars,Minnesota Vikings,12,30,,,,-2,41,42,1,62.5,52.25,8.5,None,0
+11/23/2008,Denver Broncos,Oakland Raiders,10,31,,,,-8.5,43.5,41,-2.5,45.5,30.5,13,None,0
+11/23/2008,Dallas Cowboys,San Francisco 49ers,35,22,,,,-9.5,46,57,11,66.75,69.25,12.25,None,0
+11/23/2008,Cleveland Browns,Houston Texans,6,16,,,,-3,50,22,-28,38.25,34.25,11,None,0
+11/23/2008,Baltimore Ravens,Philadelphia Eagles,36,7,,,,-2,39.5,43,3.5,41,22.25,5.25,None,0
+11/27/2008,Philadelphia Eagles,Arizona Cardinals,48,20,,,,-3,49,68,19,37.25,70.5,4.5,None,0
+11/27/2008,Dallas Cowboys,Seattle Seahawks,34,9,,,,-12,46.5,43,-3.5,64.75,40,4,None,0
+11/30/2008,Washington Redskins,New York Giants,7,23,,,,3.5,41,30,-11,42,97,9.5,rain,0
+11/30/2008,Tampa Bay Buccaneers,New Orleans Saints,23,20,,,,-4,44,43,-1,66.25,88.5,15.25,rain,0
+11/30/2008,San Diego Chargers,Atlanta Falcons,16,22,,,,-6.5,48,38,-10,69,62,7.25,None,1
+11/30/2008,Oakland Raiders,Kansas City Chiefs,13,20,,,,-3,41.5,33,-8.5,62.5,65.5,4,None,0
+11/30/2008,New York Jets,Denver Broncos,17,34,,,,-7.5,48,51,3,39.25,88,11,rain,0
+11/30/2008,New England Patriots,Pittsburgh Steelers,10,33,,,,-2,40,43,3,38.25,94,7.5,rain,0
+11/30/2008,Green Bay Packers,Carolina Panthers,31,35,,,,-3,41.5,66,24.5,37,76,13.5,None,0
+11/30/2008,Cleveland Browns,Indianapolis Colts,6,10,,,,4.5,43.5,16,-27.5,40.75,77.5,13.75,None,0
+11/30/2008,Cincinnati Bengals,Baltimore Ravens,3,34,,,,7,35.5,37,1.5,44.5,89.25,7.75,rain,0
+11/30/2008,Buffalo Bills,San Francisco 49ers,3,10,,,,-6.5,43,13,-30,34.25,79.25,12.75,rain,0
+12/1/2008,Houston Texans,Jacksonville Jaguars,30,17,,,,-3,48.5,47,-1.5,44.5,50.25,1.75,None,0
+12/4/2008,San Diego Chargers,Oakland Raiders,34,7,,,,-9.5,41,41,0,57.5,74,2.75,None,0
+12/7/2008,Tennessee Titans,Cleveland Browns,28,9,,,,-14,37,37,0,32.5,41.75,0.75,None,0
+12/7/2008,Seattle Seahawks,New England Patriots,21,24,,,,7,42.5,45,2.5,49.5,90.25,1,None,0
+12/7/2008,San Francisco 49ers,New York Jets,24,14,,,,4.5,45,38,-7,53.75,75,11,None,1
+12/7/2008,Pittsburgh Steelers,Dallas Cowboys,20,13,,,,-4,38.5,33,-5.5,18.5,51.5,8.5,None,0
+12/7/2008,New York Giants,Philadelphia Eagles,14,20,,,,-6.5,40.5,34,-6.5,34.25,39.25,21.25,None,0
+12/7/2008,Green Bay Packers,Houston Texans,21,24,,,,-7,47.5,45,-2.5,8.25,69.75,6.333333333,None,0
+12/7/2008,Denver Broncos,Kansas City Chiefs,24,17,,,,-9,49,41,-8,63.5,22,2.5,None,0
+12/7/2008,Chicago Bears,Jacksonville Jaguars,23,10,,,,-6.5,40,33,-7,18,52,6.25,None,0
+12/7/2008,Baltimore Ravens,Washington Redskins,24,10,,,,-6.5,35,34,-1,24,42.75,10.5,None,0
+12/7/2008,Arizona Cardinals,St. Louis Rams,34,10,,,,-15,48.5,44,-4.5,63,0,1.666666667,None,0
+12/8/2008,Carolina Panthers,Tampa Bay Buccaneers,38,23,,,,-3,40,61,21,43,40.75,5.25,None,0
+12/11/2008,Chicago Bears,New Orleans Saints,27,24,Y,,,-3,46,51,5,25.5,67.25,10.5,None,0
+12/14/2008,Oakland Raiders,New England Patriots,26,49,,,,7,39,75,36,47.75,82.25,15.75,rain,0
+12/14/2008,New York Jets,Buffalo Bills,31,27,,,,-8,41.5,58,16.5,43,48,12,None,0
+12/14/2008,Miami Dolphins,San Francisco 49ers,14,9,,,,-5.5,41,23,-18,76.75,59.5,15,None,0
+12/14/2008,Kansas City Chiefs,San Diego Chargers,21,22,,,,5.5,41,43,2,28.25,63.5,15.25,None,0
+12/14/2008,Jacksonville Jaguars,Green Bay Packers,20,16,,,,3,46,36,-10,67,67.5,7,None,0
+12/14/2008,Houston Texans,Tennessee Titans,13,12,,,,3,45,25,-20,73.75,69.5,20,None,0
+12/14/2008,Dallas Cowboys,New York Giants,20,8,,,,-3,46.5,28,-18.5,65,61.75,13.75,None,0
+12/14/2008,Cincinnati Bengals,Washington Redskins,20,13,,,,6.5,36.5,33,-3.5,56.75,46,15.25,None,0
+12/14/2008,Carolina Panthers,Denver Broncos,30,10,,,,-8,48,40,-8,44.5,55.75,4.25,None,0
+12/14/2008,Baltimore Ravens,Pittsburgh Steelers,9,13,,,,-3,34,22,-12,46.25,56.75,4.75,None,0
+12/14/2008,Arizona Cardinals,Minnesota Vikings,14,35,,,,-4.5,47,49,2,54,25,8.5,None,0
+12/15/2008,Philadelphia Eagles,Cleveland Browns,30,10,,,,-15.5,40,40,0,60.25,77.75,10.25,rain,0
+12/18/2008,Jacksonville Jaguars,Indianapolis Colts,24,31,,,,6,43.5,55,11.5,68.5,76.25,4,None,0
+12/20/2008,Dallas Cowboys,Baltimore Ravens,24,33,,,,-5.5,39,57,18,40.25,55.5,15.25,None,0
+12/21/2008,Washington Redskins,Philadelphia Eagles,10,3,,,,5.5,37.5,13,-24.5,41,23.5,12.5,None,0
+12/21/2008,Tennessee Titans,Pittsburgh Steelers,31,14,,,,3,34,45,11,31.25,33.75,11,None,0
+12/21/2008,Tampa Bay Buccaneers,San Diego Chargers,24,41,,,,-4,42.5,65,22.5,74.25,71.5,9.5,None,0
+12/21/2008,Seattle Seahawks,New York Jets,13,3,,,,3.5,41.5,16,-25.5,29.5,86.5,10.75,snow,0
+12/21/2008,Oakland Raiders,Houston Texans,27,16,,,,7,43.5,43,-0.5,48.5,82.25,7.5,rain,0
+12/21/2008,New York Giants,Carolina Panthers,34,28,Y,,,-4,38,62,24,31,39.5,15.5,None,0
+12/21/2008,New England Patriots,Arizona Cardinals,47,7,,,,-8,41.5,54,12.5,33,95,8,snow,0
+12/21/2008,Kansas City Chiefs,Miami Dolphins,31,38,,,,3,37,69,32,11.5,44.25,18.75,None,0
+12/21/2008,Denver Broncos,Buffalo Bills,23,30,,,,-6.5,46.5,53,6.5,15,55.5,6.25,None,0
+12/21/2008,Cleveland Browns,Cincinnati Bengals,0,14,,,,-2.5,31,14,-17,15.5,57.75,28.25,None,0
+12/22/2008,Chicago Bears,Green Bay Packers,20,17,Y,,,-4,41,37,-4,5.5,82,4,None,0
+12/28/2008,Tampa Bay Buccaneers,Oakland Raiders,24,31,,,,-11,39.5,55,15.5,78.5,51,5.75,None,0
+12/28/2008,San Francisco 49ers,Washington Redskins,27,24,,,,-2.5,37,51,14,54,74.25,0.75,None,0
+12/28/2008,San Diego Chargers,Denver Broncos,52,21,,,,-7,50.5,73,22.5,53.5,59.75,4.5,None,0
+12/28/2008,Pittsburgh Steelers,Cleveland Browns,31,0,,,,-11.5,33.5,31,-2.5,45,49.5,20.25,None,0
+12/28/2008,Philadelphia Eagles,Dallas Cowboys,44,6,,,,-2,41,50,9,61.75,47.5,14.25,None,0
+12/28/2008,New York Jets,Miami Dolphins,17,24,,,,-2.5,43,41,-2,60.75,45.25,15.75,None,0
+12/28/2008,Houston Texans,Chicago Bears,31,24,,,,-3,46.5,55,8.5,50,61.25,9.5,None,0
+12/28/2008,Green Bay Packers,Detroit Lions,31,21,,,,-11,41.5,52,10.5,23.25,68.75,10,None,0
+12/28/2008,Cincinnati Bengals,Kansas City Chiefs,16,6,,,,-1.5,40,22,-18,45.25,48.5,11.75,None,0
+12/28/2008,Buffalo Bills,New England Patriots,0,13,,,,5.5,34.5,13,-21.5,34.75,70.75,37.5,None,0
+12/28/2008,Baltimore Ravens,Jacksonville Jaguars,27,7,,,,-11,37.5,34,-3.5,60.25,30.75,16,None,0
+1/3/2009,San Diego Chargers,Indianapolis Colts,23,17,Y,Y,,2,49.5,40,-9.5,54.25,75,5,None,0
+1/4/2009,Miami Dolphins,Baltimore Ravens,9,27,,Y,,3.5,38,36,-2,79,62.75,12.5,None,0
+1/10/2009,Tennessee Titans,Baltimore Ravens,10,13,,Y,,-3,34,23,-11,41.25,90.75,11,rain,0
+1/10/2009,Carolina Panthers,Arizona Cardinals,13,33,,Y,,-10,49.5,46,-3.5,51,70.5,4.5,None,0
+1/11/2009,Pittsburgh Steelers,San Diego Chargers,35,24,,Y,,-6.5,38,59,21,21.5,88,6.75,None,0
+1/11/2009,New York Giants,Philadelphia Eagles,11,23,,Y,,-4,39,34,-5,31.25,60.25,10.25,None,0
+1/18/2009,Pittsburgh Steelers,Baltimore Ravens,23,14,,Y,,-6,35,37,2,21.5,78.25,6,snow,0
+9/10/2009,Pittsburgh Steelers,Tennessee Titans,13,10,Y,,,-6.5,36,23,-13,59.5,69.25,6,None,0
+9/13/2009,Tampa Bay Buccaneers,Dallas Cowboys,21,34,,,,5.5,40,55,15,86.75,72,9.25,None,0
+9/13/2009,Seattle Seahawks,St. Louis Rams,28,0,,,,-7.5,41,28,-13,78.5,48.75,6.5,None,0
+9/13/2009,New York Giants,Washington Redskins,23,17,,,,-6.5,37,40,3,78.5,45.5,9,None,0
+9/13/2009,Indianapolis Colts,Jacksonville Jaguars,14,12,,,,-6.5,45.5,26,-19.5,77.5,33.75,9.25,None,0
+9/13/2009,Houston Texans,New York Jets,7,24,,,,-4.5,44.5,31,-13.5,85.5,62,7.5,None,0
+9/13/2009,Green Bay Packers,Chicago Bears,21,15,,,,-4.5,47,36,-11,68,80.5,5.5,None,0
+9/13/2009,Cleveland Browns,Minnesota Vikings,20,34,,,,4,40,54,14,71.5,61.75,9,None,0
+9/13/2009,Cincinnati Bengals,Denver Broncos,7,12,,,,-4.5,41,19,-22,76.25,39.5,4.25,None,0
+9/13/2009,Carolina Panthers,Philadelphia Eagles,10,38,,,,2.5,43.5,48,4.5,81.5,45,3.25,None,0
+9/13/2009,Baltimore Ravens,Kansas City Chiefs,38,24,,,,-13,36.5,62,25.5,77.75,53.25,9.5,None,0
+9/14/2009,Oakland Raiders,San Diego Chargers,20,24,,,,10.5,43,44,1,63,81.75,10.5,None,0
+9/14/2009,New England Patriots,Buffalo Bills,25,24,,,,-13,47.5,49,1.5,62.25,74.75,0.75,None,0
+9/20/2009,Washington Redskins,St. Louis Rams,9,7,,,,-9.5,37,16,-21,75,44.25,4.25,None,0
+9/20/2009,Tennessee Titans,Houston Texans,31,34,,,,-7,41,65,24,79.75,76,13.75,None,0
+9/20/2009,San Francisco 49ers,Seattle Seahawks,23,10,,,,-1,39.5,33,-6.5,73.25,61.25,10.5,None,0
+9/20/2009,San Diego Chargers,Baltimore Ravens,26,31,,,,-1,41,57,16,83.5,44.75,8.75,None,0
+9/20/2009,Philadelphia Eagles,New Orleans Saints,22,48,,,,3,46,70,24,72,39,3.75,None,0
+9/20/2009,New York Jets,New England Patriots,16,9,,,,3.5,45,25,-20,73,37.25,5.5,None,0
+9/20/2009,Kansas City Chiefs,Oakland Raiders,10,13,,,,-2.5,39.5,23,-16.5,74,66.25,1.5,None,0
+9/20/2009,Jacksonville Jaguars,Arizona Cardinals,17,31,,,,-3,44,48,4,87.5,62.75,12.25,None,0
+9/20/2009,Green Bay Packers,Cincinnati Bengals,24,31,,,,-7.5,42,55,13,71.25,46.25,9.5,None,0
+9/20/2009,Denver Broncos,Cleveland Browns,27,6,,,,-3,38.5,33,-5.5,75.25,19.5,21.5,None,0
+9/20/2009,Dallas Cowboys,New York Giants,31,33,,,,-3,45,64,19,82.5,56.75,5.25,None,0
+9/20/2009,Chicago Bears,Pittsburgh Steelers,17,14,,,,3,38.5,31,-7.5,67.5,74.5,12,rain,0
+9/20/2009,Buffalo Bills,Tampa Bay Buccaneers,33,20,,,,-4,42,53,11,73.75,38,5,None,0
+9/21/2009,Miami Dolphins,Indianapolis Colts,23,27,,,,3,41.5,50,8.5,82,76.25,5,None,0
+9/27/2009,Tampa Bay Buccaneers,New York Giants,0,24,,,,6.5,46,24,-22,85.75,74.5,10.5,None,0
+9/27/2009,Seattle Seahawks,Chicago Bears,19,25,,,,3,37.5,44,6.5,63.25,53,9.5,None,0
+9/27/2009,San Diego Chargers,Miami Dolphins,23,13,,,,-5,45,36,-9,80.75,56,6.75,None,0
+9/27/2009,Philadelphia Eagles,Kansas City Chiefs,34,14,,,,-7.5,38.5,48,9.5,71.75,81.5,7.25,None,0
+9/27/2009,Oakland Raiders,Denver Broncos,3,23,,,,2.5,38,26,-12,81,42.5,9.5,None,0
+9/27/2009,New York Jets,Tennessee Titans,24,17,,,,-1,36,41,5,67.25,90,5.25,rain,0
+9/27/2009,New England Patriots,Atlanta Falcons,26,10,,,,-4.5,45.5,36,-9.5,64.5,91.75,9,rain,0
+9/27/2009,Houston Texans,Jacksonville Jaguars,24,31,,,,-4,47,55,8,88.75,57,8,None,0
+9/27/2009,Cincinnati Bengals,Pittsburgh Steelers,23,20,,,,3.5,36.5,43,6.5,67,66.75,9.75,None,0
+9/27/2009,Buffalo Bills,New Orleans Saints,7,27,,,,6,51,34,-17,64.5,78,14.75,None,0
+9/27/2009,Baltimore Ravens,Cleveland Browns,34,3,,,,-13.5,39,37,-2,73,71,8.25,None,0
+10/4/2009,Washington Redskins,Tampa Bay Buccaneers,16,13,,,,-9,36,29,-7,71.5,34,10,None,0
+10/4/2009,San Francisco 49ers,St. Louis Rams,35,0,,,,-9.5,37,35,-2,60.5,50.5,17.75,None,0
+10/4/2009,Pittsburgh Steelers,San Diego Chargers,38,28,,,,-5.5,43.5,66,22.5,51.75,67.5,7.5,None,0
+10/4/2009,New England Patriots,Baltimore Ravens,27,21,,,,-2,45.5,48,2.5,67,69,4.25,None,0
+10/4/2009,Miami Dolphins,Buffalo Bills,38,10,,,,-1,37,48,11,86.25,61.5,11.5,None,0
+10/4/2009,Kansas City Chiefs,New York Giants,16,27,,,,9,43,43,0,61.75,42.75,5.25,None,0
+10/4/2009,Jacksonville Jaguars,Tennessee Titans,37,17,,,,3,42,54,12,83.5,61.5,7.75,None,0
+10/4/2009,Indianapolis Colts,Seattle Seahawks,34,17,,,,-10,43.5,51,7.5,59.75,47.25,10,None,0
+10/4/2009,Houston Texans,Oakland Raiders,29,6,,,,-8.5,42.5,35,-7.5,78.5,85.75,14.75,rain,0
+10/4/2009,Denver Broncos,Dallas Cowboys,17,10,,,,2.5,43.5,27,-16.5,51.5,58.5,13.25,None,0
+10/4/2009,Cleveland Browns,Cincinnati Bengals,20,23,Y,,,6.5,37.5,43,5.5,57.5,58.75,14,None,0
+10/4/2009,Chicago Bears,Detroit Lions,48,24,,,,-10,43,72,29,58,55.75,15,None,0
+10/11/2009,Tennessee Titans,Indianapolis Colts,9,31,,,,4,44.5,40,-4.5,54.5,80.75,3.25,None,0
+10/11/2009,Seattle Seahawks,Jacksonville Jaguars,41,0,,,,-1.5,44,41,-3,55.75,25,5.25,None,0
+10/11/2009,San Francisco 49ers,Atlanta Falcons,10,45,,,,-1,39.5,55,15.5,60.5,63.25,11.5,None,0
+10/11/2009,Philadelphia Eagles,Tampa Bay Buccaneers,33,14,,,,-15.5,42,47,5,64.25,39.75,10,None,0
+10/11/2009,New York Giants,Oakland Raiders,44,7,,,,-15.5,38,51,13,63.5,38.75,13,None,0
+10/11/2009,Kansas City Chiefs,Dallas Cowboys,20,26,Y,,,7,43.5,46,2.5,41,54.25,11.5,None,0
+10/11/2009,Denver Broncos,New England Patriots,20,17,Y,,,3,41.5,37,-4.5,29,79.5,3,None,1
+10/11/2009,Carolina Panthers,Washington Redskins,20,17,,,,-5,38,37,-1,66.25,61,4,None,0
+10/11/2009,Buffalo Bills,Cleveland Browns,3,6,,,,-5.5,42,9,-33,47,48.5,15.25,None,0
+10/11/2009,Baltimore Ravens,Cincinnati Bengals,14,17,,,,-9,42.5,31,-11.5,65,43.5,8,None,0
+10/12/2009,Miami Dolphins,New York Jets,31,27,,,,3,36.5,58,21.5,81.75,71.5,4.75,None,0
+10/18/2009,Washington Redskins,Kansas City Chiefs,6,14,,,,-6,36.5,20,-16.5,52.5,65.25,11.25,None,0
+10/18/2009,Tampa Bay Buccaneers,Carolina Panthers,21,28,,,,3,40.5,49,8.5,65,44.75,15.75,None,0
+10/18/2009,Seattle Seahawks,Arizona Cardinals,3,27,,,,-3,45.5,30,-15.5,61.75,65,4.75,None,0
+10/18/2009,Pittsburgh Steelers,Cleveland Browns,27,14,,,,-14,38,41,3,45.75,56.5,7.25,None,0
+10/18/2009,Oakland Raiders,Philadelphia Eagles,13,9,,,,14.5,40.5,22,-18.5,62,75,14.75,None,0
+10/18/2009,New York Jets,Buffalo Bills,13,16,Y,,,-9.5,35.5,29,-6.5,43.75,71,12,rain,0
+10/18/2009,New England Patriots,Tennessee Titans,59,0,,,,-9,38.5,59,20.5,33.5,100,8,snow,0
+10/18/2009,Jacksonville Jaguars,St. Louis Rams,23,20,Y,,,-9.5,42.5,43,0.5,62.25,39.25,13.75,None,0
+10/18/2009,Green Bay Packers,Detroit Lions,26,0,,,,-14,48,26,-22,48.75,60.5,14.25,None,0
+10/18/2009,Cincinnati Bengals,Houston Texans,17,28,,,,-4,46,45,-1,52.5,37,4.75,None,0
+10/19/2009,San Diego Chargers,Denver Broncos,23,34,,,,-3.5,45,57,12,64.5,76,7.75,None,0
+10/25/2009,Tampa Bay Buccaneers,New England Patriots,7,35,,,Y,15.5,44.5,42,-2.5,56.5,67,12.25,None,0
+10/25/2009,Pittsburgh Steelers,Minnesota Vikings,27,17,,,,-6,46.5,44,-2.5,55.25,45.25,1.75,None,0
+10/25/2009,Oakland Raiders,New York Jets,0,38,,,,6,34,38,4,72.75,50.25,8.5,None,0
+10/25/2009,New York Giants,Arizona Cardinals,17,24,,,,-8,47,41,-6,52.5,53,1.5,None,0
+10/25/2009,Miami Dolphins,New Orleans Saints,34,46,,,,6.5,48,80,32,86,56.5,7.25,None,0
+10/25/2009,Kansas City Chiefs,San Diego Chargers,7,37,,,,5.5,44,44,0,59.25,69,7,None,0
+10/25/2009,Cleveland Browns,Green Bay Packers,3,31,,,,9,41.5,34,-7.5,57.25,49.25,6,None,0
+10/25/2009,Cincinnati Bengals,Chicago Bears,45,10,,,,1.5,42.5,55,12.5,58.75,49.25,3.25,None,0
+10/25/2009,Carolina Panthers,Buffalo Bills,9,20,,,,-7,37,29,-8,58,59.5,6.5,None,0
+10/26/2009,Washington Redskins,Philadelphia Eagles,17,27,,,,8.5,38,44,6,54.75,83.75,0.75,None,0
+11/1/2009,Tennessee Titans,Jacksonville Jaguars,30,13,,,,-3,44.5,43,-1.5,55.75,46.75,7.25,None,0
+11/1/2009,San Diego Chargers,Oakland Raiders,24,16,,,,-16,41.5,40,-1.5,77.5,27.75,7.5,None,0
+11/1/2009,Philadelphia Eagles,New York Giants,40,17,,,,2.5,44,57,13,53.75,60.25,9,None,0
+11/1/2009,New York Jets,Miami Dolphins,25,30,,,,-3.5,40.5,55,14.5,55.75,43.75,5.5,None,0
+11/1/2009,Indianapolis Colts,San Francisco 49ers,18,14,,,,-13,45,32,-13,52,41.75,0.75,None,0
+11/1/2009,Green Bay Packers,Minnesota Vikings,26,38,,,,-3.5,47.5,64,16.5,46.25,62.5,8.5,None,0
+11/1/2009,Chicago Bears,Cleveland Browns,30,6,,,,-12,40,36,-4,50.5,48.5,7.5,None,0
+11/1/2009,Buffalo Bills,Houston Texans,10,31,,,,3.5,41.5,41,-0.5,48.75,50.5,5.5,None,0
+11/1/2009,Baltimore Ravens,Denver Broncos,30,7,,,,-4.5,42.5,37,-5.5,51.75,75.25,4.25,None,0
+11/8/2009,Tampa Bay Buccaneers,Green Bay Packers,38,28,,,,10,43,66,23,82,47.25,9,None,0
+11/8/2009,Seattle Seahawks,Detroit Lions,32,20,,,,-11,42,52,10,51.25,72.75,10,None,0
+11/8/2009,San Francisco 49ers,Tennessee Titans,27,34,,,,-4.5,40.5,61,20.5,63.5,49.5,3.75,None,0
+11/8/2009,Philadelphia Eagles,Dallas Cowboys,16,20,,,,-3,49.5,36,-13.5,51.5,85.25,0,None,0
+11/8/2009,New York Giants,San Diego Chargers,20,21,,,,-5,48.5,41,-7.5,63.25,47.5,0.75,None,0
+11/8/2009,New England Patriots,Miami Dolphins,27,17,,,,-11,47,44,-3,66.5,29,6.25,None,0
+11/8/2009,Jacksonville Jaguars,Kansas City Chiefs,24,21,,,,-7,41.5,45,3.5,77.75,52.25,15.5,None,0
+11/8/2009,Cincinnati Bengals,Baltimore Ravens,17,7,,,,3,45,24,-21,70.5,44.75,8.75,None,0
+11/8/2009,Chicago Bears,Arizona Cardinals,21,41,,,,-2,45,62,17,68.25,59,11.25,None,0
+11/9/2009,Denver Broncos,Pittsburgh Steelers,10,28,,,,3,41.5,38,-3.5,43.75,51.75,4.75,None,0
+11/12/2009,San Francisco 49ers,Chicago Bears,10,6,,,,-3,43,16,-27,54.75,69.75,17,None,0
+11/15/2009,Washington Redskins,Denver Broncos,27,17,,,,3.5,36.5,44,7.5,72.75,47,6.25,None,0
+11/15/2009,Tennessee Titans,Buffalo Bills,41,17,,,,-7.5,41,58,17,70,54,4.75,None,0
+11/15/2009,San Diego Chargers,Philadelphia Eagles,31,23,,,,-1,47,54,7,69.25,45.75,10,None,0
+11/15/2009,Pittsburgh Steelers,Cincinnati Bengals,12,18,,,,-7,41.5,30,-11.5,64.75,61.5,4.5,None,0
+11/15/2009,Oakland Raiders,Kansas City Chiefs,10,16,,,,-2.5,36.5,26,-10.5,60.5,45.25,4.5,None,0
+11/15/2009,New York Jets,Jacksonville Jaguars,22,24,,,,-6.5,41,46,5,66,69,5.75,None,0
+11/15/2009,Miami Dolphins,Tampa Bay Buccaneers,25,23,,,,-10,42.5,48,5.5,80,45,9.25,None,0
+11/15/2009,Green Bay Packers,Dallas Cowboys,17,7,,,,3,48,24,-24,43,56,2.25,None,0
+11/15/2009,Carolina Panthers,Atlanta Falcons,28,19,,,,1.5,44,47,3,75.5,42,3,None,0
+11/16/2009,Cleveland Browns,Baltimore Ravens,0,16,,,,11,39.5,16,-23.5,46.5,62.25,14.75,None,0
+11/19/2009,Carolina Panthers,Miami Dolphins,17,24,,,,-3.5,42,41,-1,52.75,97,0,None,0
+11/22/2009,Tampa Bay Buccaneers,New Orleans Saints,7,38,,,,10.5,51,45,-6,78,74,11,None,0
+11/22/2009,Oakland Raiders,Cincinnati Bengals,20,17,,,,8.5,36,37,1,55.75,77,6.75,None,0
+11/22/2009,New York Giants,Atlanta Falcons,34,31,Y,,,-7,46.5,65,18.5,54.5,52.25,7.25,None,0
+11/22/2009,New England Patriots,New York Jets,31,14,,,,-11,45.5,45,-0.5,45.5,63.25,7.5,None,0
+11/22/2009,Kansas City Chiefs,Pittsburgh Steelers,27,24,,,,11.5,39.5,51,11.5,57.25,57.5,5,None,0
+11/22/2009,Jacksonville Jaguars,Buffalo Bills,18,15,,,,-8.5,41,33,-8,72.75,85.25,9.25,None,0
+11/22/2009,Green Bay Packers,San Francisco 49ers,30,24,,,,-6,41.5,54,12.5,55,71.75,10.75,None,1
+11/22/2009,Denver Broncos,San Diego Chargers,3,32,,,,6,41.5,35,-6.5,45.25,41.75,7.75,None,0
+11/22/2009,Chicago Bears,Philadelphia Eagles,20,24,,,,3.5,47,44,-3,48,80.75,6.5,None,0
+11/22/2009,Baltimore Ravens,Indianapolis Colts,15,17,,,,1.5,44.5,32,-12.5,54.25,60.75,8.25,None,0
+11/23/2009,Houston Texans,Tennessee Titans,17,20,,,,-3.5,48,37,-11,62,93.25,5,None,0
+11/26/2009,Denver Broncos,New York Giants,26,6,,,,4.5,43.5,32,-11.5,51.5,15.75,6,None,0
+11/26/2009,Dallas Cowboys,Oakland Raiders,24,7,,,,-13.5,40.5,31,-9.5,62.33333333,25.66666667,0,None,0
+11/29/2009,Tennessee Titans,Arizona Cardinals,20,17,,,,-3.5,44.5,37,-7.5,58,60.75,10,None,0
+11/29/2009,San Francisco 49ers,Jacksonville Jaguars,20,3,,,,-3,42,23,-19,67.75,21,3.5,None,0
+11/29/2009,San Diego Chargers,Kansas City Chiefs,43,14,,,,-13.5,45,57,12,63.75,53.75,8.5,None,0
+11/29/2009,Philadelphia Eagles,Washington Redskins,27,24,,,,-10,40.5,51,10.5,60,43.5,8.75,None,0
+11/29/2009,New York Jets,Carolina Panthers,17,6,,,,-3.5,41.5,23,-18.5,57.25,38.5,8.5,None,0
+11/29/2009,Houston Texans,Indianapolis Colts,27,35,,,,3,48,62,14,74.5,68.75,11,None,0
+11/29/2009,Cincinnati Bengals,Cleveland Browns,16,7,,,,-12.5,39.5,23,-16.5,59,52.5,13.75,None,0
+11/29/2009,Buffalo Bills,Miami Dolphins,31,14,,,,3.5,38.5,45,6.5,49.5,68.5,10.5,None,0
+11/29/2009,Baltimore Ravens,Pittsburgh Steelers,20,17,Y,,,-7.5,35,37,2,56.75,52,6.5,None,0
+12/6/2009,Washington Redskins,New Orleans Saints,30,33,Y,,,9,47,63,16,37,61.5,4.75,None,0
+12/6/2009,Seattle Seahawks,San Francisco 49ers,20,17,,,,1,41.5,37,-4.5,34.25,45.75,9.5,None,0
+12/6/2009,Pittsburgh Steelers,Oakland Raiders,24,27,,,,-15,37,51,14,28.5,61,6.5,None,0
+12/6/2009,New York Giants,Dallas Cowboys,31,24,,,,1.5,45.5,55,9.5,36,51,4.5,None,0
+12/6/2009,Miami Dolphins,New England Patriots,22,21,,,,5.5,46,43,-3,78,72,14.25,None,0
+12/6/2009,Kansas City Chiefs,Denver Broncos,13,44,,,,6,39,57,18,40,42.5,9,None,0
+12/6/2009,Jacksonville Jaguars,Houston Texans,23,18,,,,1.5,47.5,41,-6.5,58.25,74.75,15,None,0
+12/6/2009,Cleveland Browns,San Diego Chargers,23,30,,,,14,42.5,53,10.5,35.75,47.5,8.25,None,0
+12/6/2009,Cincinnati Bengals,Detroit Lions,23,13,,,,-13.5,42,36,-6,35.75,47.25,5.75,None,0
+12/6/2009,Chicago Bears,St. Louis Rams,17,9,,,,-9,41,26,-15,35.25,55,10,None,0
+12/6/2009,Carolina Panthers,Tampa Bay Buccaneers,16,6,,,,-4,40,22,-18,42,52,1.5,None,0
+12/7/2009,Green Bay Packers,Baltimore Ravens,27,14,,,,-3.5,43,41,-2,19.75,78,4.75,None,0
+12/10/2009,Cleveland Browns,Pittsburgh Steelers,13,6,,,,9.5,34,19,-15,15.5,57,27,None,0
+12/13/2009,Tennessee Titans,St. Louis Rams,47,7,,,,-14,40,54,14,53,85.25,2.75,None,0
+12/13/2009,Tampa Bay Buccaneers,New York Jets,3,26,,,,3.5,36.5,29,-7.5,78.5,79.25,5.5,None,0
+12/13/2009,Oakland Raiders,Washington Redskins,13,34,,,,2,37.5,47,9.5,51.5,93,6.75,rain,0
+12/13/2009,New York Giants,Philadelphia Eagles,38,45,,,,1,43,83,40,41,87.5,1.5,None,0
+12/13/2009,New England Patriots,Carolina Panthers,20,10,,,,-12.5,43.5,30,-13.5,40.25,69.5,2,rain,0
+12/13/2009,Kansas City Chiefs,Buffalo Bills,10,16,,,,2.5,38,26,-12,44.75,74.5,8.5,None,0
+12/13/2009,Jacksonville Jaguars,Miami Dolphins,10,14,,,,-2,43,24,-19,77.5,71.5,12.5,None,0
+12/13/2009,Houston Texans,Seattle Seahawks,34,7,,,,-7,44.5,41,-3.5,53,91.25,2.75,None,0
+12/13/2009,Dallas Cowboys,San Diego Chargers,17,20,,,,-3.5,49,37,-12,65.33333333,62.33333333,8.333333333,None,0
+12/13/2009,Chicago Bears,Green Bay Packers,14,21,,,,4,41.5,35,-6.5,36.75,82,6,None,0
+12/13/2009,Baltimore Ravens,Detroit Lions,48,3,,,,-14,40,51,11,37.5,99,4.25,rain,0
+12/14/2009,San Francisco 49ers,Arizona Cardinals,24,9,,,,4,45,33,-12,51.75,83,0,None,0
+12/17/2009,Jacksonville Jaguars,Indianapolis Colts,31,35,,,,3,43,66,23,61.75,82.5,11,None,0
+12/20/2009,Tennessee Titans,Miami Dolphins,27,24,Y,,,-5,43,51,8,35.75,69.25,4,None,0
+12/20/2009,Seattle Seahawks,Tampa Bay Buccaneers,7,24,,,,-6.5,39,31,-8,56.25,78.5,9.25,None,0
+12/20/2009,San Diego Chargers,Cincinnati Bengals,27,24,,,,-7,44,51,7,70,30.5,4.5,None,0
+12/20/2009,Pittsburgh Steelers,Green Bay Packers,37,36,,,,-3,42,73,31,27.5,69.25,8.25,None,0
+12/20/2009,Philadelphia Eagles,San Francisco 49ers,27,13,,,,-7.5,41,40,-1,32.75,51.25,11.5,None,0
+12/20/2009,New York Jets,Atlanta Falcons,7,10,,,,-5.5,36,17,-19,33,33,16,None,0
+12/20/2009,Kansas City Chiefs,Cleveland Browns,34,41,,,,-2.5,38.5,75,36.5,44.5,52.5,11.25,None,0
+12/20/2009,Denver Broncos,Oakland Raiders,19,20,,,,-14,37,39,2,49,36,11.25,None,0
+12/20/2009,Carolina Panthers,Minnesota Vikings,26,7,,,,8.5,42.5,33,-9.5,31.25,76.5,4.25,None,0
+12/20/2009,Buffalo Bills,New England Patriots,10,17,,,,7,41,27,-14,30.25,45.25,7.75,None,0
+12/20/2009,Baltimore Ravens,Chicago Bears,31,7,,,,-11,39.5,38,-1.5,31.5,52.5,12.5,None,0
+12/21/2009,Washington Redskins,New York Giants,12,45,,,,3,44,57,13,28.25,96.25,0,None,0
+12/25/2009,Tennessee Titans,San Diego Chargers,17,42,,,,-1.5,47.5,59,11.5,32.25,71.25,12.75,None,0
+12/27/2009,Washington Redskins,Dallas Cowboys,0,17,,,,7,42,17,-25,36.5,78.75,7.75,None,0
+12/27/2009,San Francisco 49ers,Detroit Lions,20,6,,,,-14,41,26,-15,53.75,83.75,7.5,None,1
+12/27/2009,Pittsburgh Steelers,Baltimore Ravens,23,20,,,,-3,43,43,0,41.75,44.25,10.5,None,0
+12/27/2009,Philadelphia Eagles,Denver Broncos,30,27,,,,-7,43.5,57,13.5,44,47,7.25,None,0
+12/27/2009,New York Giants,Carolina Panthers,9,41,,,,-8.5,42.5,50,7.5,50.25,38,11.5,None,0
+12/27/2009,New England Patriots,Jacksonville Jaguars,35,7,,,,-9.5,44,42,-2,59.25,67.75,9,None,0
+12/27/2009,Miami Dolphins,Houston Texans,20,27,,,,-1.5,46.5,47,0.5,77,55,3.75,None,0
+12/27/2009,Green Bay Packers,Seattle Seahawks,48,10,,,,-13.5,43.5,58,14.5,21.5,87,4.5,None,0
+12/27/2009,Cleveland Browns,Oakland Raiders,23,9,,,,-3,37,32,-5,32,79,6,None,0
+12/27/2009,Cincinnati Bengals,Kansas City Chiefs,17,10,,,,-13.5,39.5,27,-12.5,39.75,51,18,None,0
+12/27/2009,Arizona Cardinals,St. Louis Rams,31,10,,,,-16.5,43.5,41,-2.5,59,20.5,1.5,None,0
+12/28/2009,Chicago Bears,Minnesota Vikings,36,30,Y,,,8.5,41.5,66,24.5,21.75,60,12,None,0
+1/3/2010,Tampa Bay Buccaneers,Atlanta Falcons,10,20,,,,3,42,30,-12,44.25,37,10,None,0
+1/3/2010,Seattle Seahawks,Tennessee Titans,13,17,,,,6,45,30,-15,49,76.25,2.5,None,0
+1/3/2010,San Diego Chargers,Washington Redskins,23,20,,,,-3,39,43,4,73.25,16.5,8,None,0
+1/3/2010,Oakland Raiders,Baltimore Ravens,13,21,,,,10,39,34,-5,54.25,76.25,3.5,None,0
+1/3/2010,New York Jets,Cincinnati Bengals,37,0,,,,-10,33.5,37,3.5,20,54.5,18,None,0
+1/3/2010,Miami Dolphins,Pittsburgh Steelers,24,30,,,,3,45.5,54,8.5,60.25,36.5,12.5,None,0
+1/3/2010,Houston Texans,New England Patriots,34,27,,,,-8,46.5,61,14.5,46.5,72,8.75,None,0
+1/3/2010,Denver Broncos,Kansas City Chiefs,24,44,,,,-9,38,68,30,34.5,69.75,5,None,0
+1/3/2010,Cleveland Browns,Jacksonville Jaguars,23,17,,,,-2,35,40,5,19.5,77,23.5,snow,0
+1/3/2010,Carolina Panthers,New Orleans Saints,23,10,,,,-10,41,33,-8,32.75,23.75,9.5,None,0
+1/3/2010,Buffalo Bills,Indianapolis Colts,30,7,,,,-8,32,37,5,14,82,11.75,snow,0
+1/9/2010,Cincinnati Bengals,New York Jets,14,24,,Y,,-2.5,34.5,38,3.5,18.25,64.25,5,None,0
+1/10/2010,New England Patriots,Baltimore Ravens,14,33,,Y,,-3.5,44,47,3,26.5,22.5,8.75,None,0
+1/17/2010,San Diego Chargers,New York Jets,14,17,,Y,,-8.5,43.5,31,-12.5,58.75,72.75,3,None,0
+2/7/2010,Indianapolis Colts,New Orleans Saints,17,31,,Y,Y,-4.5,57,48,-9,55.25,64,3.5,None,0
+9/12/2010,Washington Redskins,Dallas Cowboys,13,7,,,,3.5,40,20,-20,63.25,100,0,None,0
+9/12/2010,Tennessee Titans,Oakland Raiders,38,13,,,,-6.5,39.5,51,11.5,80.5,33.5,10.75,None,0
+9/12/2010,Tampa Bay Buccaneers,Cleveland Browns,17,14,,,,-3,37,31,-6,86.5,69.5,6.5,rain,0
+9/12/2010,Pittsburgh Steelers,Atlanta Falcons,15,9,Y,,,1,39,24,-15,69.25,58,7.25,None,0
+9/12/2010,Philadelphia Eagles,Green Bay Packers,20,27,,,,3,48,47,-1,66.25,74,2.75,None,0
+9/12/2010,New York Giants,Carolina Panthers,31,18,,,,-5.5,40.5,49,8.5,63.75,74,6.5,rain,0
+9/12/2010,Jacksonville Jaguars,Denver Broncos,24,17,,,,-3,41.5,41,-0.5,86,67.5,13.5,rain,0
+9/12/2010,Houston Texans,Indianapolis Colts,34,24,,,,1.5,48,58,10,91,57.5,5.25,None,0
+9/12/2010,Chicago Bears,Detroit Lions,19,14,,,,-6.5,44.5,33,-11.5,78.75,34,11.75,None,0
+9/12/2010,Buffalo Bills,Miami Dolphins,10,15,,,,3,39,25,-14,65,71.5,11,None,0
+9/13/2010,New York Jets,Baltimore Ravens,9,10,,,,-1,36,19,-17,64,86.25,3,None,0
+9/13/2010,Kansas City Chiefs,San Diego Chargers,21,14,,,,4,45.5,35,-10.5,70.25,83.5,14.5,rain,0
+9/19/2010,Washington Redskins,Houston Texans,27,30,Y,,,2.5,43,57,14,83.25,42.25,2,None,0
+9/19/2010,Tennessee Titans,Pittsburgh Steelers,11,19,,,,-6,37,30,-7,90.5,41,5,None,0
+9/19/2010,San Diego Chargers,Jacksonville Jaguars,38,13,,,,-7,45,51,6,71.75,61.25,9.25,None,0
+9/19/2010,Oakland Raiders,St. Louis Rams,16,14,,,,-3.5,37.5,30,-7.5,72,64.25,7.25,None,0
+9/19/2010,New York Jets,New England Patriots,28,14,,,,3,39.5,42,2.5,78.5,49,6.25,None,0
+9/19/2010,Indianapolis Colts,New York Giants,38,14,,,,-4.5,48,52,4,75,65.25,3.25,None,0
+9/19/2010,Green Bay Packers,Buffalo Bills,34,7,,,,-12.5,43,41,-2,59.5,53.25,4,None,0
+9/19/2010,Denver Broncos,Seattle Seahawks,31,14,,,,-3,41,45,4,91.5,2.75,6.5,None,0
+9/19/2010,Cleveland Browns,Kansas City Chiefs,14,16,,,,-3,38,30,-8,65.5,78.75,10.25,None,0
+9/19/2010,Cincinnati Bengals,Baltimore Ravens,15,10,,,,3,39.5,25,-14.5,83.25,41.75,4.25,None,0
+9/19/2010,Carolina Panthers,Tampa Bay Buccaneers,7,20,,,,-4,38,27,-11,87.5,35.5,3.75,None,0
+9/20/2010,San Francisco 49ers,New Orleans Saints,22,25,,,,4.5,44,47,3,66.75,61,19.5,None,0
+9/26/2010,Tampa Bay Buccaneers,Pittsburgh Steelers,13,38,,,,2.5,33,51,18,88.75,54.75,6.25,None,0
+9/26/2010,New York Giants,Tennessee Titans,10,29,,,,-3,43.5,39,-4.5,71,51.5,7,None,0
+9/26/2010,Miami Dolphins,New York Jets,23,31,,,,-2.5,36,54,18,82.5,75,6,None,0
+9/26/2010,Kansas City Chiefs,San Francisco 49ers,31,10,,,,3,38,41,3,61.75,59.25,9,None,0
+9/26/2010,Jacksonville Jaguars,Philadelphia Eagles,3,28,,,,2.5,45,31,-14,87.5,56.5,10.5,None,0
+9/26/2010,Houston Texans,Dallas Cowboys,13,27,,,,-2.5,47.5,40,-7.5,84,62,12,None,0
+9/26/2010,Denver Broncos,Indianapolis Colts,13,27,,,,6,47,40,-7,85,9.75,5.5,None,0
+9/26/2010,Carolina Panthers,Cincinnati Bengals,7,20,,,,3.5,37,27,-10,66,88.75,8.75,rain,0
+9/26/2010,Baltimore Ravens,Cleveland Browns,24,17,,,,-12.5,36.5,41,4.5,67.25,68.25,6.25,None,0
+9/27/2010,Chicago Bears,Green Bay Packers,20,17,,,,3,45.5,37,-8.5,55,71.75,2,None,0
+10/3/2010,Tennessee Titans,Denver Broncos,20,26,,,,-6.5,43.5,46,2.5,57.25,53,11,None,0
+10/3/2010,San Diego Chargers,Arizona Cardinals,41,10,,,,-10,47,51,4,73.75,70.5,6.75,None,0
+10/3/2010,Pittsburgh Steelers,Baltimore Ravens,14,17,,,,-2.5,34.5,31,-3.5,55.25,75,5.75,None,0
+10/3/2010,Philadelphia Eagles,Washington Redskins,12,17,,,,-5,44,29,-15,61.75,53,16.75,None,0
+10/3/2010,Oakland Raiders,Houston Texans,24,31,,,,3,43.5,55,11.5,68.25,57.5,15.25,None,0
+10/3/2010,New York Giants,Chicago Bears,17,3,,,,-3.5,44.5,20,-24.5,56.25,58.25,8.25,None,0
+10/3/2010,Jacksonville Jaguars,Indianapolis Colts,31,28,,,,7,45.5,59,13.5,79.75,39.5,10,None,0
+10/3/2010,Green Bay Packers,Detroit Lions,28,26,,,,-14.5,46,54,8,53.75,53.25,8.5,None,0
+10/3/2010,Buffalo Bills,New York Jets,14,38,,,,5.5,36.5,52,15.5,48,85.25,14.25,None,0
+10/4/2010,Miami Dolphins,New England Patriots,14,41,,,,0,48.5,55,6.5,77.75,62,9,None,0
+10/10/2010,Washington Redskins,Green Bay Packers,16,13,Y,,,3,45,29,-16,77,38,5.25,None,0
+10/10/2010,San Francisco 49ers,Philadelphia Eagles,24,27,,,,-3.5,39.5,51,11.5,65.75,67.25,17.75,None,0
+10/10/2010,Houston Texans,New York Giants,10,34,,,,-3,48.5,44,-4.5,82.25,44,8,None,0
+10/10/2010,Cincinnati Bengals,Tampa Bay Buccaneers,21,24,,,,-6.5,38,45,7,85.75,30.5,6.5,None,0
+10/10/2010,Carolina Panthers,Chicago Bears,6,23,,,,-3,33,29,-4,83.75,26.25,3,None,0
+10/10/2010,Buffalo Bills,Jacksonville Jaguars,26,36,,,,-2.5,41.5,62,20.5,66.25,40.5,10,None,0
+10/10/2010,Baltimore Ravens,Denver Broncos,31,17,,,,-8,39.5,48,8.5,73.25,42.25,6.25,None,0
+10/11/2010,New York Jets,Minnesota Vikings,29,20,,,,-4,38,49,11,63,88.5,5,rain,0
+10/17/2010,Washington Redskins,Indianapolis Colts,24,27,,,,3,44.5,51,6.5,54.25,95.75,0,None,0
+10/17/2010,Tampa Bay Buccaneers,New Orleans Saints,6,31,,,,5,43.5,37,-6.5,81.75,37.25,3.5,None,0
+10/17/2010,San Francisco 49ers,Oakland Raiders,17,9,,,,-7.5,41,26,-15,59.25,71.5,11.25,rain,0
+10/17/2010,Pittsburgh Steelers,Cleveland Browns,28,10,,,,-14,37.5,38,0.5,65.5,40.75,8,None,0
+10/17/2010,Philadelphia Eagles,Atlanta Falcons,31,17,,,,-2,43,48,5,71,34.75,15.75,None,0
+10/17/2010,New York Giants,Detroit Lions,28,20,,,,-10,45.5,48,2.5,68,37.25,11.5,None,0
+10/17/2010,Houston Texans,Kansas City Chiefs,35,31,,,,-4.5,46,66,20,80,53.75,2.75,None,0
+10/17/2010,Green Bay Packers,Miami Dolphins,20,23,Y,,,-3,44,43,-1,57.5,37.5,9.25,None,0
+10/17/2010,Denver Broncos,New York Jets,20,24,,,,3.5,43,44,1,73.75,11.5,9.25,None,0
+10/17/2010,Chicago Bears,Seattle Seahawks,20,23,,,,-6,37.5,43,5.5,62.75,36,5.25,None,0
+10/18/2010,Jacksonville Jaguars,Tennessee Titans,3,30,,,,3,43.5,33,-10.5,70.5,62.25,7.25,None,0
+10/24/2010,Tennessee Titans,Philadelphia Eagles,37,19,,,,-3,41.5,56,14.5,78.75,38.25,17.5,None,0
+10/24/2010,Tampa Bay Buccaneers,St. Louis Rams,18,17,,,,-3,39,35,-4,88,42.5,6.5,None,0
+10/24/2010,San Diego Chargers,New England Patriots,20,23,,,,-2.5,49,43,-6,69,61.25,8,None,0
+10/24/2010,Miami Dolphins,Pittsburgh Steelers,22,23,,,,3,40.5,45,4.5,83,74.5,18,None,0
+10/24/2010,Kansas City Chiefs,Jacksonville Jaguars,42,20,,,,-9,38.5,62,23.5,69.25,61.25,13.75,None,0
+10/24/2010,Green Bay Packers,Minnesota Vikings,28,24,,,,-2.5,44,52,8,58.25,90,5,None,0
+10/24/2010,Denver Broncos,Oakland Raiders,14,59,,,,-7,42.5,73,30.5,61,25,3.25,None,0
+10/24/2010,Chicago Bears,Washington Redskins,14,17,,,,-3,40,31,-9,70.5,53,14.75,None,0
+10/24/2010,Carolina Panthers,San Francisco 49ers,23,20,,,,2,35.5,43,7.5,74.75,50.75,7.5,None,0
+10/24/2010,Baltimore Ravens,Buffalo Bills,37,34,Y,,,-12.5,39.5,71,31.5,73,44,5.75,None,0
+10/25/2010,Dallas Cowboys,New York Giants,35,41,,,,-3.5,45,76,31,81.5,55.5,14.25,None,0
+10/31/2010,San Diego Chargers,Tennessee Titans,33,25,,,,-5.5,44.5,58,13.5,65.75,65.25,10,None,0
+10/31/2010,Oakland Raiders,Seattle Seahawks,33,3,,,,-2,40,36,-4,68.5,55,8,None,0
+10/31/2010,New York Jets,Green Bay Packers,0,9,,,,-6.5,41.5,9,-32.5,54.5,35,17.5,None,0
+10/31/2010,Kansas City Chiefs,Buffalo Bills,13,10,Y,,,-7,45.5,23,-22.5,56,53.5,15,None,0
+10/31/2010,Cincinnati Bengals,Miami Dolphins,14,22,,,,0,44.5,36,-8.5,56.25,48.75,10.5,None,0
+11/7/2010,Philadelphia Eagles,Indianapolis Colts,26,24,,,,-3,46.5,50,3.5,47,42.5,10.25,None,0
+11/7/2010,Oakland Raiders,Kansas City Chiefs,23,20,Y,,,1,41,43,2,63.5,73.75,11.75,rain,0
+11/7/2010,Houston Texans,San Diego Chargers,23,29,,,,3,50,52,2,67,41.25,5.25,None,0
+11/7/2010,Green Bay Packers,Dallas Cowboys,45,7,,,,-7.5,46,52,6,35.25,84.5,0,None,0
+11/7/2010,Carolina Panthers,New Orleans Saints,3,34,,,,6,40.5,37,-3.5,52.25,30,8.75,None,0
+11/7/2010,Baltimore Ravens,Miami Dolphins,26,10,,,,-5.5,41,36,-5,51.25,37.25,10.25,None,0
+11/8/2010,Cincinnati Bengals,Pittsburgh Steelers,21,27,,,,5,41,48,7,39,81.5,0,None,0
+11/14/2010,Tampa Bay Buccaneers,Carolina Panthers,31,16,,,,-7,37,47,10,74.5,45.25,7.75,None,0
+11/14/2010,San Francisco 49ers,St. Louis Rams,23,20,Y,,,-5,38.5,43,4.5,73.75,42.25,4.5,None,0
+11/14/2010,Pittsburgh Steelers,New England Patriots,26,39,,,,-4.5,45,65,20,45,85,6.5,None,0
+11/14/2010,New York Giants,Dallas Cowboys,20,33,,,,-12,46,53,7,55.25,54.25,3.25,None,0
+11/14/2010,Miami Dolphins,Tennessee Titans,29,17,,,,-1,43,46,3,79,45,9.75,None,0
+11/14/2010,Jacksonville Jaguars,Houston Texans,31,24,,,,-1,48.5,55,6.5,73.25,25.75,5.5,None,0
+11/14/2010,Denver Broncos,Kansas City Chiefs,49,29,,,,1,44.5,78,33.5,40.5,46.75,1.5,None,0
+11/14/2010,Cleveland Browns,New York Jets,20,26,Y,,,3,37,46,9,46.75,65.5,14.25,None,0
+11/14/2010,Chicago Bears,Minnesota Vikings,27,13,,,,1,40.5,40,-0.5,45.75,50.75,15.75,None,0
+11/14/2010,Buffalo Bills,Detroit Lions,14,12,,,,-1.5,45,26,-19,52.25,73.25,13.5,rain,0
+11/15/2010,Washington Redskins,Philadelphia Eagles,28,59,,,,3,44,87,43,50.5,93,0.75,None,0
+11/18/2010,Miami Dolphins,Chicago Bears,0,16,,,,-2.5,40,16,-24,72.75,71.5,11.25,None,0
+11/21/2010,Tennessee Titans,Washington Redskins,16,19,Y,,,-7,44,35,-9,69.5,48.5,12.25,None,0
+11/21/2010,San Francisco 49ers,Tampa Bay Buccaneers,0,21,,,,-3.5,41.5,21,-20.5,53.5,61.25,20.25,None,0
+11/21/2010,Pittsburgh Steelers,Oakland Raiders,35,3,,,,-7,41,38,-3,61,48.5,11.75,None,0
+11/21/2010,Philadelphia Eagles,New York Giants,27,17,,,,-3.5,47.5,44,-3.5,44.75,72.5,3.5,None,0
+11/21/2010,New York Jets,Houston Texans,30,27,,,,-6.5,46,57,11,46.75,38,3.25,None,0
+11/21/2010,Kansas City Chiefs,Arizona Cardinals,31,13,,,,-7,45,44,-1,71.5,51,17.5,None,0
+11/21/2010,Jacksonville Jaguars,Cleveland Browns,24,20,,,,-2.5,43,44,1,75.25,52.25,9.5,None,0
+11/21/2010,Cincinnati Bengals,Buffalo Bills,31,49,,,,-4.5,41,80,39,67.5,40.75,16.5,None,0
+11/21/2010,Carolina Panthers,Baltimore Ravens,13,37,,,,13,37,50,13,68,39,3.5,None,0
+11/22/2010,San Diego Chargers,Denver Broncos,35,14,,,,-9,50,49,-1,52,77.25,0,None,0
+11/25/2010,New York Jets,Cincinnati Bengals,26,10,,,,-10,43.5,36,-7.5,41.5,82.25,4.75,None,0
+11/28/2010,Washington Redskins,Minnesota Vikings,13,17,,,,2,43.5,30,-13.5,49.5,33.75,2,None,0
+11/28/2010,Oakland Raiders,Miami Dolphins,17,33,,,,-3,38,50,12,52.25,52.5,7.25,None,0
+11/28/2010,New York Giants,Jacksonville Jaguars,24,20,,,,-7.5,43.5,44,0.5,46.25,39,5,None,0
+11/28/2010,Houston Texans,Tennessee Titans,20,0,,,,-5,46.5,20,-26.5,69,54.5,10,None,0
+11/28/2010,Denver Broncos,St. Louis Rams,33,36,,,,-3,46.5,69,22.5,42.5,29.25,13.5,None,0
+11/28/2010,Chicago Bears,Philadelphia Eagles,31,26,,,,3,42,57,15,42.5,59.25,13.25,None,0
+11/28/2010,Buffalo Bills,Pittsburgh Steelers,16,19,Y,,,6.5,43.5,35,-8.5,37.25,66.25,9.5,None,0
+11/28/2010,Baltimore Ravens,Tampa Bay Buccaneers,17,10,,,,-7.5,41.5,27,-14.5,41.5,51.75,0.75,None,0
+12/2/2010,Philadelphia Eagles,Houston Texans,34,24,,,,-8,51,58,7,36,53,8.25,None,0
+12/5/2010,Tennessee Titans,Jacksonville Jaguars,6,17,,,,-3,43.5,23,-20.5,33.75,71.25,12.5,snow,0
+12/5/2010,Tampa Bay Buccaneers,Atlanta Falcons,24,28,,,,3,43,52,9,60,61.5,11.25,None,0
+12/5/2010,San Diego Chargers,Oakland Raiders,13,28,,,,-13,45,41,-4,67.75,41.75,1.75,None,0
+12/5/2010,New York Giants,Washington Redskins,31,7,,,,-7.5,43,38,-5,33.5,50,16,None,0
+12/5/2010,Miami Dolphins,Cleveland Browns,10,13,,,,-5.5,43.5,23,-20.5,77.25,49.75,13.25,None,0
+12/5/2010,Kansas City Chiefs,Denver Broncos,10,6,,,,-8,48,16,-32,30.25,46.5,8,None,0
+12/5/2010,Green Bay Packers,San Francisco 49ers,34,16,,,,-9,41,50,9,26,61.5,14.75,None,0
+12/5/2010,Cincinnati Bengals,New Orleans Saints,30,34,,,,6.5,45,64,19,30.75,73.5,10.25,None,0
+12/5/2010,Baltimore Ravens,Pittsburgh Steelers,10,13,,,,-3,38.5,23,-15.5,30.75,50.25,16,None,0
+12/9/2010,Tennessee Titans,Indianapolis Colts,28,30,,,,3.5,44,58,14,35.75,44.5,6.25,None,0
+12/12/2010,Washington Redskins,Tampa Bay Buccaneers,16,17,,,,1.5,41,33,-8,45,96.5,2.75,None,0
+12/12/2010,San Francisco 49ers,Seattle Seahawks,40,21,,,,-4.5,42.5,61,18.5,56.5,84.75,6.75,None,1
+12/12/2010,San Diego Chargers,Kansas City Chiefs,31,0,,,,-10,45.5,31,-14.5,82.25,24.25,10,None,0
+12/12/2010,Pittsburgh Steelers,Cincinnati Bengals,23,7,,,,-8.5,39.5,30,-9.5,38.25,89,16,rain,0
+12/12/2010,New York Jets,Miami Dolphins,6,10,,,,-5,37.5,16,-21.5,51.25,78.5,7.75,None,0
+12/12/2010,Jacksonville Jaguars,Oakland Raiders,38,31,,,,-3.5,41.5,69,27.5,57.75,67,18.25,None,0
+12/12/2010,Chicago Bears,New England Patriots,7,36,,,,3,37,43,6,22,74.25,27,snow,0
+12/12/2010,Carolina Panthers,Atlanta Falcons,10,31,,,,7.5,41.5,41,-0.5,46.25,71.5,11.75,None,0
+12/12/2010,Buffalo Bills,Cleveland Browns,13,6,,,,0,39,19,-20,35,96,2.75,rain,0
+12/13/2010,Houston Texans,Baltimore Ravens,28,34,Y,,,3,46.5,62,15.5,44,60.5,3.5,None,0
+12/16/2010,San Diego Chargers,San Francisco 49ers,34,7,,,,-10,44.5,41,-3.5,53.5,75.75,3,None,0
+12/19/2010,Tennessee Titans,Houston Texans,31,17,,,,-1.5,47,48,1,39.25,40.5,2.25,None,0
+12/19/2010,Tampa Bay Buccaneers,Detroit Lions,20,23,Y,,,-4,43,43,0,53.5,79.25,10.5,None,0
+12/19/2010,Pittsburgh Steelers,New York Jets,17,22,,,,-3.5,36,39,3,23.5,80.75,6.75,snow,0
+12/19/2010,New York Giants,Philadelphia Eagles,31,38,,,,-3,47,69,22,35.5,51.5,7.5,None,0
+12/19/2010,Miami Dolphins,Buffalo Bills,14,17,,,,-5.5,40,31,-9,65.5,74.25,14.25,None,0
+12/19/2010,Dallas Cowboys,Washington Redskins,33,30,,,,-9.5,44,63,19,60,35.5,16.5,None,0
+12/19/2010,Cincinnati Bengals,Cleveland Browns,19,17,,,,0,41.5,36,-5.5,29.75,66,8,None,0
+12/19/2010,Carolina Panthers,Arizona Cardinals,19,12,,,,-2.5,37.5,31,-6.5,45,45.75,5.5,None,0
+12/19/2010,Baltimore Ravens,New Orleans Saints,30,24,,,,-2,45,54,9,35.75,48,7.75,None,0
+12/20/2010,Minnesota Vikings,Chicago Bears,14,40,,,,5.5,34.5,54,19.5,25,84.5,10.5,snow,0
+12/23/2010,Pittsburgh Steelers,Carolina Panthers,27,3,,,,-14,37.5,30,-7.5,26,74.25,8.75,None,0
+12/26/2010,Tampa Bay Buccaneers,Seattle Seahawks,38,15,,,,-5.5,43,53,10,46.25,52.75,19.25,None,0
+12/26/2010,Oakland Raiders,Indianapolis Colts,26,31,,,,2,46,57,11,56.75,67.25,8.25,None,0
+12/26/2010,Miami Dolphins,Detroit Lions,27,34,,,,-3.5,41.5,61,19.5,62.25,49.5,23.25,None,0
+12/26/2010,Kansas City Chiefs,Tennessee Titans,34,14,,,,-4,42.5,48,5.5,22.75,71,3,None,0
+12/26/2010,Jacksonville Jaguars,Washington Redskins,17,20,Y,,,-7,45.5,37,-8.5,38.25,56.25,13.75,None,0
+12/26/2010,Green Bay Packers,New York Giants,45,17,,,,-3,43.5,62,18.5,21.25,76.5,2.75,None,0
+12/26/2010,Denver Broncos,Houston Texans,24,23,,,,2,49.5,47,-2.5,46.25,25.25,6,None,0
+12/26/2010,Cleveland Browns,Baltimore Ravens,10,20,,,,3.5,40,30,-10,23.5,74.75,16.5,None,0
+12/26/2010,Cincinnati Bengals,San Diego Chargers,34,20,,,,8,43.5,54,10.5,28,69.5,15.5,snow,0
+12/26/2010,Chicago Bears,New York Jets,38,34,,,,-2.5,35.5,72,36.5,31.25,77.5,15,snow,0
+12/26/2010,Buffalo Bills,New England Patriots,3,34,,,,7,46,37,-9,20.25,74,12,snow,0
+12/28/2010,Philadelphia Eagles,Minnesota Vikings,14,24,,,,-14,44,38,-6,31.75,48,9.25,None,0
+1/2/2011,Washington Redskins,New York Giants,14,17,,,,4.5,44.5,31,-13.5,47.5,42.25,7.75,None,0
+1/2/2011,San Francisco 49ers,Arizona Cardinals,38,7,,,,-6,39,45,6,49.75,84.5,10.75,None,0
+1/2/2011,Philadelphia Eagles,Dallas Cowboys,13,14,,,,2,43.5,27,-16.5,44.25,65.5,6,None,0
+1/2/2011,New York Jets,Buffalo Bills,38,7,,,,-1,38,45,7,49.25,62,2.25,None,0
+1/2/2011,New England Patriots,Miami Dolphins,38,7,,,,-4.5,44,45,1,46,98,2,rain,1
+1/2/2011,Kansas City Chiefs,Oakland Raiders,10,31,,,,-4.5,43,41,-2,37.5,29.5,15,None,0
+1/2/2011,Houston Texans,Jacksonville Jaguars,34,17,,,,-4.5,47.5,51,3.5,56.5,25,6.75,None,0
+1/2/2011,Green Bay Packers,Chicago Bears,10,3,,,,-11.5,43.5,13,-30.5,17.75,57.5,7.25,None,0
+1/2/2011,Denver Broncos,San Diego Chargers,28,33,,,,5,47.5,61,13.5,40.5,26.5,16.75,None,0
+1/2/2011,Cleveland Browns,Pittsburgh Steelers,9,41,,,,6.5,38,50,12,26,60.25,17,None,0
+1/2/2011,Baltimore Ravens,Cincinnati Bengals,13,7,,,,-9.5,43,20,-23,47.5,66,6.5,None,0
+1/9/2011,Philadelphia Eagles,Green Bay Packers,16,21,,Y,,-1.5,46.5,37,-9.5,30.25,44,13.25,None,0
+1/9/2011,Kansas City Chiefs,Baltimore Ravens,7,30,,Y,,3,41,37,-4,27.5,48,10.75,None,0
+1/15/2011,Pittsburgh Steelers,Baltimore Ravens,31,24,,Y,,-3,37.5,55,17.5,33,72.25,15.25,None,0
+1/16/2011,Chicago Bears,Seattle Seahawks,35,24,,Y,,-10,43,59,16,21.25,71.5,0,snow,0
+1/23/2011,Pittsburgh Steelers,New York Jets,24,19,,Y,,-4,38,43,5,12,55.25,2.5,None,0
+1/23/2011,Chicago Bears,Green Bay Packers,14,21,,Y,,3.5,42,35,-7,20.25,38.75,11.5,None,0
+9/8/2011,Green Bay Packers,New Orleans Saints,42,34,,,,-5,47.5,76,28.5,59,87,3.5,None,0
+9/11/2011,Washington Redskins,New York Giants,28,14,,,,1,40,42,2,80.75,50.5,6.25,None,0
+9/11/2011,Tampa Bay Buccaneers,Detroit Lions,20,27,,,,-1.5,43.5,47,3.5,88,60.75,8.75,None,0
+9/11/2011,San Francisco 49ers,Seattle Seahawks,33,17,,,,-6,38,50,12,70,59,8.25,None,0
+9/11/2011,San Diego Chargers,Minnesota Vikings,24,17,,,,-9,44,41,-3,74,52.25,8.25,None,0
+9/11/2011,New York Jets,Dallas Cowboys,27,24,,,,-6.5,41,51,10,69,81.75,1.25,None,0
+9/11/2011,Kansas City Chiefs,Buffalo Bills,7,41,,,,-4,39.5,48,8.5,80,53,2,None,0
+9/11/2011,Jacksonville Jaguars,Tennessee Titans,16,14,,,,1,38,30,-8,90.25,40.5,8.5,None,0
+9/11/2011,Houston Texans,Indianapolis Colts,34,7,,,,-8.5,44,41,-3,92.75,33.75,5.75,None,0
+9/11/2011,Chicago Bears,Atlanta Falcons,30,12,,,,2,40.5,42,1.5,79,52,6.75,None,0
+9/11/2011,Baltimore Ravens,Pittsburgh Steelers,35,7,,,,-1,37,42,5,77,72,8,None,1
+9/12/2011,Miami Dolphins,New England Patriots,24,38,,,,7,46.5,62,15.5,82,78,6,None,0
+9/12/2011,Denver Broncos,Oakland Raiders,20,23,,,,-3,42.5,43,0.5,71.25,29.25,3.5,None,0
+9/18/2011,Washington Redskins,Arizona Cardinals,22,21,,,,-4.5,45,43,-2,69,54,6,None,0
+9/18/2011,Tennessee Titans,Baltimore Ravens,26,13,,,,5.5,39,39,0,79.75,50,6.25,None,0
+9/18/2011,San Francisco 49ers,Dallas Cowboys,24,27,Y,,,3,41,51,10,74.25,56.5,8.75,None,0
+9/18/2011,Pittsburgh Steelers,Seattle Seahawks,24,0,,,,-14,40,24,-16,63.5,56,6.75,None,0
+9/18/2011,New York Jets,Jacksonville Jaguars,32,3,,,,-9,38,35,-3,67.25,50,9,None,0
+9/18/2011,Miami Dolphins,Houston Texans,13,23,,,,3,47,36,-11,86,62.5,12.25,None,0
+9/18/2011,Denver Broncos,Cincinnati Bengals,24,22,,,,-3,40.5,46,5.5,74.25,18.25,6.75,None,0
+9/18/2011,Carolina Panthers,Green Bay Packers,23,30,,,,10.5,45,53,8,67.25,62.25,5.5,None,0
+9/18/2011,Buffalo Bills,Oakland Raiders,38,35,,,,-3.5,41,73,32,67.5,40.75,5.5,None,0
+9/19/2011,New York Giants,St. Louis Rams,28,16,,,,-7,43.5,44,0.5,60.5,77.25,4.25,None,0
+9/25/2011,Tennessee Titans,Denver Broncos,17,14,,,,-7,44,31,-13,77.5,50.25,9.25,None,0
+9/25/2011,Tampa Bay Buccaneers,Atlanta Falcons,16,13,,,,-1,45,29,-16,79,80.25,2,None,0
+9/25/2011,San Diego Chargers,Kansas City Chiefs,20,17,,,,-14,44.5,37,-7.5,69.25,63.5,9.5,None,0
+9/25/2011,Philadelphia Eagles,New York Giants,16,29,,,,-8,46.5,45,-1.5,79.5,65,2.75,None,0
+9/25/2011,Oakland Raiders,New York Jets,34,24,,,,2.5,40,58,18,69.75,68.5,7.25,None,0
+9/25/2011,Cleveland Browns,Miami Dolphins,17,16,,,,1.5,42.5,33,-9.5,75.5,68.25,6.75,None,0
+9/25/2011,Cincinnati Bengals,San Francisco 49ers,8,13,,,,-1,38.5,21,-17.5,75.25,51.5,4.75,None,0
+9/25/2011,Chicago Bears,Green Bay Packers,17,27,,,,4.5,45.5,44,-1.5,62.75,72,8.25,None,0
+9/25/2011,Carolina Panthers,Jacksonville Jaguars,16,10,,,,-3.5,43,26,-17,75.5,79.75,9.25,None,0
+9/25/2011,Buffalo Bills,New England Patriots,34,31,,,,7,54,65,11,81,50.25,9.75,None,0
+10/2/2011,San Diego Chargers,Miami Dolphins,26,16,,,,-6.5,45,42,-3,81.5,41,8.75,None,0
+10/2/2011,Philadelphia Eagles,San Francisco 49ers,23,24,,,,-10,43.5,47,3.5,54,71,12.25,None,0
+10/2/2011,Oakland Raiders,New England Patriots,19,31,,,,6.5,55.5,50,-5.5,70.5,52.5,7.75,None,0
+10/2/2011,Kansas City Chiefs,Minnesota Vikings,22,17,,,,3,40,39,-1,71.25,28.25,2.25,None,0
+10/2/2011,Jacksonville Jaguars,New Orleans Saints,10,23,,,,8.5,45,33,-12,74.25,37.5,6.25,None,0
+10/2/2011,Houston Texans,Pittsburgh Steelers,17,10,,,,-4,46.5,27,-19.5,80.25,25.25,7.75,None,0
+10/2/2011,Green Bay Packers,Denver Broncos,49,23,,,,-12,46.5,72,25.5,67.25,37.75,7,None,0
+10/2/2011,Cleveland Browns,Tennessee Titans,13,31,,,,-1.5,37.5,44,6.5,54,52.75,19.25,None,0
+10/2/2011,Cincinnati Bengals,Buffalo Bills,23,20,,,,3,43,43,0,60.75,38.75,10,None,0
+10/2/2011,Chicago Bears,Carolina Panthers,34,29,,,,-7,42,63,21,61.5,39.25,2.75,None,0
+10/2/2011,Baltimore Ravens,New York Jets,34,17,,,,-5,43,51,8,47.75,83.75,8,None,0
+10/9/2011,San Francisco 49ers,Tampa Bay Buccaneers,48,3,,,,-3,41,51,10,64,70.5,16.5,None,0
+10/9/2011,Pittsburgh Steelers,Tennessee Titans,38,17,,,,-3,40,55,15,77.5,33.5,0,None,0
+10/9/2011,New York Giants,Seattle Seahawks,25,36,,,,-10,43.5,61,17.5,85.25,36,6.25,None,0
+10/9/2011,New England Patriots,New York Jets,30,21,,,,-7.5,50.5,51,0.5,78.25,44,4.25,None,0
+10/9/2011,Jacksonville Jaguars,Cincinnati Bengals,20,30,,,,2.5,36.5,50,13.5,79.25,64,21,None,0
+10/9/2011,Indianapolis Colts,Kansas City Chiefs,24,28,,,,-1.5,38,52,14,76.5,40.25,5.75,None,0
+10/9/2011,Houston Texans,Oakland Raiders,20,25,,,,-5,48.5,45,-3.5,72,88.75,10.5,rain,0
+10/9/2011,Denver Broncos,San Diego Chargers,24,29,,,,3.5,47,53,6,51,44.75,8.25,None,0
+10/9/2011,Carolina Panthers,New Orleans Saints,27,30,,,,6.5,51.5,57,5.5,74.75,50.5,12.75,None,0
+10/9/2011,Buffalo Bills,Philadelphia Eagles,31,24,,,,3,53,55,2,74.75,44.75,7.25,None,0
+10/16/2011,Washington Redskins,Philadelphia Eagles,13,20,,,,3,46.5,33,-13.5,70.5,26.5,9.25,None,0
+10/16/2011,Pittsburgh Steelers,Jacksonville Jaguars,17,13,,,,-12.5,40,30,-10,64.25,38,15.75,None,0
+10/16/2011,Oakland Raiders,Cleveland Browns,24,17,,,,-7,45,41,-4,73.75,56.5,11,None,0
+10/16/2011,New York Giants,Buffalo Bills,27,24,,,,-3.5,49,51,2,67.25,37,14.75,None,0
+10/16/2011,Green Bay Packers,St. Louis Rams,24,3,,,,-14,47,27,-20,58,35.75,22,None,0
+10/16/2011,Cincinnati Bengals,Indianapolis Colts,27,17,,,,-5,40.5,44,3.5,77.75,31.5,16.75,None,0
+10/16/2011,Chicago Bears,Minnesota Vikings,39,10,,,,-2,41.5,49,7.5,51.25,52.5,9.5,None,0
+10/16/2011,Baltimore Ravens,Houston Texans,29,14,,,,-7,44,43,-1,68.5,40,8.5,None,0
+10/17/2011,New York Jets,Miami Dolphins,24,6,,,,-7,41.5,30,-11.5,57,48.75,7.25,None,0
+10/23/2011,Tennessee Titans,Houston Texans,7,41,,,,-2.5,44,48,4,68.75,33,5.75,None,0
+10/23/2011,Tampa Bay Buccaneers,Chicago Bears,18,24,,,Y,1.5,44,42,-2,58.5,63.5,15.25,None,0
+10/23/2011,Oakland Raiders,Kansas City Chiefs,0,28,,,,-3.5,41.5,28,-13.5,82,40.25,8.25,None,0
+10/23/2011,New York Jets,San Diego Chargers,27,21,,,,1,43.5,48,4.5,60,43.25,4,None,0
+10/23/2011,Miami Dolphins,Denver Broncos,15,18,Y,,,1,41.5,33,-8.5,79.5,68,12.5,None,0
+10/23/2011,Cleveland Browns,Seattle Seahawks,6,3,,,,-3,41,9,-32,63.25,43,9.25,None,0
+10/23/2011,Carolina Panthers,Washington Redskins,33,20,,,,-2.5,44.5,53,8.5,66.75,42.25,3,None,0
+10/24/2011,Jacksonville Jaguars,Baltimore Ravens,12,7,,,,10.5,39,19,-20,65,69.75,2.25,None,0
+10/30/2011,Tennessee Titans,Indianapolis Colts,27,10,,,,-7.5,43.5,37,-6.5,59.75,31.75,6.25,None,0
+10/30/2011,San Francisco 49ers,Cleveland Browns,20,10,,,,-9,38.5,30,-8.5,70,54.5,8.25,None,0
+10/30/2011,Pittsburgh Steelers,New England Patriots,25,17,,,,3,52,42,-10,39.25,85.25,0.75,rain,1
+10/30/2011,Philadelphia Eagles,Dallas Cowboys,34,7,,,,-3,49,41,-8,41.25,64.25,5,None,0
+10/30/2011,New York Giants,Miami Dolphins,20,17,,,,-9.5,43,37,-6,45.25,48,11.25,None,0
+10/30/2011,Houston Texans,Jacksonville Jaguars,24,14,,,,-10,41,38,-3,69.5,44.75,3.5,None,0
+10/30/2011,Denver Broncos,Detroit Lions,10,45,,,,3,43.5,55,11.5,60.5,24.25,3.5,None,0
+10/30/2011,Carolina Panthers,Minnesota Vikings,21,24,,,,-3,47,45,-2,59.5,30.25,3.5,None,0
+10/30/2011,Baltimore Ravens,Arizona Cardinals,30,27,,,,-11.5,43,57,14,53,34,4,None,0
+10/31/2011,Kansas City Chiefs,San Diego Chargers,23,20,Y,,,3,44.5,43,-1.5,60.5,36.75,5.75,None,0
+11/6/2011,Washington Redskins,San Francisco 49ers,11,19,,,,5,38,30,-8,59.5,42.75,4.5,None,0
+11/6/2011,Tennessee Titans,Cincinnati Bengals,17,24,,,,-2.5,41.5,41,-0.5,62,46.25,7.25,None,0
+11/6/2011,San Diego Chargers,Green Bay Packers,38,45,,,,5.5,50.5,83,32.5,55.5,86,9.25,rain,0
+11/6/2011,Pittsburgh Steelers,Baltimore Ravens,20,23,,,,-3.5,41.5,43,1.5,45.75,48.25,6.75,None,0
+11/6/2011,Kansas City Chiefs,Miami Dolphins,3,31,,,,-5.5,40.5,34,-6.5,64,53.5,5.75,None,0
+11/6/2011,Indianapolis Colts,Atlanta Falcons,7,31,,,,6.5,44.5,38,-6.5,61.75,47.5,14.5,None,0
+11/6/2011,Houston Texans,Cleveland Browns,30,12,,,,-10.5,42.5,42,-0.5,77.25,66,12,None,0
+11/6/2011,Buffalo Bills,New York Jets,11,27,,,,-2.5,45,38,-7,60,25.25,11.5,None,0
+11/7/2011,Philadelphia Eagles,Chicago Bears,24,30,,,,-8,47.5,54,6.5,49,82.25,5.25,None,0
+11/10/2011,San Diego Chargers,Oakland Raiders,17,24,,,,-7,48,41,-7,66.5,32.75,0.75,None,0
+11/13/2011,Tampa Bay Buccaneers,Houston Texans,9,37,,,,3.5,45.5,46,0.5,78.25,45.75,7.75,None,0
+11/13/2011,San Francisco 49ers,New York Giants,27,20,,,,-4,43,47,4,59.75,67.5,7,None,0
+11/13/2011,Philadelphia Eagles,Arizona Cardinals,17,21,,,,-13,47,38,-9,60.75,34.25,14.5,None,0
+11/13/2011,New York Jets,New England Patriots,16,37,,,,-2.5,47,53,6,54,48.5,3.25,None,0
+11/13/2011,Miami Dolphins,Washington Redskins,20,9,,,,-4,38,29,-9,78.25,59.5,15,None,0
+11/13/2011,Kansas City Chiefs,Denver Broncos,10,17,,,,-3,42,27,-15,69,19.75,11.5,None,0
+11/13/2011,Cincinnati Bengals,Pittsburgh Steelers,17,24,,,,3.5,40,41,1,65.75,56.75,21,None,0
+11/13/2011,Chicago Bears,Detroit Lions,37,13,,,,-2.5,42.5,50,7.5,68,32.5,21.25,None,0
+11/13/2011,Carolina Panthers,Tennessee Titans,3,30,,,,-3.5,47.5,33,-14.5,58.75,62.75,12.5,None,0
+11/17/2011,Denver Broncos,New York Jets,17,13,,,,6,39,30,-9,49,14.75,5.25,None,0
+11/20/2011,Washington Redskins,Dallas Cowboys,24,27,Y,,,7,42.5,51,8.5,67,46.5,4,None,0
+11/20/2011,San Francisco 49ers,Arizona Cardinals,23,7,,,,-10,40.5,30,-10.5,53.75,75.75,11.25,rain,0
+11/20/2011,New York Giants,Philadelphia Eagles,10,17,,,,-6,45,27,-18,56.25,69.75,3,None,0
+11/20/2011,Miami Dolphins,Buffalo Bills,35,8,,,,-2.5,44,43,-1,74.5,88,9,rain,0
+11/20/2011,Green Bay Packers,Tampa Bay Buccaneers,35,26,,,,-14,48.5,61,12.5,31.75,67.5,7.25,None,0
+11/20/2011,Cleveland Browns,Jacksonville Jaguars,14,10,,,,-1.5,34.5,24,-10.5,50.25,79.25,6.75,None,0
+11/20/2011,Chicago Bears,San Diego Chargers,31,20,,,,-4.5,45,51,6,41.25,72.25,15,None,0
+11/20/2011,Baltimore Ravens,Cincinnati Bengals,31,24,,,,-7,40.5,55,14.5,66,54.5,5.5,None,0
+11/24/2011,Baltimore Ravens,San Francisco 49ers,16,6,,,,-3.5,40.5,22,-18.5,45.5,64.75,2.5,None,0
+11/27/2011,Tennessee Titans,Tampa Bay Buccaneers,23,17,,,,-3,43.5,40,-3.5,45.75,90,9.5,rain,0
+11/27/2011,San Diego Chargers,Denver Broncos,13,16,Y,,,-4.5,42,29,-13,80.5,18.5,6.5,None,0
+11/27/2011,Philadelphia Eagles,New England Patriots,20,38,,,,3,50.5,58,7.5,61.25,62.5,7.25,None,0
+11/27/2011,Oakland Raiders,Chicago Bears,25,20,,,,-3,41,45,4,59.5,70,6.75,None,0
+11/27/2011,New York Jets,Buffalo Bills,28,24,,,,-9.5,42.5,52,9.5,61.5,54.25,4.75,None,0
+11/27/2011,Jacksonville Jaguars,Houston Texans,13,20,,,,6.5,37,33,-4,78.25,48.75,13.75,None,0
+11/27/2011,Cincinnati Bengals,Cleveland Browns,23,20,,,,-6.5,38.5,43,4.5,55.5,91.25,7,rain,0
+12/4/2011,Washington Redskins,New York Jets,19,34,,,,3,38.5,53,14.5,54.75,50.25,4.25,None,0
+12/4/2011,Tampa Bay Buccaneers,Carolina Panthers,19,38,,,,2,46.5,57,10.5,77.75,44,8,None,0
+12/4/2011,San Francisco 49ers,St. Louis Rams,26,0,,,,-14,38.5,26,-12.5,56.75,57.75,7.25,None,0
+12/4/2011,Pittsburgh Steelers,Cincinnati Bengals,35,7,,,,-7,42.5,42,-0.5,60.5,31.75,9.5,None,0
+12/4/2011,New York Giants,Green Bay Packers,35,38,,,,7,54,73,19,50.75,73.25,6.25,None,0
+12/4/2011,Miami Dolphins,Oakland Raiders,34,14,,,,-3,43,48,5,78.75,56.75,16.75,None,0
+12/4/2011,Houston Texans,Atlanta Falcons,17,10,,,,2,38,27,-11,68,90.75,10.25,rain,0
+12/4/2011,Chicago Bears,Kansas City Chiefs,3,10,,,,-8.5,35.5,13,-22.5,40.5,86.25,11.25,None,0
+12/4/2011,Buffalo Bills,Tennessee Titans,17,23,,,,-1,43.5,40,-3.5,58,41.5,12,None,0
+12/5/2011,Jacksonville Jaguars,San Diego Chargers,14,38,,,,3,40,52,12,68,85.5,5.5,None,0
+12/8/2011,Pittsburgh Steelers,Cleveland Browns,14,3,,,,-14,40,17,-23,30.25,80.25,8,None,0
+12/11/2011,Washington Redskins,New England Patriots,27,34,,,,7.5,46.5,61,14.5,42,25.25,0,None,0
+12/11/2011,Tennessee Titans,New Orleans Saints,17,22,,,,3.5,48,39,-9,45.75,39.75,2.25,None,0
+12/11/2011,San Diego Chargers,Buffalo Bills,37,10,,,,-7,49.5,47,-2.5,57,63,6.25,None,0
+12/11/2011,New York Jets,Kansas City Chiefs,37,10,,,,-11,35.5,47,11.5,39.75,32.5,2,None,0
+12/11/2011,Miami Dolphins,Philadelphia Eagles,10,26,,,,-3,44.5,36,-8.5,78.25,67.5,14,None,0
+12/11/2011,Green Bay Packers,Oakland Raiders,46,16,,,,-12,50,62,12,40.75,58.75,11.75,None,0
+12/11/2011,Denver Broncos,Chicago Bears,13,10,Y,,,-3,35.5,23,-12.5,43.75,29.75,4.25,None,0
+12/11/2011,Cincinnati Bengals,Houston Texans,19,20,,,,-2.5,37.5,39,1.5,38.5,39,2.25,None,0
+12/11/2011,Carolina Panthers,Atlanta Falcons,23,31,,,,3,47.5,54,6.5,46.75,43,8.75,None,0
+12/11/2011,Baltimore Ravens,Indianapolis Colts,24,10,,,,-16,41.5,34,-7.5,41,31.25,2,None,0
+12/17/2011,Tampa Bay Buccaneers,Dallas Cowboys,15,31,,,,7.5,47,46,-1,65.5,85.5,6.75,None,0
+12/18/2011,San Diego Chargers,Baltimore Ravens,34,14,,,,1,45,48,3,53.5,87.75,1.25,None,0
+12/18/2011,Philadelphia Eagles,New York Jets,45,19,,,,-3,44,64,20,35,43.75,7,None,0
+12/18/2011,Oakland Raiders,Detroit Lions,27,28,,,,3,47.5,55,7.5,51,77.75,1.5,None,0
+12/18/2011,New York Giants,Washington Redskins,10,23,,,,-6,45.5,33,-12.5,30.75,33.5,7.75,None,0
+12/18/2011,Kansas City Chiefs,Green Bay Packers,19,14,,,,11.5,46,33,-13,56.75,43.25,10.75,None,0
+12/18/2011,Houston Texans,Carolina Panthers,13,28,,,,-5,45,41,-4,61.5,38.75,9.25,None,0
+12/18/2011,Denver Broncos,New England Patriots,23,41,,,,7,47.5,64,16.5,57.25,20,9,None,0
+12/18/2011,Chicago Bears,Seattle Seahawks,14,38,,,,-3.5,35,52,17,41,60,11,None,0
+12/18/2011,Buffalo Bills,Miami Dolphins,23,30,,,,0,42.5,53,10.5,32.5,77.5,10,snow,0
+12/19/2011,San Francisco 49ers,Pittsburgh Steelers,20,3,,,,-3,37,23,-14,49.5,80.75,9.25,None,0
+12/24/2011,Washington Redskins,Minnesota Vikings,26,33,,,,-6,43,59,16,44.5,34.5,8,None,0
+12/24/2011,Tennessee Titans,Jacksonville Jaguars,23,17,,,,-8,38.5,40,1.5,47.25,48.5,0,None,0
+12/24/2011,Pittsburgh Steelers,St. Louis Rams,27,0,,,,-10,33.5,27,-6.5,36.5,63.25,2.25,None,0
+12/24/2011,Kansas City Chiefs,Oakland Raiders,13,16,Y,,,-3,43,29,-14,47.25,42,6.25,None,0
+12/24/2011,Cincinnati Bengals,Arizona Cardinals,23,16,,,,-4,41,39,-2,41.5,58.5,9.25,None,0
+12/24/2011,Carolina Panthers,Tampa Bay Buccaneers,48,16,,,,-8,48.5,64,15.5,51.25,52.5,5.25,None,0
+12/24/2011,Buffalo Bills,Denver Broncos,40,14,,,,3,43.5,54,10.5,30.5,48.25,4.25,None,0
+12/24/2011,Baltimore Ravens,Cleveland Browns,20,14,,,,-11,38.5,34,-4.5,44.5,35.25,8.5,None,0
+12/25/2011,Green Bay Packers,Chicago Bears,35,21,,,,-13.5,41,56,15,32.5,72.75,5.666666667,None,0
+1/1/2012,Philadelphia Eagles,Washington Redskins,34,10,,,,-7.5,44.5,44,-0.5,53,55.25,12.5,None,0
+1/1/2012,Oakland Raiders,San Diego Chargers,26,38,,,,-2.5,50,64,14,56.25,64.75,5,None,0
+1/1/2012,New York Giants,Dallas Cowboys,31,14,,,,-3,48,45,-3,49,80,7.75,None,0
+1/1/2012,Miami Dolphins,New York Jets,19,17,,,,-2,39,36,-3,77.25,49.75,6.5,None,0
+1/1/2012,Houston Texans,Tennessee Titans,22,23,,,,2.5,38.5,45,6.5,66.25,28.5,18.25,None,0
+1/1/2012,Green Bay Packers,Detroit Lions,45,41,,,,6.5,41.5,86,44.5,30,75,17.25,None,0
+1/1/2012,Denver Broncos,Kansas City Chiefs,3,7,,,,-2.5,37.5,10,-27.5,32.5,39.25,2,None,0
+1/1/2012,Cleveland Browns,Pittsburgh Steelers,9,13,,,,7,33,22,-11,39,77.75,25,None,0
+1/1/2012,Cincinnati Bengals,Baltimore Ravens,16,24,,,,3,37.5,40,2.5,42.75,50,21.75,None,0
+1/8/2012,Denver Broncos,Pittsburgh Steelers,29,23,Y,Y,,7.5,34,52,18,37.25,33,3.75,None,0
+1/15/2012,Green Bay Packers,New York Giants,20,37,,Y,,-8.5,54.5,57,2.5,29.25,75.75,13.25,None,0
+9/5/2012,New York Giants,Dallas Cowboys,17,24,,,,-3.5,45.5,41,-4.5,72.25,75.75,4,None,0
+9/9/2012,Tennessee Titans,New England Patriots,13,34,,,,5.5,48,47,-1,77,42.25,6.5,None,0
+9/9/2012,Tampa Bay Buccaneers,Carolina Panthers,16,10,,,,3,45.5,26,-19.5,82.75,79.25,10.5,None,0
+9/9/2012,New York Jets,Buffalo Bills,48,28,,,,-3,39,76,37,76.5,41.5,6.5,None,0
+9/9/2012,Kansas City Chiefs,Atlanta Falcons,24,40,,,,2.5,43,64,21,73.75,39,8.75,None,0
+9/9/2012,Green Bay Packers,San Francisco 49ers,22,30,,,,-5,46.5,52,5.5,70.5,42.5,5.5,None,0
+9/9/2012,Denver Broncos,Pittsburgh Steelers,31,19,,,,-2.5,45.5,50,4.5,78.75,11,6,None,0
+9/9/2012,Cleveland Browns,Philadelphia Eagles,16,17,,,,9,42.5,33,-9.5,68.25,53.5,8.25,None,0
+9/9/2012,Chicago Bears,Indianapolis Colts,41,21,,,,-10,42.5,62,19.5,70.25,52.5,13,None,0
+9/10/2012,Oakland Raiders,San Diego Chargers,14,22,,,,-1,47.5,36,-11.5,60.5,78,10,None,0
+9/10/2012,Baltimore Ravens,Cincinnati Bengals,44,13,,,,-7,43,57,14,65.5,54,5.666666667,None,0
+9/13/2012,Green Bay Packers,Chicago Bears,23,10,,,,-5,50.5,33,-17.5,56,74.25,4,None,0
+9/16/2012,Seattle Seahawks,Dallas Cowboys,27,7,,,,3,42.5,34,-8.5,71.25,51,7,None,0
+9/16/2012,San Francisco 49ers,Detroit Lions,27,19,,,,-7,46,46,0,58,71.75,21,None,0
+9/16/2012,San Diego Chargers,Tennessee Titans,38,10,,,,-6.5,43.5,48,4.5,76.75,64.75,7.75,None,0
+9/16/2012,Pittsburgh Steelers,New York Jets,27,10,,,,-4.5,43,37,-6,70.5,34.5,7,None,0
+9/16/2012,Philadelphia Eagles,Baltimore Ravens,24,23,,,,-3,47,47,0,73.75,35.5,8,None,0
+9/16/2012,New York Giants,Tampa Bay Buccaneers,41,34,,,,-7.5,43.5,75,31.5,74.25,37,8.25,None,0
+9/16/2012,New England Patriots,Arizona Cardinals,18,20,,,,-13.5,47,38,-9,70.75,37.75,10.5,None,0
+9/16/2012,Miami Dolphins,Oakland Raiders,35,13,,,,1.5,41,48,7,82.5,77,7.5,None,0
+9/16/2012,Jacksonville Jaguars,Houston Texans,7,27,,,,6.5,40,34,-6,84,65.25,9.75,None,0
+9/16/2012,Indianapolis Colts,Minnesota Vikings,23,20,,,,3,45.5,43,-2.5,75.25,37.25,7,None,0
+9/16/2012,Cincinnati Bengals,Cleveland Browns,34,27,,,,-7,39.5,61,21.5,76,35.75,4,None,0
+9/16/2012,Carolina Panthers,New Orleans Saints,35,27,,,,3,53.5,62,8.5,71.75,80.5,6,None,0
+9/16/2012,Buffalo Bills,Kansas City Chiefs,35,17,,,,-3,45,52,7,68.75,59.5,15.75,None,0
+9/20/2012,Carolina Panthers,New York Giants,7,36,,,,-2.5,48.5,43,-5.5,67.5,71,5,None,0
+9/23/2012,Washington Redskins,Cincinnati Bengals,31,38,,,,-3,49.5,69,19.5,67.75,34.5,8.25,None,0
+9/23/2012,Tennessee Titans,Detroit Lions,44,41,Y,,,4,47,85,38,68,30,8.75,None,0
+9/23/2012,San Diego Chargers,Atlanta Falcons,3,27,,,,-3,47,30,-17,85,44.75,11.5,None,0
+9/23/2012,Oakland Raiders,Pittsburgh Steelers,34,31,,,,3.5,45,65,20,68.25,59,12.75,None,0
+9/23/2012,Miami Dolphins,New York Jets,20,23,Y,,,2.5,40.5,43,2.5,80.25,82,6.75,rain,0
+9/23/2012,Denver Broncos,Houston Texans,25,31,,,,1.5,43.5,56,12.5,85.5,5.75,10.5,None,0
+9/23/2012,Cleveland Browns,Buffalo Bills,14,24,,,,3,45,38,-7,53,74.5,11.5,None,0
+9/23/2012,Chicago Bears,St. Louis Rams,23,6,,,,-7,42,29,-13,57.75,37.75,8,None,0
+9/23/2012,Baltimore Ravens,New England Patriots,31,30,,,,-3,48.5,61,12.5,55,74,0,None,0
+9/24/2012,Seattle Seahawks,Green Bay Packers,14,12,,,,3,45.5,26,-19.5,65,58,4.5,None,0
+9/27/2012,Baltimore Ravens,Cleveland Browns,23,16,,,,-11.5,43.5,39,-4.5,71.25,78.5,6.5,rain,0
+9/30/2012,Tampa Bay Buccaneers,Washington Redskins,22,24,,,,-2,44.5,46,1.5,85.25,61,9,None,0
+9/30/2012,Philadelphia Eagles,New York Giants,19,17,,,,-2,46.5,36,-10.5,60.75,65.5,8.5,None,0
+9/30/2012,New York Jets,San Francisco 49ers,0,34,,,,4,41,34,-7,66,50,6.75,None,0
+9/30/2012,Kansas City Chiefs,San Diego Chargers,20,37,,,,2.5,43.5,57,13.5,73.25,45.25,5,None,0
+9/30/2012,Green Bay Packers,New Orleans Saints,28,27,,,,-7.5,54,55,1,63.5,55.5,5.75,None,0
+9/30/2012,Denver Broncos,Oakland Raiders,37,6,,,,-6.5,47,43,-4,71.5,22.5,9.25,None,0
+9/30/2012,Buffalo Bills,New England Patriots,28,52,,,,4,48.5,80,31.5,58.75,61.75,6.25,None,0
+10/1/2012,Dallas Cowboys,Chicago Bears,18,34,,,,-3,41,52,11,74.5,38.25,6.25,None,0
+10/7/2012,Washington Redskins,Atlanta Falcons,17,24,,,,3,51,41,-10,52,79.75,4.75,None,0
+10/7/2012,San Francisco 49ers,Buffalo Bills,45,3,,,,-10,45.5,48,2.5,67.75,51,14.75,None,0
+10/7/2012,Pittsburgh Steelers,Philadelphia Eagles,16,14,,,,-4,44,30,-14,46.5,64,6.25,rain,0
+10/7/2012,New York Giants,Cleveland Browns,41,27,,,,-8,43.5,68,24.5,52.75,75.75,4.666666667,None,0
+10/7/2012,New England Patriots,Denver Broncos,31,21,,,,-6,51,52,1,53.25,82.25,5,None,0
+10/7/2012,Kansas City Chiefs,Baltimore Ravens,6,9,,,,6,46.5,15,-31.5,53.25,33.75,4.666666667,None,0
+10/7/2012,Jacksonville Jaguars,Chicago Bears,3,41,,,,6.5,39,44,5,85.25,66.25,12.5,None,0
+10/7/2012,Cincinnati Bengals,Miami Dolphins,13,17,,,,-3,45,30,-15,51.25,53.5,7.75,None,0
+10/7/2012,Carolina Panthers,Seattle Seahawks,12,16,,,,-2,42.5,28,-14.5,56.5,84,8.75,None,0
+10/11/2012,Tennessee Titans,Pittsburgh Steelers,26,23,,,,6,43,49,6,61,57.75,5,None,0
+10/14/2012,Washington Redskins,Minnesota Vikings,38,26,,,,2,44,64,20,70.5,48.25,14.5,None,0
+10/14/2012,Tampa Bay Buccaneers,Kansas City Chiefs,38,10,,,,-5,39.5,48,8.5,87.25,47.5,7.5,None,0
+10/14/2012,Seattle Seahawks,New England Patriots,24,23,,,,4,42.5,47,4.5,62.5,83.25,7.5,rain,0
+10/14/2012,San Francisco 49ers,New York Giants,3,26,,,,-7,47,29,-18,67,66.75,10.5,None,0
+10/14/2012,Philadelphia Eagles,Detroit Lions,23,26,Y,,,-3.5,47.5,49,1.5,73,37.5,15.75,None,0
+10/14/2012,Miami Dolphins,St. Louis Rams,17,14,,,,-5.5,38.5,31,-7.5,82.25,75.5,19.5,None,0
+10/14/2012,Cleveland Browns,Cincinnati Bengals,34,24,,,,1.5,42,58,16,73.66666667,55.66666667,18,None,0
+10/14/2012,Baltimore Ravens,Dallas Cowboys,31,29,,,,-3,45.5,60,14.5,71.75,44,8.5,None,0
+10/15/2012,San Diego Chargers,Denver Broncos,24,35,,,,0,48,59,11,70.75,78.25,7,None,0
+10/18/2012,San Francisco 49ers,Seattle Seahawks,13,6,,,,-8,37.5,19,-18.5,76.25,50.25,13.5,None,0
+10/21/2012,Tampa Bay Buccaneers,New Orleans Saints,28,35,,,,1.5,49.5,63,13.5,81.25,31.5,7,None,0
+10/21/2012,Oakland Raiders,Jacksonville Jaguars,26,23,Y,,,-6,44.5,49,4.5,62.75,51.25,13.75,None,0
+10/21/2012,New York Giants,Washington Redskins,27,23,,,,-6,51.5,50,-1.5,65,35.25,14,None,0
+10/21/2012,New England Patriots,New York Jets,29,26,Y,,,-11,47.5,55,7.5,62,41.25,7.5,None,0
+10/21/2012,Indianapolis Colts,Cleveland Browns,17,13,,,,-1,46.5,30,-16.5,65.25,58.25,10.25,None,0
+10/21/2012,Cincinnati Bengals,Pittsburgh Steelers,17,24,,,,1.5,47,41,-6,49.75,89.5,1,None,0
+10/21/2012,Carolina Panthers,Dallas Cowboys,14,19,,,,2.5,45,33,-12,66.25,41.5,5,None,0
+10/21/2012,Buffalo Bills,Tennessee Titans,34,35,,,,-4.5,46.5,69,22.5,55.25,70.5,18.25,None,0
+10/22/2012,Chicago Bears,Detroit Lions,13,7,,,,-6.5,45.5,20,-25.5,65.5,84,9,None,0
+10/28/2012,Tennessee Titans,Indianapolis Colts,13,19,Y,,,-3.5,46.5,32,-14.5,56.75,41,15.25,None,0
+10/28/2012,St. Louis Rams,New England Patriots,7,45,,,,7,46,52,6,47,88.5,9,None,0
+10/28/2012,Pittsburgh Steelers,Washington Redskins,27,12,,,,-4.5,44.5,39,-5.5,44.25,87.5,11,rain,0
+10/28/2012,Philadelphia Eagles,Atlanta Falcons,17,30,,,,-3,43,47,4,58,72.75,17,rain,0
+10/28/2012,Kansas City Chiefs,Oakland Raiders,16,26,,,,-1,41.5,42,0.5,50.5,40.25,4.75,None,0
+10/28/2012,Green Bay Packers,Jacksonville Jaguars,24,15,,,,-15.5,45.5,39,-6.5,45,43.75,6,None,0
+10/28/2012,Denver Broncos,New Orleans Saints,34,14,,,,-6,55.5,48,-7.5,54.5,39.25,8.666666667,None,0
+10/28/2012,Cleveland Browns,San Diego Chargers,7,6,,,,3,41,13,-28,45,86.25,24.25,rain,0
+10/28/2012,Chicago Bears,Carolina Panthers,23,22,,,,-7,41.5,45,3.5,48.25,48.5,20.25,None,0
+10/29/2012,Arizona Cardinals,San Francisco 49ers,3,24,,,,7,38,27,-11,80,17.66666667,4,None,0
+11/1/2012,San Diego Chargers,Kansas City Chiefs,31,13,,,,-7,41,44,3,61.75,73,7,None,0
+11/4/2012,Washington Redskins,Carolina Panthers,13,21,,,,-3,48,34,-14,51.5,36.25,7,None,0
+11/4/2012,Tennessee Titans,Chicago Bears,20,51,,,,5,43.5,71,27.5,54,51.5,7.75,None,0
+11/4/2012,Seattle Seahawks,Minnesota Vikings,30,20,,,,-4.5,38.5,50,11.5,63.25,81.5,9.5,None,0
+11/4/2012,Oakland Raiders,Tampa Bay Buccaneers,32,42,,,,-1.5,47,74,27,76.25,45.5,7.75,None,0
+11/4/2012,New York Giants,Pittsburgh Steelers,20,24,,,,-3.5,48,44,-4,45,56,9.75,None,0
+11/4/2012,Green Bay Packers,Arizona Cardinals,31,17,,,,-10.5,43,48,5,40.25,56,3,None,0
+11/4/2012,Cleveland Browns,Baltimore Ravens,15,25,,,,3.5,44,40,-4,40.25,66.5,7.25,None,0
+11/4/2012,Cincinnati Bengals,Denver Broncos,23,31,,,,5,47.5,54,6.5,48.25,55,6.25,None,0
+11/11/2012,Tampa Bay Buccaneers,San Diego Chargers,34,24,,,,-3,46.5,58,11.5,78.75,48,7.75,None,0
+11/11/2012,Seattle Seahawks,New York Jets,28,7,,,,-5.5,38.5,35,-3.5,47.5,63.25,5.25,None,0
+11/11/2012,San Francisco 49ers,St. Louis Rams,24,24,Y,,,-13.5,38,48,10,58.25,48,4,None,0
+11/11/2012,Philadelphia Eagles,Dallas Cowboys,23,38,,,,2.5,44,61,17,61.5,53.75,7.25,None,0
+11/11/2012,New England Patriots,Buffalo Bills,37,31,,,,-13.5,54,68,14,63.33333333,47.66666667,8.666666667,None,0
+11/11/2012,Miami Dolphins,Tennessee Titans,3,37,,,,-6.5,44,40,-4,79.5,47.5,17,None,0
+11/11/2012,Cincinnati Bengals,New York Giants,31,13,,,,4,47,44,-3,68,32.5,12,None,0
+11/11/2012,Chicago Bears,Houston Texans,6,13,,,,-1,37.5,19,-18.5,53.5,89.75,8.75,rain,0
+11/11/2012,Baltimore Ravens,Oakland Raiders,55,20,,,,-7.5,48,75,27,64.25,50.25,8,None,0
+11/12/2012,Pittsburgh Steelers,Kansas City Chiefs,16,13,Y,,,-13,39.5,29,-10.5,39.75,82.5,13.25,rain,0
+11/15/2012,Buffalo Bills,Miami Dolphins,19,14,,,,-2.5,46,33,-13,35.75,72.75,2,None,0
+11/18/2012,Washington Redskins,Philadelphia Eagles,31,6,,,,-3.5,45.5,37,-8.5,52.75,53.75,8.5,None,0
+11/18/2012,Pittsburgh Steelers,Baltimore Ravens,10,13,,,,3,41,23,-18,43.75,50,5.75,None,0
+11/18/2012,Oakland Raiders,New Orleans Saints,17,38,,,,6,55.5,55,-0.5,62.25,51.25,4.5,None,0
+11/18/2012,New England Patriots,Indianapolis Colts,59,24,,,,-10,54.5,83,28.5,36.25,69.25,6,None,0
+11/18/2012,Kansas City Chiefs,Cincinnati Bengals,6,28,,,,3,42,34,-8,61.25,35.5,12.75,None,0
+11/18/2012,Denver Broncos,San Diego Chargers,30,23,,,,-7.5,48,53,5,58.75,19.75,21.5,None,0
+11/18/2012,Carolina Panthers,Tampa Bay Buccaneers,21,27,Y,,,1,47,48,1,55.75,58.25,14.75,None,0
+11/19/2012,San Francisco 49ers,Chicago Bears,32,7,,,,-3.5,34.5,39,4.5,60.25,64,7.5,None,0
+11/22/2012,New York Jets,New England Patriots,19,49,,,,7,48,68,20,41.5,85,0,None,0
+11/25/2012,Tampa Bay Buccaneers,Atlanta Falcons,23,24,,,,1,51,47,-4,66.75,32.25,6,None,0
+11/25/2012,San Diego Chargers,Baltimore Ravens,13,16,Y,,,1,47,29,-18,63.5,70,6,None,0
+11/25/2012,New York Giants,Green Bay Packers,38,10,,,,-3,51,48,-3,36.75,51,12.5,None,0
+11/25/2012,Miami Dolphins,Seattle Seahawks,24,21,,,,3,37.5,45,7.5,75.75,39.5,5,None,0
+11/25/2012,Kansas City Chiefs,Denver Broncos,9,17,,,,10.5,42,26,-16,55.25,37.5,6.75,None,0
+11/25/2012,Cleveland Browns,Pittsburgh Steelers,20,14,,,,1,33.5,34,0.5,39.25,55.5,13.25,None,0
+11/25/2012,Cincinnati Bengals,Oakland Raiders,34,10,,,,-7.5,50,44,-6,47,40.75,9.25,None,0
+11/25/2012,Chicago Bears,Minnesota Vikings,28,10,,,,-6.5,38.5,38,-0.5,42.5,44.5,7,None,0
+11/26/2012,Philadelphia Eagles,Carolina Panthers,22,30,,,,3,41.5,52,10.5,37.5,73.75,0,None,0
+12/2/2012,Tennessee Titans,Houston Texans,10,24,,,,7,47.5,34,-13.5,70,52,12.5,None,0
+12/2/2012,San Diego Chargers,Cincinnati Bengals,13,20,,,,0,46,33,-13,66.5,66,7.75,None,0
+12/2/2012,Oakland Raiders,Cleveland Browns,17,20,,,,2.5,39.5,37,-2.5,61.25,67.25,9.25,None,0
+12/2/2012,Miami Dolphins,New England Patriots,16,23,,,,7.5,51,39,-12,78.25,59.5,17,None,0
+12/2/2012,Kansas City Chiefs,Carolina Panthers,27,21,,,,5.5,41.5,48,6.5,64.75,52.25,0,None,0
+12/2/2012,Green Bay Packers,Minnesota Vikings,23,14,,,,-7.5,47,37,-10,44.5,78.25,6.5,None,1
+12/2/2012,Denver Broncos,Tampa Bay Buccaneers,31,23,,,,-8,50,54,4,61.75,8.75,8,None,0
+12/2/2012,Chicago Bears,Seattle Seahawks,17,23,Y,,,-3,37,40,3,63,67.25,4,None,0
+12/2/2012,Buffalo Bills,Jacksonville Jaguars,34,18,,,,-6,41.5,52,10.5,51,92.25,16.25,rain,0
+12/2/2012,Baltimore Ravens,Pittsburgh Steelers,20,23,,,,-7,37,43,6,51,80.75,0,None,0
+12/3/2012,Washington Redskins,New York Giants,17,16,,,,3,50.5,33,-17.5,50.75,99.5,0,None,0
+12/6/2012,Oakland Raiders,Denver Broncos,13,26,,,,10,47,39,-8,56.25,77.75,5.5,None,0
+12/9/2012,Washington Redskins,Baltimore Ravens,31,28,Y,,,-2,48,59,11,50,97.66666667,5,None,0
+12/9/2012,Tampa Bay Buccaneers,Philadelphia Eagles,21,23,,,,-7,48,44,-4,75,72.5,5.333333333,None,0
+12/9/2012,Seattle Seahawks,Arizona Cardinals,58,0,,,,-10.5,36,58,22,42.25,91,7,None,0
+12/9/2012,San Francisco 49ers,Miami Dolphins,27,13,,,,-11,38.5,40,1.5,63,42.25,4,None,0
+12/9/2012,Pittsburgh Steelers,San Diego Chargers,24,34,,,,-7.5,38,58,20,52.25,74,8.75,None,0
+12/9/2012,New York Giants,New Orleans Saints,52,27,,,,-4.5,52.5,79,26.5,42.75,81.75,5.75,rain,0
+12/9/2012,Green Bay Packers,Detroit Lions,27,20,,,,-6,49.5,47,-2.5,32.25,92.25,11.5,snow,0
+12/9/2012,Cleveland Browns,Kansas City Chiefs,30,7,,,,-7,38,37,-1,44.5,73,10,rain,0
+12/9/2012,Cincinnati Bengals,Dallas Cowboys,19,20,,,,-3,46,39,-7,56.75,93,4.666666667,None,0
+12/9/2012,Carolina Panthers,Atlanta Falcons,30,20,,,,3.5,47,50,3,64,88,6.75,None,0
+12/9/2012,Buffalo Bills,St. Louis Rams,12,15,,,,-3.5,42.5,27,-15.5,36.75,70.25,14.25,None,0
+12/10/2012,New England Patriots,Houston Texans,42,14,,,,-5.5,51,56,5,58.25,90,5.75,None,0
+12/13/2012,Philadelphia Eagles,Cincinnati Bengals,13,34,,,,5,45,47,2,37,66,4,None,0
+12/16/2012,San Diego Chargers,Carolina Panthers,7,31,,,,-3,45.5,38,-7.5,57.5,70.75,5.333333333,None,0
+12/16/2012,Oakland Raiders,Kansas City Chiefs,15,0,,,,-4,43.5,15,-28.5,56,71,5.25,None,0
+12/16/2012,New England Patriots,San Francisco 49ers,34,41,,,,-4,47.5,75,27.5,36.75,92.25,6.25,rain,0
+12/16/2012,Miami Dolphins,Jacksonville Jaguars,24,3,,,,-7.5,38.5,27,-11.5,78.25,62.5,10.75,None,0
+12/16/2012,Cleveland Browns,Washington Redskins,21,38,,,,-4,40.5,59,18.5,57.75,72,9.25,None,0
+12/16/2012,Chicago Bears,Green Bay Packers,13,21,,,,3,43.5,34,-9.5,42.75,76,13,None,0
+12/16/2012,Baltimore Ravens,Denver Broncos,17,34,,,,3,48,51,3,50,76.25,5,None,0
+12/16/2012,Arizona Cardinals,Detroit Lions,38,10,,,,5.5,43.5,48,4.5,56.33333333,47.33333333,6,None,0
+12/17/2012,Tennessee Titans,New York Jets,14,10,,,,1,40.5,24,-16.5,49.75,78.25,9.25,None,0
+12/23/2012,Tampa Bay Buccaneers,St. Louis Rams,13,28,,,,-3,43.5,41,-2.5,62.75,24.75,5.666666667,None,0
+12/23/2012,Seattle Seahawks,San Francisco 49ers,42,13,,,,-2.5,40.5,55,14.5,42.5,82.25,4.666666667,rain,0
+12/23/2012,Pittsburgh Steelers,Cincinnati Bengals,10,13,,,,-3,40.5,23,-17.5,37.75,54.75,11,None,0
+12/23/2012,Philadelphia Eagles,Washington Redskins,20,27,,,,4.5,46,47,1,44.25,33.75,11.25,None,0
+12/23/2012,New York Jets,San Diego Chargers,17,27,,,,-3,37,44,7,41.5,41.5,9.5,None,0
+12/23/2012,Miami Dolphins,Buffalo Bills,24,10,,,,-4.5,43,34,-9,72.25,43,9,None,0
+12/23/2012,Kansas City Chiefs,Indianapolis Colts,13,20,,,,5,41.5,33,-8.5,35.5,59.75,4.75,None,0
+12/23/2012,Green Bay Packers,Tennessee Titans,55,7,,,,-10.5,44.5,62,17.5,24.5,65.25,6.25,None,0
+12/23/2012,Denver Broncos,Cleveland Browns,34,12,,,,-11,44,46,2,47.75,14.5,13.5,None,0
+12/23/2012,Carolina Panthers,Oakland Raiders,17,6,,,,-9,47,23,-24,53,24.25,6,None,0
+12/23/2012,Baltimore Ravens,New York Giants,33,14,,,,2.5,47.5,47,-0.5,40,42,6,None,0
+12/23/2012,Arizona Cardinals,Chicago Bears,13,28,,,,7,36,41,5,63,33.5,4.333333333,None,0
+12/30/2012,Washington Redskins,Dallas Cowboys,28,18,,,,-3,49,46,-3,35,58,6.25,None,0
+12/30/2012,Tennessee Titans,Jacksonville Jaguars,38,20,,,,-6,42,58,16,38.25,49.5,4,None,0
+12/30/2012,Seattle Seahawks,St. Louis Rams,20,13,,,,-11.5,42,33,-9,41.75,75.25,6,None,0
+12/30/2012,San Francisco 49ers,Arizona Cardinals,27,13,,,,-16.5,38.5,40,1.5,53,59,7.666666667,None,0
+12/30/2012,San Diego Chargers,Oakland Raiders,24,21,,,,-8.5,41.5,45,3.5,53.25,71.25,6.25,None,0
+12/30/2012,Pittsburgh Steelers,Cleveland Browns,24,10,,,,-10,36.5,34,-2.5,26.75,81,17.25,None,0
+12/30/2012,New York Giants,Philadelphia Eagles,42,7,,,,-6.5,44.5,49,4.5,34,43,23.5,snow,0
+12/30/2012,New England Patriots,Miami Dolphins,28,0,,,,-11.5,48,28,-20,28.5,46,16,None,0
+12/30/2012,Denver Broncos,Kansas City Chiefs,38,3,,,,-17,41,41,0,29.5,43,16,None,0
+12/30/2012,Cincinnati Bengals,Baltimore Ravens,23,17,,,,-5.5,43,40,-3,28,70.25,7.5,None,0
+12/30/2012,Buffalo Bills,New York Jets,28,9,,,,-3.5,40.5,37,-3.5,27.5,68.5,9,None,0
+1/5/2013,Green Bay Packers,Minnesota Vikings,24,10,,Y,,-11,44,34,-10,29.75,80.75,7.75,None,0
+1/6/2013,Washington Redskins,Seattle Seahawks,14,24,,Y,,3,44.5,38,-6.5,51,42.66666667,4.666666667,None,0
+1/6/2013,Baltimore Ravens,Indianapolis Colts,24,9,,Y,,-7.5,47.5,33,-14.5,49.75,38.25,8,None,0
+1/12/2013,San Francisco 49ers,Green Bay Packers,45,31,,Y,,-3,45.5,76,30.5,47,48.25,5.5,None,0
+1/12/2013,Denver Broncos,Baltimore Ravens,35,38,Y,Y,,-9,44,73,29,11.25,62.5,8.25,None,0
+1/13/2013,New England Patriots,Houston Texans,41,28,,Y,,-9.5,50.5,69,18.5,50.5,90.75,8.25,None,0
+9/5/2013,Denver Broncos,Baltimore Ravens,49,27,,,,-7.5,48.5,76,27.5,82.75,27.5,4.666666667,None,0
+9/8/2013,Buffalo Bills,New England Patriots,21,23,,,,10,51,44,-7,65.25,49.75,8.5,None,0
+9/8/2013,Carolina Panthers,Seattle Seahawks,7,12,,,,3,44.5,19,-25.5,86.75,44.25,5.75,None,0
+9/8/2013,Chicago Bears,Cincinnati Bengals,24,21,,,,-3,41.5,45,3.5,76,70,14.75,None,0
+9/8/2013,Cleveland Browns,Miami Dolphins,10,23,,,,-2.5,41,33,-8,72,68.75,17.5,None,0
+9/8/2013,Jacksonville Jaguars,Kansas City Chiefs,2,28,,,,3.5,42.5,30,-12.5,87,44,8.25,None,0
+9/8/2013,New York Jets,Tampa Bay Buccaneers,18,17,,,,4,39.5,35,-4.5,80.5,46,14,None,0
+9/8/2013,Pittsburgh Steelers,Tennessee Titans,9,16,,,,-6,42,25,-17,74.75,72.25,5.25,None,0
+9/8/2013,San Francisco 49ers,Green Bay Packers,34,28,,,,-5.5,47.5,62,14.5,72.5,56,15.75,None,0
+9/9/2013,San Diego Chargers,Houston Texans,28,31,,,,6,44.5,59,14.5,68.5,76.5,7.5,None,0
+9/9/2013,Washington Redskins,Philadelphia Eagles,27,33,,,,-4,52.5,60,7.5,77,71.25,4.25,None,0
+9/12/2013,New England Patriots,New York Jets,13,10,,,,-11,43,23,-20,73,86,8,None,0
+9/15/2013,Baltimore Ravens,Cleveland Browns,14,6,,,,-6.5,43.5,20,-23.5,74,35.75,7,None,0
+9/15/2013,Buffalo Bills,Carolina Panthers,24,23,,,,3.5,43.5,47,3.5,65.25,55.75,12.5,None,0
+9/15/2013,Chicago Bears,Minnesota Vikings,31,30,,,,-6,41,61,20,61,76.5,6,rain,0
+9/15/2013,Green Bay Packers,Washington Redskins,38,20,,,,-7,49,58,9,60,84.5,4.5,None,0
+9/15/2013,Indianapolis Colts,Miami Dolphins,20,24,,,,-2,43.5,44,0.5,74.5,38.25,11.75,None,0
+9/15/2013,Kansas City Chiefs,Dallas Cowboys,17,16,,,,-3,45.5,33,-12.5,76.5,65.25,4.5,None,0
+9/15/2013,New York Giants,Denver Broncos,23,41,,,,3.5,54,64,10,70.5,36.25,6.75,None,0
+9/15/2013,Oakland Raiders,Jacksonville Jaguars,19,9,,,,-4,41,28,-13,71,66,7.75,None,0
+9/15/2013,Philadelphia Eagles,San Diego Chargers,30,33,,,,-7.5,52.5,63,10.5,71.5,40.75,8.25,None,0
+9/15/2013,Seattle Seahawks,San Francisco 49ers,29,3,,,,-3,44.5,32,-12.5,64.5,83.25,7,rain,0
+9/15/2013,Tampa Bay Buccaneers,New Orleans Saints,14,16,,,,3.5,48.5,30,-18.5,79.5,75.75,8.25,rain,0
+9/16/2013,Cincinnati Bengals,Pittsburgh Steelers,20,10,,,,-6.5,40,30,-10,56.75,88.75,4.333333333,None,0
+9/19/2013,Philadelphia Eagles,Kansas City Chiefs,16,26,,,,-3.5,50.5,42,-8.5,66.5,64,8,None,0
+9/22/2013,Tennessee Titans,San Diego Chargers,20,17,,,,-3,43,37,-6,74.75,41.25,11,None,0
+9/22/2013,New England Patriots,Tampa Bay Buccaneers,23,3,,,,-7,44.5,26,-18.5,70.75,52.25,12.75,None,0
+9/22/2013,Baltimore Ravens,Houston Texans,30,9,,,,-1,44.5,39,-5.5,71.25,44,8.5,None,0
+9/22/2013,Washington Redskins,Detroit Lions,20,27,,,,1,49,47,-2,72.25,49.75,8,None,0
+9/22/2013,Cincinnati Bengals,Green Bay Packers,34,30,,,,3,50,64,14,66.5,47.25,8.75,None,0
+9/22/2013,Carolina Panthers,New York Giants,38,0,,,,2.5,47.5,38,-9.5,76.75,43.25,10.25,None,0
+9/22/2013,Miami Dolphins,Atlanta Falcons,27,23,,,,-2.5,45.5,50,4.5,83.75,76.5,6,None,0
+9/22/2013,San Francisco 49ers,Indianapolis Colts,7,27,,,,-10.5,46,34,-12,68.25,54,14.75,None,0
+9/22/2013,Seattle Seahawks,Jacksonville Jaguars,45,17,,,,-19.5,39.5,62,22.5,60,78,15.25,None,0
+9/22/2013,New York Jets,Buffalo Bills,27,20,,,,-2.5,41,47,6,66,43.75,12.75,None,0
+9/22/2013,Pittsburgh Steelers,Chicago Bears,23,40,,,,2.5,40.5,63,22.5,52.5,80.75,5.333333333,None,0
+9/23/2013,Denver Broncos,Oakland Raiders,37,21,,,,-16.5,49.5,58,8.5,57.5,31,16.75,None,0
+9/29/2013,Minnesota Vikings,Pittsburgh Steelers,34,27,,,Y,3,41.5,61,19.5,59,72,10.5,None,0
+9/29/2013,Buffalo Bills,Baltimore Ravens,23,20,,,,3.5,45,43,-2,73,50,7.5,None,0
+9/29/2013,Cleveland Browns,Cincinnati Bengals,17,6,,,,3.5,42.5,23,-19.5,71.75,60,7.75,None,0
+9/29/2013,Jacksonville Jaguars,Indianapolis Colts,3,37,,,,9,42.5,40,-2.5,81,60.5,15,None,0
+9/29/2013,Tampa Bay Buccaneers,Arizona Cardinals,10,13,,,,-2.5,40.5,23,-17.5,85,52,5.75,None,0
+9/29/2013,Kansas City Chiefs,New York Giants,31,7,,,,-3.5,44,38,-6,71.5,42.25,5,None,0
+9/29/2013,Tennessee Titans,New York Jets,38,13,,,,-3.5,40.5,51,10.5,70.5,64,6.25,None,0
+9/29/2013,San Diego Chargers,Dallas Cowboys,30,21,,,,1.5,47,51,4,81.5,23.5,10.5,None,0
+9/29/2013,Oakland Raiders,Washington Redskins,14,24,,,,3.5,45.5,38,-7.5,71.5,63.25,7.25,None,0
+9/29/2013,Denver Broncos,Philadelphia Eagles,52,20,,,,-10.5,58.5,72,13.5,74.25,11.75,8.75,None,0
+10/3/2013,Cleveland Browns,Buffalo Bills,37,24,,,,-3.5,40.5,61,20.5,69.75,81.25,9,None,0
+10/6/2013,Tennessee Titans,Kansas City Chiefs,17,26,,,,2.5,38,43,5,66.25,89,9,rain,0
+10/6/2013,Miami Dolphins,Baltimore Ravens,23,26,,,,-2.5,43,49,6,87.5,55,7,None,0
+10/6/2013,Cincinnati Bengals,New England Patriots,13,6,,,,1.5,45.5,19,-26.5,71.75,86.5,11.25,None,0
+10/6/2013,Green Bay Packers,Detroit Lions,22,9,,,,-10,53.5,31,-22.5,61,48.75,12.5,None,0
+10/6/2013,Chicago Bears,New Orleans Saints,18,26,,,,1,50.5,44,-6.5,60.5,49.5,12.5,None,0
+10/6/2013,New York Giants,Philadelphia Eagles,21,36,,,,1,54,57,3,69.75,84.25,7.75,None,1
+10/6/2013,Oakland Raiders,San Diego Chargers,27,17,,,,5.5,47,44,-3,65,35,4.5,None,0
+10/6/2013,San Francisco 49ers,Houston Texans,34,3,,,,-4.5,43.5,37,-6.5,73.75,39.25,8.5,None,0
+10/10/2013,Chicago Bears,New York Giants,27,21,,,,-9,47.5,48,0.5,64.5,63.5,7.75,None,0
+10/13/2013,Kansas City Chiefs,Oakland Raiders,24,7,,,,-8,41,31,-10,68.5,30.5,11.25,None,0
+10/13/2013,Tampa Bay Buccaneers,Philadelphia Eagles,20,31,,,,3,45,51,6,84,40,5.666666667,None,0
+10/13/2013,Baltimore Ravens,Green Bay Packers,17,19,,,,2,49,36,-13,63.5,71.5,12.75,None,0
+10/13/2013,Cleveland Browns,Detroit Lions,17,31,,,,2,43.5,48,4.5,64,68.5,10.75,None,0
+10/13/2013,New York Jets,Pittsburgh Steelers,6,19,,,,1.5,41,25,-16,64.75,56,10.25,None,0
+10/13/2013,Buffalo Bills,Cincinnati Bengals,24,27,Y,,,6,41.5,51,9.5,67.75,69.75,8,None,0
+10/13/2013,Seattle Seahawks,Tennessee Titans,20,13,,,,-12.5,42,33,-9,56.75,64.25,4,None,0
+10/13/2013,Denver Broncos,Jacksonville Jaguars,35,19,,,,-27,53,54,1,58,49.5,5.5,None,1
+10/13/2013,San Francisco 49ers,Arizona Cardinals,32,20,,,,-10,40.5,52,11.5,70,37,11.5,None,0
+10/13/2013,New England Patriots,New Orleans Saints,30,27,,,,-2,51,57,6,55.25,64.5,5,None,0
+10/14/2013,San Diego Chargers,Indianapolis Colts,19,9,,,,1.5,51,28,-23,65,81.25,4.5,None,0
+10/17/2013,Arizona Cardinals,Seattle Seahawks,22,34,,,,5.5,41,56,15,76.5,17.25,4.75,None,0
+10/20/2013,New York Jets,New England Patriots,30,27,Y,,,3.5,43,57,14,64.5,32,9.75,None,0
+10/20/2013,Jacksonville Jaguars,San Diego Chargers,6,24,,,,7,45,30,-15,77.5,55.5,8.75,None,0
+10/20/2013,Kansas City Chiefs,Houston Texans,17,16,,,,-7,39,33,-6,69,36.25,11,None,0
+10/20/2013,Miami Dolphins,Buffalo Bills,21,23,,,,-6,44,44,0,86.75,61,9.5,None,0
+10/20/2013,Washington Redskins,Chicago Bears,45,41,,,,1,48.5,86,37.5,63.25,32.25,8,None,0
+10/20/2013,Philadelphia Eagles,Dallas Cowboys,3,17,,,,-3,55.5,20,-35.5,61.5,33.75,13,None,0
+10/20/2013,Carolina Panthers,St. Louis Rams,30,15,,,,-7,42.5,45,2.5,63.5,37.75,5.333333333,None,0
+10/20/2013,Tennessee Titans,San Francisco 49ers,17,31,,,,3.5,41,48,7,61.75,35.5,5.5,None,0
+10/20/2013,Green Bay Packers,Cleveland Browns,31,13,,,,-8.5,45.5,44,-1.5,44.75,77.5,7.5,None,0
+10/20/2013,Pittsburgh Steelers,Baltimore Ravens,19,16,,,,-2,41,35,-6,54.75,47.25,10.25,None,0
+10/20/2013,Indianapolis Colts,Denver Broncos,39,33,,,,6.5,56,72,16,52.25,62.5,10.75,None,0
+10/21/2013,New York Giants,Minnesota Vikings,23,7,,,,-4,48,30,-18,57,62.25,7.5,None,0
+10/24/2013,Tampa Bay Buccaneers,Carolina Panthers,13,31,,,,7,39.5,44,4.5,65.75,64.25,4,None,0
+10/27/2013,Jacksonville Jaguars,San Francisco 49ers,10,42,,,Y,16,40,52,12,57,70.75,16.75,None,0
+10/27/2013,Philadelphia Eagles,New York Giants,7,15,,,,-5.5,50,22,-28,57.5,34,14.75,None,0
+10/27/2013,Kansas City Chiefs,Cleveland Browns,23,17,,,,-7,39,40,1,59.5,32.75,9.75,None,0
+10/27/2013,New England Patriots,Miami Dolphins,27,17,,,,-6.5,46,44,-2,54.75,38.75,12,None,0
+10/27/2013,Cincinnati Bengals,New York Jets,49,9,,,,-6,41,58,17,54.25,48.25,5,None,0
+10/27/2013,Oakland Raiders,Pittsburgh Steelers,21,18,,,,3,40,39,-1,57.5,81.75,16.75,None,0
+10/27/2013,Denver Broncos,Washington Redskins,45,21,,,,-11,59,66,7,68,11.75,11.75,None,0
+10/31/2013,Miami Dolphins,Cincinnati Bengals,22,20,Y,,,3,42.5,42,-0.5,78.5,77.75,6.25,None,0
+11/3/2013,Carolina Panthers,Atlanta Falcons,34,10,,,,-8.5,47,44,-3,61.5,35.25,11.25,None,0
+11/3/2013,New York Jets,New Orleans Saints,26,20,,,,6,46,46,0,51.25,42.25,12,None,0
+11/3/2013,Buffalo Bills,Kansas City Chiefs,13,23,,,,5,41,36,-5,37.5,50,7.25,None,0
+11/3/2013,Washington Redskins,San Diego Chargers,30,24,Y,,,-1.5,49.5,54,4.5,57.5,28.75,8.25,None,0
+11/3/2013,Oakland Raiders,Philadelphia Eagles,20,49,,,,-1,45.5,69,23.5,61.5,41.5,13.25,None,0
+11/3/2013,Seattle Seahawks,Tampa Bay Buccaneers,27,24,Y,,,-16,40.5,51,10.5,51.5,53,5.666666667,None,0
+11/3/2013,Cleveland Browns,Baltimore Ravens,24,18,,,,1.5,42,42,0,42.25,60.25,11.25,None,0
+11/3/2013,New England Patriots,Pittsburgh Steelers,55,31,,,,-6,42.5,86,43.5,41.75,37.75,4.75,None,0
+11/3/2013,Houston Texans,Indianapolis Colts,24,27,,,,1.5,43,51,8,58.75,68,7.25,None,0
+11/4/2013,Green Bay Packers,Chicago Bears,20,27,,,,-10,51,47,-4,48.5,85.25,7,None,0
+11/10/2013,Tennessee Titans,Jacksonville Jaguars,27,29,,,,-11.5,42,56,14,64.75,28.75,7.75,None,0
+11/10/2013,Green Bay Packers,Philadelphia Eagles,13,27,,,,1,47,40,-7,45.75,52.5,11.5,None,0
+11/10/2013,Pittsburgh Steelers,Buffalo Bills,23,10,,,,-3,43,33,-10,44.5,48.5,15.75,None,0
+11/10/2013,New York Giants,Oakland Raiders,24,20,,,,-7,41.5,44,2.5,54.25,45.5,17.75,rain,0
+11/10/2013,Baltimore Ravens,Cincinnati Bengals,20,17,Y,,,-1,44,37,-7,58.5,28.5,22.25,None,0
+11/10/2013,Chicago Bears,Detroit Lions,19,21,,,,1,52.5,40,-12.5,47.5,47.25,7,None,0
+11/10/2013,San Francisco 49ers,Carolina Panthers,9,10,,,,-6,43.5,19,-24.5,62,65,5,None,0
+11/10/2013,San Diego Chargers,Denver Broncos,20,28,,,,7,57.5,48,-9.5,77,16.25,7,None,0
+11/11/2013,Tampa Bay Buccaneers,Miami Dolphins,22,19,,,,1,39.5,41,1.5,71,79,5,None,0
+11/14/2013,Tennessee Titans,Indianapolis Colts,27,30,,,,3,42.5,57,14.5,41.25,41.75,6.25,None,0
+11/17/2013,Tampa Bay Buccaneers,Atlanta Falcons,41,28,,,,-2,43.5,69,25.5,79.25,71,4.75,None,0
+11/17/2013,Buffalo Bills,New York Jets,37,14,,,,2,39,51,12,62.75,69.75,20.5,None,0
+11/17/2013,Pittsburgh Steelers,Detroit Lions,37,27,,,,3,45.5,64,18.5,59.75,85.25,13.5,rain,0
+11/17/2013,Philadelphia Eagles,Washington Redskins,24,16,,,,-4.5,55,40,-15,66.75,62.25,8.75,None,0
+11/17/2013,Miami Dolphins,San Diego Chargers,20,16,,,,2.5,45,36,-9,79.25,68,7.75,None,0
+11/17/2013,Chicago Bears,Baltimore Ravens,23,20,Y,,,-3,40,43,3,60.25,86.25,26.75,None,0
+11/17/2013,Cincinnati Bengals,Cleveland Browns,41,20,,,,-5,40,61,21,63.25,89.25,13.25,None,0
+11/17/2013,Jacksonville Jaguars,Arizona Cardinals,14,27,,,,9,40.5,41,0.5,79.25,70.5,8.5,None,0
+11/17/2013,Denver Broncos,Kansas City Chiefs,27,17,,,,-7.5,49,44,-5,43.25,36.75,10.25,None,0
+11/17/2013,Seattle Seahawks,Minnesota Vikings,41,20,,,,-13,45.5,61,15.5,52.25,76.25,12.75,None,0
+11/17/2013,New York Giants,Green Bay Packers,27,13,,,,-3.5,41.5,40,-1.5,61.75,85.25,4.5,None,0
+11/18/2013,Carolina Panthers,New England Patriots,24,20,,,,-3,46.5,44,-2.5,55.5,36.25,15,None,0
+11/24/2013,New England Patriots,Denver Broncos,34,31,Y,,,1,54,65,11,22.25,31.25,16.25,None,0
+11/24/2013,New York Giants,Dallas Cowboys,21,24,,,,-2.5,44.5,45,0.5,27.5,30.75,13,None,0
+11/24/2013,Oakland Raiders,Tennessee Titans,19,23,,,,2.5,42,42,0,59,53.5,5.75,None,0
+11/24/2013,Baltimore Ravens,New York Jets,19,3,,,,-4,38,22,-16,31.25,30.75,17.5,None,0
+11/24/2013,Cleveland Browns,Pittsburgh Steelers,11,27,,,,-2.5,40,38,-2,24.25,51.75,14.5,snow,0
+11/24/2013,Green Bay Packers,Minnesota Vikings,26,26,Y,,,-6,44.5,52,7.5,20.5,47.5,10.25,None,0
+11/24/2013,Kansas City Chiefs,San Diego Chargers,38,41,,,,-3.5,43,79,36,28.25,36.25,7,None,0
+11/24/2013,Miami Dolphins,Carolina Panthers,16,20,,,,4.5,40,36,-4,80.25,60,14.25,None,0
+11/25/2013,Washington Redskins,San Francisco 49ers,6,27,,,,5.5,45.5,33,-12.5,36,34.5,4.333333333,None,0
+11/28/2013,Baltimore Ravens,Pittsburgh Steelers,22,20,,,,-3,40.5,42,1.5,29.5,68.25,0,None,0
+12/1/2013,Kansas City Chiefs,Denver Broncos,28,35,,,,5.5,49,63,14,52.25,49.5,0,None,0
+12/1/2013,Cleveland Browns,Jacksonville Jaguars,28,32,,,,-7,40.5,60,19.5,43.25,56,7,None,0
+12/1/2013,Carolina Panthers,Tampa Bay Buccaneers,27,6,,,,-7.5,41.5,33,-8.5,55.75,44.75,7.333333333,None,0
+12/1/2013,Philadelphia Eagles,Arizona Cardinals,24,21,,,,-3,48.5,45,-3.5,47,47.25,6,None,0
+12/1/2013,New York Jets,Miami Dolphins,3,23,,,,-2,40,26,-14,49.25,45.75,5,None,0
+12/1/2013,San Francisco 49ers,St. Louis Rams,23,13,,,,-8,42,36,-6,60.75,65.75,4,None,0
+12/1/2013,Houston Texans,New England Patriots,31,34,,,,7.5,47.5,65,17.5,69.25,67.75,7.25,None,0
+12/1/2013,San Diego Chargers,Cincinnati Bengals,10,17,,,,-1,48.5,27,-21.5,75.25,29.5,7.25,None,0
+12/1/2013,Washington Redskins,New York Giants,17,24,,,,1,45.5,41,-4.5,42,78.25,0,None,0
+12/2/2013,Seattle Seahawks,New Orleans Saints,34,7,,,,-5,47,41,-6,39,80.25,5.75,None,0
+12/5/2013,Jacksonville Jaguars,Houston Texans,27,20,,,,3,43.5,47,3.5,71.75,76.25,7,None,0
+12/8/2013,San Diego Chargers,New York Giants,37,14,,,,-4.5,46.5,51,4.5,53,51.25,8.25,None,0
+12/8/2013,San Francisco 49ers,Seattle Seahawks,19,17,,,,-2.5,41,36,-5,45.5,39.75,11.66666667,None,0
+12/8/2013,Denver Broncos,Tennessee Titans,51,28,,,,-13,49.5,79,29.5,16.33333333,70.66666667,6.666666667,None,1
+12/8/2013,Baltimore Ravens,Minnesota Vikings,29,26,,,,-6,41.5,55,13.5,27.25,91.5,6.25,snow,0
+12/8/2013,Cincinnati Bengals,Indianapolis Colts,42,28,,,,-7,43,70,27,27.75,83.75,7.75,None,0
+12/8/2013,Green Bay Packers,Atlanta Falcons,22,21,,,,-3.5,47,43,-4,10.5,81,11.25,snow,0
+12/8/2013,New England Patriots,Cleveland Browns,27,26,,,,-9.5,47.5,53,5.5,31,47,4,None,0
+12/8/2013,New York Jets,Oakland Raiders,37,27,,,,-3,39,64,25,33.75,48.5,5.333333333,None,0
+12/8/2013,Philadelphia Eagles,Detroit Lions,34,20,,,,-2.5,54,54,0,27.75,86.25,9,snow,0
+12/8/2013,Pittsburgh Steelers,Miami Dolphins,28,34,,,,-3,40.5,62,21.5,26.25,82.75,8.75,None,0
+12/8/2013,Tampa Bay Buccaneers,Buffalo Bills,27,6,,,,-3,42.5,33,-9.5,82.75,59.25,9.75,None,0
+12/8/2013,Washington Redskins,Kansas City Chiefs,10,45,,,,3.5,44,55,11,30.25,92.75,1,None,0
+12/9/2013,Chicago Bears,Dallas Cowboys,45,28,,,,-2,49,73,24,6,63.25,11,None,0
+12/12/2013,Denver Broncos,San Diego Chargers,20,27,,,,-10.5,55.5,47,-8.5,37.5,44.75,5.5,None,0
+12/15/2013,Tampa Bay Buccaneers,San Francisco 49ers,14,33,,,,5.5,41,47,6,69,64.25,8,None,0
+12/15/2013,Tennessee Titans,Arizona Cardinals,34,37,Y,,,2.5,41.5,71,29.5,34,69,5,None,0
+12/15/2013,New York Giants,Seattle Seahawks,0,23,,,,7,41,23,-18,39.25,64.5,10.75,None,0
+12/15/2013,Cleveland Browns,Chicago Bears,31,38,,,,-1,45.5,69,23.5,23,72.25,22.75,snow,0
+12/15/2013,Jacksonville Jaguars,Buffalo Bills,20,27,,,,2,43,47,4,65,71.75,11,None,0
+12/15/2013,Miami Dolphins,New England Patriots,24,20,,,,2.5,45.5,44,-1.5,83,65,13.25,None,0
+12/15/2013,Carolina Panthers,New York Jets,30,20,,,,-11,40.5,50,9.5,46.5,48.25,8,None,0
+12/15/2013,Oakland Raiders,Kansas City Chiefs,31,56,,,,4,41,87,46,55.25,54,4.666666667,None,0
+12/15/2013,Pittsburgh Steelers,Cincinnati Bengals,30,20,,,,3,41,50,9,23.75,57.25,13.75,None,0
+12/22/2013,Buffalo Bills,Miami Dolphins,19,0,,,,2.5,43,19,-24,38,93.75,11,rain,0
+12/22/2013,Carolina Panthers,New Orleans Saints,17,13,,,,-3,46.5,30,-16.5,68,89.5,11,rain,0
+12/22/2013,Washington Redskins,Dallas Cowboys,23,24,,,,3,53,47,-6,64.5,88.5,6.5,None,0
+12/22/2013,Philadelphia Eagles,Chicago Bears,54,11,,,,-3,56,65,9,60.5,79,7.5,None,0
+12/22/2013,New York Jets,Cleveland Browns,24,13,,,,-2,40.5,37,-3.5,68.75,66.75,12,None,0
+12/22/2013,Kansas City Chiefs,Indianapolis Colts,7,23,,,,-7,44,30,-14,25,73.25,10.25,None,1
+12/22/2013,Cincinnati Bengals,Minnesota Vikings,42,14,,,,-7.5,48,56,8,52.5,74,15,None,0
+12/22/2013,Houston Texans,Denver Broncos,13,37,,,,10.5,51.5,50,-1.5,59.25,63.5,12.75,None,0
+12/22/2013,Jacksonville Jaguars,Tennessee Titans,16,20,,,,5.5,44,36,-8,80.25,63,10.5,None,0
+12/22/2013,Seattle Seahawks,Arizona Cardinals,10,17,,,,-10.5,44,27,-17,50.75,89,6.333333333,None,0
+12/22/2013,San Diego Chargers,Oakland Raiders,26,13,,,,-10,50.5,39,-11.5,67.75,42,5.75,None,0
+12/22/2013,Green Bay Packers,Pittsburgh Steelers,31,38,,,,-2.5,45,69,24,22.25,84.75,7.75,snow,0
+12/22/2013,Baltimore Ravens,New England Patriots,7,41,,,,-2.5,45,48,3,63.5,78.5,8.75,rain,0
+12/23/2013,San Francisco 49ers,Atlanta Falcons,34,24,,,,-12,45,58,13,54.75,55.75,4,None,0
+12/29/2013,Chicago Bears,Green Bay Packers,28,33,,,,3,52,61,9,24.5,77.25,13.75,None,0
+12/29/2013,Tennessee Titans,Houston Texans,16,10,,,,-7,44,26,-18,52.75,56.5,5.5,None,0
+12/29/2013,Pittsburgh Steelers,Cleveland Browns,20,7,,,,-7,44,27,-17,40.75,92,7.5,rain,0
+12/29/2013,New York Giants,Washington Redskins,20,6,,,,-3.5,45.5,26,-19.5,42.5,85,6.5,rain,0
+12/29/2013,Cincinnati Bengals,Baltimore Ravens,34,17,,,,-6,44.5,51,6.5,60.25,44.75,8.75,None,0
+12/29/2013,Miami Dolphins,New York Jets,7,20,,,,-5.5,41,27,-14,79.25,80.5,13.75,None,0
+12/29/2013,New England Patriots,Buffalo Bills,34,20,,,,-9,47,54,7,40.5,96.5,7,rain,0
+12/29/2013,Oakland Raiders,Denver Broncos,14,34,,,,12,54,48,-6,67.5,18,9.75,None,0
+12/29/2013,Arizona Cardinals,San Francisco 49ers,20,23,,,,1,42,43,1,66.5,24.75,6.333333333,None,0
+12/29/2013,San Diego Chargers,Kansas City Chiefs,27,24,Y,,,-9.5,45,51,6,71.5,25.5,6.5,None,0
+12/29/2013,Seattle Seahawks,St. Louis Rams,27,9,,,,-11.5,43,36,-7,44.5,77.5,0,None,0
