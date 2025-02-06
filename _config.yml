@@ -1,13 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -16,19 +6,19 @@
 title: "Hi, my name is Dev!"
 email: 'dam387@cornell.edu'
 description: "Welcome to my portfolio! Here's some more information about me:
-
+<br>
 - 🔭 I’m currently working on: Developing case study solutions for business strategy and operations challenges
-
+<br>
 - 🌱 I’m currently learning: How to scuba dive; in the process of getting certified
-
+<br>
 - 👯 I’m looking to collaborate on: Data-driven storytelling through analytics and visualization
-
+<br>
 - 🤔 I’m looking for help with: Breaking into corporate strategy and product management roles
-
+<br>
 - 💬 Ask me about: Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
-
+<br>
 - 📫 How to reach me:  [Email](mailto:dam387@cornell.edu) | [LinkedIn](https://www.linkedin.com/in/dev-misra/)
-
+<br>
 - ⚡ Fun fact: I've driven a tank"
 
 
