@@ -8,6 +8,7 @@ email: 'dam387@cornell.edu'
 description: "<h3>Welcome to my portfolio! Here's some more information about me:</h3>
 <br>
 <br>
+<font size = 2>
 🔭 <b>I’m currently working on:</b> Developing case study solutions for business strategy and operations challenges
 <br>
 🤿 <b>I’m currently learning:</b> How to scuba dive; in the process of getting certified
@@ -19,7 +20,7 @@ description: "<h3>Welcome to my portfolio! Here's some more information about me
 💬 <b>Ask me about:</b> Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
 <br>
 ⚡ <b>Fun fact:</b> I've driven a tank"
-
+</font>
 url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
