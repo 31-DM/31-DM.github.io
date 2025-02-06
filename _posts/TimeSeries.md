@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: home
 position: left
 title: 'Time Series Model for NFL Betting'
 date: 2020
