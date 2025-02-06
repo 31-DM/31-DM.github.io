@@ -13,7 +13,8 @@
           {% endif %}
 
           {% if site.description != '' or site.enable_contact == true %}
-          <p class="text-left">
+          <br>
+          <br>
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
@@ -22,9 +23,10 @@
             {% include contact.html %}
             {% include contact-modal.html %}
             {% endif %}
-          </p>
+  
           {% endif %}
-
+          <br>
+          <br>
           <div class="hero-buttons">
 
             {% if site.linkedin_username != '' %}
