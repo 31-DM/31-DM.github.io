@@ -60,7 +60,7 @@ pagination:
   title: ':title - page :num'
 
   # Limit how many pagenated pages to create (default: 0, means all)
-  limit: 5
+  limit: 0
   
   # Optional, defines the field that the posts should be sorted on (omit to default to 'date')
   sort_field: 'date'
@@ -97,6 +97,7 @@ pagination:
 ### Phantom settings
 footer_text: 'DM Portfolio 2025'
 admin_name: 'DM'
+google_analytics: "G-50CHLDZ6Q0"
 
 #### Phantom Navigation menu
 enable_nav: true
