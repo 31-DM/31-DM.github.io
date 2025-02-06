@@ -5,21 +5,22 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hi, my name is Dev!"
 email: 'dam387@cornell.edu'
-description: "Welcome to my portfolio! Here's some more information about me:
+description: <fontsize=4><b>"Welcome to my portfolio! Here's some more information about me:</b></font>
 <br>
 <br>
-🔭 I’m currently working on: Developing case study solutions for business strategy and operations challenges
+<fontsize=3>
+🔭 <b>I’m currently working on:</b> Developing case study solutions for business strategy and operations challenges
 <br>
-🤿 I’m currently learning: How to scuba dive; in the process of getting certified
+🤿 <b>I’m currently learning:</b> How to scuba dive; in the process of getting certified
 <br>
-📊 I’m looking to collaborate on: Data-driven storytelling through analytics and visualization
+📊 <b>I’m looking to collaborate on:</b> Data-driven storytelling through analytics and visualization
 <br>
-🤔 I’m looking for help with: Breaking into corporate strategy and product management roles
+🤔 <b>I’m looking for help with:</b> Breaking into corporate strategy and product management roles
 <br>
-💬 Ask me about: Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
+💬 <b>Ask me about:</b> Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
 <br>
-⚡ Fun fact: I've driven a tank"
-
+⚡ <b>Fun fact:</b> I've driven a tank"
+</font>
 url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
