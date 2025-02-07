@@ -97,9 +97,9 @@ pagination:
 ### Phantom settings
 footer_text: 'DM Portfolio 2025'
 admin_name: 'DM'
-google_analytics: "G-50CHLDZ6Q0"
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
+  - { url: '/gaming', text: 'Gaming' }
