@@ -2,5 +2,5 @@
 
 #### Contents:
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. R Code and Datasets (csv files)
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Report
-##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4. Presentation
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Report
+##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. Presentation
