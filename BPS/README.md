@@ -1,4 +1,4 @@
-### This folder contains three papers analyzing NVIDIA that I wrote across a semester my senior of undergrad (class was called "Business Policy and Strategy").
+### This folder contains three papers analyzing NVIDIA that I wrote across a semester during my senior year of undergrad (class was called "Business Policy and Strategy").
 
 #### Contents:
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paper 1 - NVIDIA External Analysis
