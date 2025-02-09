@@ -26,7 +26,6 @@ This course is designed to help students develop skills and knowledge in the fol
 Analyze decision problems and available data; build optimization models for certain standard
 types of problems, encode these problems in AMPL and solve them by the available solver
 package that includes CPLEX, XPressMP, and other state for the art optimization software.
-- Students who complete this course will demonstrate the following: The ability to analyze real
+Students who complete this course will demonstrate the following: The ability to analyze real
 life decision problems, evaluate the data need for the decision maker, and interpret solutions
 provided by optimization software." (taken directly from syllabus)
-
