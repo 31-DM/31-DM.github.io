@@ -3,7 +3,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hi, my name is Dev!"
+title: "DM Portfolio"
 email: 'dam387@cornell.edu'
 description: "<h3>Welcome to my portfolio! Here's some more information about me:</h3>
 <br>
