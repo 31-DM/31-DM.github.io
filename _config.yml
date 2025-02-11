@@ -4,7 +4,6 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "DM Portfolio"
-email: 'dam387@cornell.edu'
 description: "<h3>Welcome to my portfolio! Here's some more information about me:</h3>
 <br>
 <br>
@@ -22,6 +21,7 @@ description: "<h3>Welcome to my portfolio! Here's some more information about me
 ⚡ <b>Fun fact:</b> I've driven a tank
 </font>"
 url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+email_address: dam387@cornell.edu
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
 
