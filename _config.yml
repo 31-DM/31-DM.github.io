@@ -102,4 +102,3 @@ admin_name: 'DM'
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/gaming', text: 'Gaming' }
