@@ -5,6 +5,8 @@
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. b
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;3. c
 
+#### Course Grade: A
+
 #### Course Overview (from syllabus):
 "We frequently have to make decision in real life so that we achieve our goals. Many times that
 involves making choices, sometimes hard, among available alternatives. Almost always we are
