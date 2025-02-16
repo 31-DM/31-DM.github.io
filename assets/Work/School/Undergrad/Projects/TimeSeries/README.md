@@ -6,9 +6,9 @@ This repository contains the entirety of my **Time Series Modeling for Business 
 **Course Grade:** A  
 
 ## Contents
-- **R Code & Datasets** (CSV files)
+- **[R Code & Datasets](./Code-and-Data)** (R and CSV files)
 - **[Final Report](./Time%20Series%20NFL%20Betting%20Model%20Report.pdf)** (In-depth analysis and findings)
-- **Presentation Slides** (Project summary and key takeaways)
+- **[Presentation Slides](./Time%20Series%20NFL%20Betting%20Model%20Presentation.pptx)** (Project summary and key takeaways)
 
 ---
 
