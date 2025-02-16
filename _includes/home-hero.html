@@ -16,6 +16,7 @@
             {% if site.description != '' %}
             {{site.description}}
             {% endif %}
+
             {% if site.enable_contact == true %}
             {% include contact.html %}
             {% include contact-modal.html %}
@@ -33,7 +34,6 @@
               <a href="https://github.com/{{ site.github_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>Github</button></a>
             {% endif %}
           </div>
-          
         </div>
       </div>
       <a class="section-jump text-center" href="#portfolio">
