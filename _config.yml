@@ -10,8 +10,10 @@ github_username: '31-DM'
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '#portfolio', text: 'Projects' }
-  - { url: '#about', text: 'About' }
+  - { url: '/projects/', text: 'Projects' }
+  - { url: '/about/', text: 'About' }
+  - { url: '/resume.pdf', text: 'Resume' }
+  - { url: '/contact/', text: 'Contact' }
 
 # Footer
 footer_text: '© 2025 Dev Misra'
