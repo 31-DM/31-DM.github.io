@@ -10,24 +10,9 @@ github_username: '31-DM'
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/projects/', text: 'Projects' }
-  - { url: '/about/', text: 'About' }
+  - { url: '#portfolio', text: 'Projects' }
+  - { url: '#about', text: 'About' }
   - { url: '/resume.pdf', text: 'Resume' }
-  - { url: '/contact/', text: 'Contact' }
 
-# Footer
 footer_text: '© 2025 Dev Misra'
 admin_name: 'Dev Misra'
-
-# Jekyll settings (REQUIRED FOR POSTS TO SHOW)
-permalink: /:categories/:title/
-paginate: 10
-paginate_path: "/page:num/"
-collections:
-  posts:
-    output: true
-    permalink: /posts/:title/
-
-# Plugins (Pagination Support)
-plugins:
-  - jekyll-paginate
