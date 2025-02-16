@@ -12,11 +12,11 @@ This repository contains the entirety of my **Time Series Modeling for Business 
 
 ---
 
-## Project Goals
-- Analyze **historical NFL game data** to build predictive models  
-- Incorporate **weather conditions and team statistics** into forecasting  
-- Compare **Holt-Winters** and **ARIMA models** to assess prediction accuracy  
-- Identify patterns that could provide **a betting edge** in **Over/Under** markets  
+## Business & Practical Impact
+- **Market Arbitrage Opportunity**: The ARIMA model achieved a **55.7% accuracy rate**, suggesting a statistical **edge in Over/Under betting markets**. 
+- **Sports Analytics & Decision Making**: The findings provide insights that could be leveraged by **sports analysts, betting firms, and sportsbooks** to optimize betting lines and risk models.
+- **Forecasting Under Uncertainty**: This project demonstrates the power of **time series forecasting** in decision-making, a critical skill in **finance, business strategy, and AI applications**.
+- **Expanding to Other Domains**: While applied to sports betting, this methodology is transferable to **stock market predictions, demand forecasting, and operational risk modeling**.
 
 ---
 
@@ -58,11 +58,21 @@ With a 55.7% accuracy rate, an even bet unit strategy could generate **consisten
 
 ---
 
-## Key Takeaways
-- **Weather conditions significantly impact total scores** (wind speed & temperature)  
-- **Defensive rankings play a crucial role** in forecasting game totals  
-- **ARIMA with external regressors outperforms naive time series models**  
-- **The model suggests Over/Under betting profitability with disciplined execution**  
+## Technical Skills Used
+- **Programming**: R (Time Series Analysis, Data Wrangling, Visualization)
+- **Data Handling**: CSV data ingestion, dataset merging, and preprocessing
+- **Time Series Modeling**: Holt-Winters Exponential Smoothing, ARIMA (AutoRegressive Integrated Moving Average)
+- **Feature Engineering**: Weather impact modeling, offense/defense rankings, regression with external factors
+- **Forecast Evaluation**: Model selection using AIC, Ljung-Box Test, and Mean Squared Error (MSE)
+- **Business & Analytics Applications**: Applying predictive modeling to **market arbitrage and decision-making**
+
+---
+
+## Future Improvements
+- **Improve Model Accuracy**: Experiment with additional machine learning models such as **LSTM (Long Short-Term Memory networks)** or **Bayesian time series models** to refine predictions.
+- **Expand to More Teams**: The model currently focuses on the **Seattle Seahawks**; generalizing it to **all NFL teams** would provide broader insights.
+- **Automate Data Collection**: Implement an **R script or API pipeline** to automatically fetch and update datasets.
+- **Optimize Betting Strategy**: Explore **Kelly Criterion** and other risk management strategies to determine optimal bet sizing based on model confidence levels.
 
 ---
 
@@ -75,6 +85,7 @@ With a 55.7% accuracy rate, an even bet unit strategy could generate **consisten
 
 ## Author
 **Dev Misra**  
-[LinkedIn](https://www.linkedin.com/in/dev-misra)  
 
-Check out my portfolio for more samples of my work.  
+Check out my [portfolio](https://31-dm.github.io/) for more of my work.  
+
+---
