@@ -24,8 +24,8 @@ This project showcases my ability to apply structured strategic analysis to real
 <table>
   <thead>
     <tr>
-      <th style="width: 20%;">Paper</th>
-      <th style="width: 65%;">Description</th>
+      <th style="width: 10%;">Paper</th>
+      <th style="width: 75%;">Description</th>
       <th style="width: 15%;">Link</th>
     </tr>
   </thead>
