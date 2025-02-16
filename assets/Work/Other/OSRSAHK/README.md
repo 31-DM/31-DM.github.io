@@ -82,4 +82,4 @@ For a broader look at **automation in online gaming economies**, check out this 
 
 [How Runescape Botting Became a Survival Strategy for Venezuelans](https://www.polygon.com/features/2020/5/27/21265613/runescape-is-helping-venezuelans-survive)  
 
-This article explores how automation and gold farming became a **global economic force** within the OSRS community. While my project was a small-scale scripting experiment, it highlights how automation techniques—whether in gaming, business, or finance — can influence markets and decision - making.
+This article explores how automation and gold farming became a **global economic force** within the OSRS community. While my project was a small-scale scripting experiment, it highlights how automation techniques — whether in gaming, business, or finance — can influence markets and decision - making.
