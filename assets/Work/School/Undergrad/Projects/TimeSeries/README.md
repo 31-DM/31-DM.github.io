@@ -1,7 +1,7 @@
 # Time Series NFL Betting Model
 
 ## Overview
-This repository contains the entirety of my **Time Series Modeling for Business (R) Capstone Project**. The project focuses on leveraging **time series forecasting techniques** to predict **NFL game total scores** and identify arbitrage opportunities in **Over/Under betting markets**.
+This repository contains the entirety of my **Time Series Modeling for Business (R) final project**. The project focuses on leveraging **time series forecasting techniques** to predict **NFL game total scores** and identify arbitrage opportunities in **Over/Under betting markets**.
 
 **Course Grade:** A  
 
@@ -13,10 +13,10 @@ This repository contains the entirety of my **Time Series Modeling for Business 
 ---
 
 ## Business & Practical Impact
-- **Market Arbitrage Opportunity**: The ARIMA model achieved a **55.7% accuracy rate**, suggesting a statistical **edge in Over/Under betting markets**. 
-- **Sports Analytics & Decision Making**: The findings provide insights that could be leveraged by **sports analysts, betting firms, and sportsbooks** to optimize betting lines and risk models.
-- **Forecasting Under Uncertainty**: This project demonstrates the power of **time series forecasting** in decision-making, a critical skill in **finance, business strategy, and AI applications**.
-- **Expanding to Other Domains**: While applied to sports betting, this methodology is transferable to **stock market predictions, demand forecasting, and operational risk modeling**.
+- **Market Arbitrage Opportunity**: The ARIMA model achieved a **55.7% accuracy rate**, suggesting a statistical **edge in Over/Under betting markets**
+- **Sports Analytics & Decision Making**: The findings provide insights that could be leveraged by **sports analysts, betting firms, and sportsbooks** to optimize betting lines and risk models
+- **Forecasting Under Uncertainty**: This project demonstrates the power of **time series forecasting** in decision-making, a critical skill in **finance, business strategy, and AI applications**
+- **Expanding to Other Domains**: While applied to sports betting, this methodology is transferable to **stock market predictions, demand forecasting, and operational risk modeling**
 
 ---
 
@@ -54,7 +54,7 @@ Key Finding: The ARIMA model demonstrated **a potential betting edge**, offering
 | **Holt-Winters** | 40% | Limited predictive power |
 | **ARIMA** | 55.7% | Profitable with large sample size |
 
-With a 55.7% accuracy rate, an even bet unit strategy could generate **consistent profits** over time.
+With a 55.7% accuracy rate, an even bet unit strategy could generate **consistent profits** over time
 
 ---
 
@@ -69,10 +69,10 @@ With a 55.7% accuracy rate, an even bet unit strategy could generate **consisten
 ---
 
 ## Future Improvements
-- **Improve Model Accuracy**: Experiment with additional machine learning models such as **LSTM (Long Short-Term Memory networks)** or **Bayesian time series models** to refine predictions.
-- **Expand to More Teams**: The model currently focuses on the **Seattle Seahawks**; generalizing it to **all NFL teams** would provide broader insights.
-- **Automate Data Collection**: Implement an **R script or API pipeline** to automatically fetch and update datasets.
-- **Optimize Betting Strategy**: Explore **Kelly Criterion** and other risk management strategies to determine optimal bet sizing based on model confidence levels.
+- **Improve Model Accuracy**: Experiment with additional machine learning models such as **LSTM (Long Short-Term Memory networks)** or **Bayesian time series models** to refine predictions
+- **Expand to More Teams**: The model currently focuses on the **Seattle Seahawks**; generalizing it to **all NFL teams** would provide broader insights
+- **Automate Data Collection**: Implement an **R script or API pipeline** to automatically fetch and update datasets
+- **Optimize Betting Strategy**: Explore **Kelly Criterion** and other risk management strategies to determine optimal bet sizing based on model confidence levels
 
 ---
 
@@ -86,6 +86,6 @@ With a 55.7% accuracy rate, an even bet unit strategy could generate **consisten
 ## Author
 **Dev Misra**  
 
-Check out my [portfolio](https://31-dm.github.io/) for more of my work.  
+Check out my [portfolio](https://31-dm.github.io/) for more of my work
 
 ---
