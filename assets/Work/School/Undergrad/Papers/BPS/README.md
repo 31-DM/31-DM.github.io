@@ -12,7 +12,7 @@ Each paper applies well-established **business strategy frameworks**, including 
 
 ---
 
-## 🔍 Key Takeaways
+## Key Takeaways
 - **NVIDIA's Competitive Position**: Market leader in GPUs, strong differentiation through **cutting-edge AI, deep learning, and gaming**.
 - **Industry Challenges**: Supply chain issues, increasing competition from **AMD and Intel**, and regulatory scrutiny.
 - **Strategic Recommendations**: Expansion into **cloud computing and enterprise AI**, increased production capabilities, and proactive mitigation of GPU shortages.
