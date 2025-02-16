@@ -119,3 +119,9 @@ body {
         width: 90%;
     }
 }
+
+markdown: kramdown
+theme: minima  # Or your current Jekyll theme
+plugins:
+  - jekyll-sass-converter
+  - jekyll-paginate
