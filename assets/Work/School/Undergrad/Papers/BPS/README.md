@@ -1,9 +1,9 @@
 # Business Policy & Strategy: NVIDIA Analysis (2020)
 
 ## Overview
-This repository contains three in-depth strategy papers analyzing NVIDIA’s external environment, internal capabilities, and strategic challenges, written in Fall 2020 for my Business Policy and Strategy course at Rutgers Business School.
+This repository contains **three in-depth strategy papers analyzing NVIDIA**, written in **Fall 2020** for my **Business Policy and Strategy** course at **Rutgers Business School**. The analysis evaluates NVIDIA’s **external environment, internal capabilities, and strategic challenges**, applying **industry-leading business strategy frameworks** to assess its **competitive positioning and long-term growth potential**.
 
-The analysis evaluates NVIDIA’s position as of 2020, applying key business strategy frameworks to assess its competitive advantages, industry challenges, and long-term growth potential.
+While written in **2020**, these insights remain relevant as NVIDIA continues to shape **AI, cloud computing, and data center acceleration**, making this project a valuable reference for understanding **corporate strategy in evolving technology markets**.
 
 **Course Grade:** A  
 
@@ -16,12 +16,15 @@ The analysis evaluates NVIDIA’s position as of 2020, applying key business str
   - **SWOT Analysis** – Strategic Positioning  
   - **Financial Ratio Analysis** – Growth & Profitability Metrics  
 
-This project showcases my ability to apply structured strategic analysis to real-world companies, develop actionable business recommendations, and communicate findings effectively.
+This project showcases my ability to:
+- **Apply structured strategic frameworks** to real-world companies.
+- **Analyze competitive positioning** using industry-proven methodologies.
+- **Develop actionable recommendations** for business growth.
+- **Communicate complex business strategies** through structured analysis.
 
 ---
 
-### Papers in This Series
-
+## Papers in This Series
 <style>
   table {
     width: 100%;
@@ -36,14 +39,14 @@ This project showcases my ability to apply structured strategic analysis to real
     background-color: #f4f4f4;
   }
   td:nth-child(1) {
-    width: 20%; /* Reduce first column width */
+    width: 20%; /* Adjust first column width */
     white-space: nowrap;
   }
   td:nth-child(2) {
-    width: 65%; /* Force description width */
+    width: 65%;
   }
   td:nth-child(3) {
-    width: 15%; /* Make sure "Read Here" stays in one line */
+    width: 15%;
     text-align: center;
   }
 </style>
@@ -70,21 +73,49 @@ This project showcases my ability to apply structured strategic analysis to real
     <tr>
       <td><b>Issues & Recommendations</b></td>
       <td>Identifies key strategic challenges and proposes recommendations for sustained growth.</td>
-      <td><a href="https://github.com/31-DM/31-DM
+      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Issues%20and%20Recommendations.pdf">Read Here</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
-## Key Takeaways (as of 2020)
-- **Market Leadership**: NVIDIA dominated the GPU market, driving advancements in AI, deep learning, and gaming
-- **Industry Challenges**: Faced growing competition from AMD and Intel, as well as supply chain constraints and regulatory scrutiny
-- **Strategic Recommendations**: Expansion into cloud computing and enterprise AI, increasing production capabilities, and mitigating GPU shortages
+## Key Takeaways
+- **NVIDIA's Competitive Position:** Industry leader in **GPUs, AI acceleration, and cloud computing**.
+- **Industry Challenges:** Increasing competition from **AMD, Intel, and emerging AI chip startups**.
+- **Strategic Recommendations:** Expansion into **enterprise AI, cloud services, and supply chain optimizations**.
 
-While these insights were relevant in 2020, NVIDIA’s strategic position may have evolved due to industry shifts, technological advances, and competitive dynamics.
+---
 
-## How to Use This Repository
-1. Read the papers to understand NVIDIA’s 2020 strategy and competitive landscape
-2. Use the frameworks as reference for conducting business analysis in other industries
-3. Compare to recent developments to see how NVIDIA’s strategy has evolved post-2020
+## Relevance to Current Trends
+Although written in **2020**, the insights remain **highly relevant** today:
+- **AI Market Dominance (2024 & Beyond):** NVIDIA’s **H100 and Blackwell AI chips** now define the **AI acceleration market**, reinforcing its competitive advantage.
+- **Stock Market Impact:** NVIDIA’s valuation surged with the **AI revolution**, validating themes explored in this project.
+- **Enterprise Expansion:** As recommended in my final paper, NVIDIA has **aggressively expanded its data center and cloud computing business**, securing its **long-term dominance**.
+
+This project serves as a **case study in corporate strategy**, demonstrating how **market positioning, internal competencies, and strategic decision-making drive long-term success**.
+
+---
+
+## Course Details
+- **Course:** Business Policy & Strategy (Rutgers Business School - Fall 2020)
+- **Instructor:** Kevin Johns
+- **Grade:** **A**
+- **Strategic Analysis Topics:**
+  - **Competitive Industry Analysis** (Porter’s Five Forces)
+  - **Internal Capabilities & Core Competencies** (VRIO, SWOT)
+  - **Financial Strength & Growth Potential** (Financial Ratios)
+  - **Strategic Recommendations** for Corporate Growth
+
+---
+
+## Why This Project Matters
+This project directly connects to my interests in:
+- **Technology Strategy & AI Market Trends** – NVIDIA’s evolution into **AI acceleration, cloud computing, and edge AI**.
+- **Business & Competitive Analysis** – Applying **structured methodologies** to evaluate firms’ market positioning.
+- **Corporate Strategy & Decision-Making** – Developing actionable insights for business leaders.
+
+These **foundational skills** align with my career focus on **AI-driven business strategy, private equity, and corporate development**.
 
 ---
 
