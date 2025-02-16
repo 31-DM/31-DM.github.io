@@ -30,7 +30,7 @@ MAPE(Wpred, Wtest$Quality)
 
 K<-4
 dt1<-red[sample(1:nrow(red), nrow(red)), ]
-len<-floor(nrow(dt1)/K) # number of obs. in testing set
+len<-floor(nrow(dt1)/K) # number of obs. in test set
 pred<-matrix(, len, K)
 test.all<-matrix(, len, K)
 pred.err<-matrix(, len, K)
