@@ -44,7 +44,7 @@ The final dataset includes:
 - Achieved **55.7% accuracy** in predicting total scores
 - Used to generate **future season forecasts**
 
-Key Finding: The ARIMA model demonstrated **a potential betting edge**, offering a **statistically profitable** approach to Over/Under wagers.
+Key Finding: The ARIMA model demonstrated **a potential betting edge**, offering a **statistically profitable** approach to Over/Under wagers
 
 ---
 
