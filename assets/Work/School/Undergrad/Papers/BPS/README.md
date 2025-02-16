@@ -45,4 +45,5 @@ This project showcases my ability to apply structured strategic analysis to real
 
 ## Author
 **Dev Misra**  
-For more of my work, visit my [Portfolio](https://31-dm.github.io/)
+
+Check out my [portfolio](https://31-dm.github.io/) for more of my work
