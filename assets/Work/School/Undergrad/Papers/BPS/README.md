@@ -10,18 +10,21 @@ While written in **2020**, these insights remain relevant as NVIDIA continues to
 ---
 
 ## Methodology
+
 This project showcases my ability to:
-- **Apply structured strategic frameworks** to real-world companies
-- **Analyze competitive positioning** using industry-proven methodologies
-- **Develop actionable recommendations** for business growth
-- **Communicate complex business strategies** through structured analysis
 
+- **Apply structured strategic frameworks** to real-world companies  
+- **Analyze competitive positioning** using industry-proven methodologies  
+- **Develop actionable recommendations** for business growth  
+- **Communicate complex business strategies** through structured analysis  
 
-- **Frameworks Used:**  
-  - **Porter’s Five Forces** – Industry & Competitive Analysis  
-  - **VRIO Framework** – Internal Resource Strengths  
-  - **SWOT Analysis** – Strategic Positioning  
-  - **Financial Ratio Analysis** – Growth & Profitability Metrics  
+---
+
+## Frameworks Used:
+- **Porter’s Five Forces** – Industry & Competitive Analysis  
+- **VRIO Framework** – Internal Resource Strengths  
+- **SWOT Analysis** – Strategic Positioning  
+- **Financial Ratio Analysis** – Growth & Profitability Metrics   
 
 ---
 
