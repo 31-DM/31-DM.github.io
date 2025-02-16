@@ -6,8 +6,8 @@ This repository contains my **Large-Scale Data Analysis (LSDA) final project**, 
 **Course Grade:** A  
 
 ## Contents
-- **Codebase**: Python/R scripts for data preprocessing, modeling, and validation
-- **Datasets**: Red and white wine quality datasets
+- **[Code](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Projects/LSDA/Code-and-Data/Wine%20Preferences.R)**: R scripts for data preprocessing, modeling, and validation
+- **[Datasets](https://github.com/31-DM/31-DM.github.io/tree/master/assets/Work/School/Undergrad/Projects/LSDA/Code-and-Data)**: Red and white wine quality datasets
 - **[Final Report](./Modeling_Wine_Preferences_Report.pdf)**: Detailed analysis, methodology, and findings
 - **[Presentation Slides](./Modeling_Wine_Preferences_Presentation.pdf)**: Summary of key insights and results
 
@@ -22,10 +22,10 @@ This repository contains my **Large-Scale Data Analysis (LSDA) final project**, 
 ---
 
 ## Business & Practical Impact
-- **Optimizing Wine Production**: Helps **winemakers adjust acidity, pH levels, and fermentation** for higher quality output.
-- **Quality Control & Certification**: Supports **regulatory agencies and vineyards** in ensuring product consistency.
-- **Consumer & Market Insights**: Identifies the chemical factors that **directly influence wine preference**, informing **pricing and branding strategies**.
-- **Scalability to Other Industries**: Methodology can be adapted for **food & beverage quality control, agriculture analytics, and chemical process optimization**.
+- **Optimizing Wine Production**: Helps **winemakers adjust acidity, pH levels, and fermentation** for higher quality output
+- **Quality Control & Certification**: Supports **regulatory agencies and vineyards** in ensuring product consistency
+- **Consumer & Market Insights**: Identifies the chemical factors that **directly influence wine preference**, informing **pricing and branding strategies**
+- **Scalability to Other Industries**: Methodology can be adapted for **food & beverage quality control, agriculture analytics, and chemical process optimization**
 
 ---
 
@@ -44,9 +44,9 @@ The dataset consists of **two large-scale wine quality datasets** (Red & White) 
 
 ## Modeling Approach
 ### 1. **Multiple Linear Regression (MLR)**
-- **Baseline Model:** Included all chemical variables as predictors.
-- **Feature Selection:** Used **`regsubsets` (leaps)** to refine regressors.
-- **Final Model:** Selected **8 most influential variables**.
+- **Baseline Model:** Included all chemical variables as predictors
+- **Feature Selection:** Used **`regsubsets` (leaps)** to refine regressors
+- **Final Model:** Selected **8 most influential variables**
 
 ### 2. **Model Assumptions & Validation**
 - **L.I.N.E Assumptions (Linearity, Independence, Normality, Equal Variance)**
@@ -63,7 +63,7 @@ The dataset consists of **two large-scale wine quality datasets** (Red & White) 
 | **Initial White Wine Model** | 0.2787 | 2.54e-15 (Significant) | 10.37% |
 | **Improved White Wine Model** | 0.2795 | 2e-16 (Highly Significant) | 10.37% |
 
-- **Key Finding:** The **top 3 predictors of wine quality** for **red wine** were **Volatile Acidity, Sulphates, and Alcohol**, while for **white wine**, they were **Fixed Acidity, Sulphates, and pH**.
+- **Key Finding:** The **top 3 predictors of wine quality** for **red wine** were **Volatile Acidity, Sulphates, and Alcohol**, while for **white wine**, they were **Fixed Acidity, Sulphates, and pH**
 
 ---
 
@@ -77,10 +77,10 @@ The dataset consists of **two large-scale wine quality datasets** (Red & White) 
 ---
 
 ## Future Improvements
-- **Apply Machine Learning Models**: Experiment with **Random Forest, Gradient Boosting, or Neural Networks** to improve predictive accuracy.
-- **Explore Classification Models**: Convert the problem into a **classification task** (e.g., **high vs. low quality wines**).
-- **Analyze Additional Features**: Incorporate **geographic & climate data** to assess environmental effects on wine quality.
-- **Expand Beyond Wine Industry**: Adapt similar data mining techniques for **food science, agriculture, or beverage quality control**.
+- **Apply Machine Learning Models**: Experiment with **Random Forest, Gradient Boosting, or Neural Networks** to improve predictive accuracy
+- **Explore Classification Models**: Convert the problem into a **classification task** (e.g., **high vs. low quality wines**)
+- **Analyze Additional Features**: Incorporate **geographic & climate data** to assess environmental effects on wine quality
+- **Expand Beyond Wine Industry**: Adapt similar data mining techniques for **food science, agriculture, or beverage quality control**
 
 ---
 
@@ -94,6 +94,6 @@ The dataset consists of **two large-scale wine quality datasets** (Red & White) 
 ## Author
 **Dev Misra**  
 
-Check out my [portfolio](https://31-dm.github.io/) for more of my work.  
+Check out my [portfolio](https://31-dm.github.io/) for more of my work
 
 ---
