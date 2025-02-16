@@ -5,16 +5,15 @@
 <main id="portfolio">
   <div class="container">
     <h3 class="section-title text-center">Projects</h3>
-    <div class="row">
-      {% for post in paginator.posts %}
-        <div class="col-md-12">
-          {% if post.position == "left" %}
-            {% include content-left.html %}
-          {% else %}
-            {% include content-right.html %}
-          {% endif %}
+      <div class="row">
+        {% for post in paginator.posts %}
+        <div class="col-md-6">
+            <div class="post-box">
+                {% include post-content.html %}
+            </div>
         </div>
-      {% endfor %}
+        {% endfor %}
+      </div>
     </div>
     {% include pagination.html %}
   </div>
