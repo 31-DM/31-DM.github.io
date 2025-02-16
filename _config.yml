@@ -1,18 +1,16 @@
-# Site settings
 title: "Dev Misra"
-description: "<h3>Welcome to my portfolio!</h3> <p>Technology, strategy, and analytics at the intersection of AI and business.</p>"
+description: "Technology, Strategy & AI at the intersection of business and analytics."
 url: "https://31-DM.github.io"
 email_address: dam387@cornell.edu
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
 
-# Enable navigation menu
+# Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '#portfolio', text: 'Projects' }
   - { url: '#about', text: 'About' }
-  - { url: '/resume.pdf', text: 'Resume' }
 
 footer_text: '© 2025 Dev Misra'
 admin_name: 'Dev Misra'
