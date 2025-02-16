@@ -5,6 +5,21 @@ This repository contains three in-depth strategy papers analyzing NVIDIA’s ext
 
 The analysis evaluates NVIDIA’s position as of 2020, applying key business strategy frameworks to assess its competitive advantages, industry challenges, and long-term growth potential.
 
+**Course Grade:** A  
+
+---
+
+## Methodology
+- **Frameworks Used:**  
+  - **Porter’s Five Forces** – Industry & Competitive Analysis  
+  - **VRIO Framework** – Internal Resource Strengths  
+  - **SWOT Analysis** – Strategic Positioning  
+  - **Financial Ratio Analysis** – Growth & Profitability Metrics  
+
+This project showcases my ability to apply structured strategic analysis to real-world companies, develop actionable business recommendations, and communicate findings effectively.
+
+---
+
 ## Papers in This Series
 | **Paper** | **Description** | **Link** |
 |-----------|---------------|----------|
@@ -20,21 +35,6 @@ The analysis evaluates NVIDIA’s position as of 2020, applying key business str
 - **Strategic Recommendations**: Expansion into cloud computing and enterprise AI, increasing production capabilities, and mitigating GPU shortages
 
 While these insights were relevant in 2020, NVIDIA’s strategic position may have evolved due to industry shifts, technological advances, and competitive dynamics.
-
----
-
-## Course & Methodology
-- **Course:** Business Policy & Strategy (Rutgers Business School)
-- **Course Grade:** A
-- **Frameworks Used:**  
-  - **Porter’s Five Forces** – Industry & Competitive Analysis  
-  - **VRIO Framework** – Internal Resource Strengths  
-  - **SWOT Analysis** – Strategic Positioning  
-  - **Financial Ratio Analysis** – Growth & Profitability Metrics  
-
-This project showcases my ability to apply structured strategic analysis to real-world companies, develop actionable business recommendations, and communicate findings effectively.
-
----
 
 ## How to Use This Repository
 1. Read the papers to understand NVIDIA’s 2020 strategy and competitive landscape
