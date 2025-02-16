@@ -8,6 +8,8 @@ description: "<h3>Welcome to my portfolio (WORK IN PROGRESS)! Here's some more i
 <br>
 <br>
 <font size = 3>
+Work in Progress
+<!---
 🔭 <b>I’m currently working on:</b> Developing case study solutions for business strategy and operations challenges
 <br>
 🤿 <b>I’m currently learning:</b> How to scuba dive; in the process of getting certified
@@ -19,6 +21,7 @@ description: "<h3>Welcome to my portfolio (WORK IN PROGRESS)! Here's some more i
 💬 <b>Ask me about:</b> Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
 <br>
 ⚡ <b>Fun fact:</b> I've driven a tank
+-->
 </font>"
 url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 email_address: dam387@cornell.edu
