@@ -72,11 +72,14 @@ The same automation principles explored in this project are applicable across in
 
 ## Author
 **Dev Misra**  
-For more of my work, visit my [Portfolio](https://31-dm.github.io/)
+
+Check out my [portfolio](https://31-dm.github.io/) for more of my work
+
+---
 
 ## Further Reading
 For a broader look at **automation in online gaming economies**, check out this article:
 
-📖 [How Runescape Botting Became a Survival Strategy for Venezuelans](https://www.polygon.com/features/2020/5/27/21265613/runescape-is-helping-venezuelans-survive)  
+[How Runescape Botting Became a Survival Strategy for Venezuelans](https://www.polygon.com/features/2020/5/27/21265613/runescape-is-helping-venezuelans-survive)  
 
 This article explores how automation and gold farming became a **global economic force** within the OSRS community. While my project was a small-scale scripting experiment, it highlights how automation techniques—whether in gaming, business, or finance — can influence markets and decision - making.
