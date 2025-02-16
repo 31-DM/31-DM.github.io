@@ -70,7 +70,8 @@ This project was built as a **technical experiment** in **scripting and process 
 Check out my [portfolio](https://31-dm.github.io/) for more projects on **automation, scripting, and analytics**
 
 ## Further Reading
-For a deeper look at the **impact of automation and in-game economies**, check out this article:  
+For a deeper look at the **impact of automation and in-game economies**, check out this article:
+
 📖 [How Runescape Botting Became a Survival Strategy for Venezuelans](https://www.polygon.com/features/2020/5/27/21265613/runescape-is-helping-venezuelans-survive)  
 
 This article explores how automation and gold farming became a **global economic force** within the OSRS community. While this project was a small-scale scripting experiment, it highlights how automation techniques—whether in gaming, business, or finance—can influence markets and decision-making.
