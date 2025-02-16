@@ -72,7 +72,6 @@ The same automation principles explored in this project are applicable across in
 
 ## Author
 **Dev Misra**  
-
 For more of my work, visit my [Portfolio](https://31-dm.github.io/)
 
 ## Further Reading
