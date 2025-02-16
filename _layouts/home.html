@@ -5,35 +5,18 @@
 <main id="portfolio">
   <div class="container">
     <h3 class="section-title text-center">Projects</h3>
-      <div class="row">
-        {% for post in paginator.posts %}
-        <div class="col-md-6">
-            <div class="post-box">
-                {% include post-content.html %}
-            </div>
+
+    <div class="row">
+      {% for post in site.posts %}
+      <div class="col-md-6">
+        <div class="post-box">
+          {% include content-left.html %}
         </div>
-        {% endfor %}
       </div>
+      {% endfor %}
     </div>
-    {% include pagination.html %}
+
   </div>
 </main>
-
-<section id="about" class="container">
-  <h3 class="section-title text-center">About Me</h3>
-  <p class="text-center">
-    I’m an MBA candidate at Cornell, with experience in consulting, data analytics, and business strategy. My work spans across
-    <b>technology, finance, and AI</b>, helping businesses make data-driven decisions for long-term success.
-  </p>
-</section>
-
-<section id="business-impact" class="container">
-  <h3 class="section-title text-center">Business & Practical Impact</h3>
-  <ul>
-    <li>Developed <b>AI-driven business strategy</b> frameworks for real-world applications.</li>
-    <li>Applied <b>financial modeling & analytics</b> to optimize corporate decision-making.</li>
-    <li>Analyzed <b>market competition & risk</b> in technology and financial sectors.</li>
-  </ul>
-</section>
 
 {% include footer.html %}
