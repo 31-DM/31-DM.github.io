@@ -8,7 +8,7 @@ This repository contains my **Large-Scale Data Analysis (LSDA) final project**, 
 ## Contents
 - **[Code](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Projects/LSDA/Code-and-Data/Wine%20Preferences.R)**: R scripts for data preprocessing, modeling, and validation
 - **[Datasets](https://github.com/31-DM/31-DM.github.io/tree/master/assets/Work/School/Undergrad/Projects/LSDA/Code-and-Data)**: Red and white wine quality datasets
-- **[Presentation Slides](./Modeling%20Wine%20Preferences%20via%20Data%20Mining.pptx)**: Summary of key insights and results
+- **[Presentation Slides](./Modeling%20Wine%20Preferences%20via%20Data%20Mining.pdf)**: Summary of key insights and results
 
 ---
 
