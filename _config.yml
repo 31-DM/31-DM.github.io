@@ -1,3 +1,4 @@
+# Site settings
 title: "Dev Misra"
 description: "<h3>Welcome to my portfolio!</h3> <p>Technology, strategy, and analytics at the intersection of AI and business.</p>"
 url: "https://31-DM.github.io"
@@ -12,5 +13,19 @@ nav_item:
   - { url: '#portfolio', text: 'Projects' }
   - { url: '#about', text: 'About' }
 
+# Footer
 footer_text: '© 2025 Dev Misra'
 admin_name: 'Dev Misra'
+
+# Jekyll settings (REQUIRED FOR POSTS TO SHOW)
+permalink: /:categories/:title/
+paginate: 10
+paginate_path: "/page:num/"
+collections:
+  posts:
+    output: true
+    permalink: /posts/:title/
+
+# Plugins (Pagination Support)
+plugins:
+  - jekyll-paginate
