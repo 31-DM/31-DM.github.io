@@ -14,7 +14,7 @@ This project showcases my ability to:
 - **Apply structured strategic frameworks** to real-world companies
 - **Analyze competitive positioning** using industry-proven methodologies
 - **Develop actionable recommendations** for business growth
-- **Communicate complex business strategies** through structured analysis
+- **Communicate complex business strategies** through structured analysis  
 
 - **Frameworks Used:**  
   - **Porter’s Five Forces** – Industry & Competitive Analysis  
