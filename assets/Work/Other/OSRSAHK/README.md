@@ -4,9 +4,9 @@
 This repository contains a **proof-of-concept AutoHotkey (AHK) script** that automates a simple in-game task in **Old School RuneScape (OSRS)**. The script uses **pixel-based detection, randomized mouse movements, and input automation** to perform repetitive actions without direct user input.
 
 ## Motivation
-Many **public botting scripts** for the game were either rendered useless due to updates to the game's anti-botting software or easily identified and flagged for an instant account ban (read more on botting and Runescape in the "Further Reading" section at the bottom of this page), leading me to **write my own simple AutoHotkey script** to explore **UI automation**. While this started as a small experiment, it became my **first hands-on experience with scripting and automation** — reinforcing my interest in **process optimization, workflow automation, and decision-making under constraints**.
+I originally built this script as a **learning experiment in automation and process optimization**. While playing OSRS, I realized that many in-game tasks were highly repetitive, leading me to **explore automation techniques** as a way to improve efficiency.
 
-This early exposure to **automating repetitive inputs** naturally extended to my professional work in **data analytics, modeling, and visualization**. Whether in **financial modeling, operations strategy, or market analytics**, efficiency is critical. The same principles that applied to **optimizing in-game workflows** — such as **randomized behavior to avoid detection, structured task execution, and automation of repetitive actions** — parallel the logic behind **business process optimization, predictive modeling, and decision automation in consulting and strategy roles**.
+This project became my **first hands-on experience with scripting and automation**, reinforcing my interest in **process automation, workflow optimization, and decision-making under constraints**. The experience naturally extended to my professional work in **data analytics, modeling, and visualization**. Whether in **financial modeling, operations strategy, or market analytics**, efficiency is critical. The same principles that applied to **optimizing in-game workflows** — such as **randomized behavior, structured task execution, and automation of repetitive actions** — parallel the logic behind **business process automation, predictive modeling, and decision automation in consulting and strategy roles**.
 
 This project set the foundation for my interest in **leveraging automation to enhance decision-making and efficiency** — a theme that continues to drive my work today.
 
@@ -60,7 +60,13 @@ If revisited, possible enhancements could include:
 ---
 
 ## Ethical Considerations
-This project was built as a **technical experiment** in **scripting and process automation**. While it served as a fun introduction to AutoHotkey and UI automation, it's important to **respect the rules and policies** of online platforms when applying similar techniques.
+This project was built as a **technical experiment** in **scripting and process automation**. It was designed to explore UI automation techniques and workflow optimization. While it served as a fun introduction to AutoHotkey and UI automation, it's important to **apply similar techniques responsibly** in real-world applications, such as:
+
+- **Process Optimization in Consulting & Strategy**: Automating repetitive tasks in **market research, financial modeling, and operations analysis** to enhance efficiency and decision-making
+- **Financial & Business Analytics**: Using automation to streamline **data extraction, reporting, and forecasting** in industries like **private equity, corporate finance, and investment strategy**
+- **Data-Driven Decision-Making in Tech & AI**: Leveraging **predictive modeling, machine learning, and AI-driven insights** to optimize workflows in **business intelligence and product strategy**
+
+The same automation principles explored in this project are applicable across industries, from **optimizing financial models** to **scaling business intelligence platforms** and **enhancing strategic decision-making**.
 
 ---
 
@@ -70,8 +76,8 @@ This project was built as a **technical experiment** in **scripting and process 
 Check out my [portfolio](https://31-dm.github.io/) for more projects on **automation, scripting, and analytics**
 
 ## Further Reading
-For a deeper look at the **impact of automation and in-game economies**, check out this article:
+For a broader look at **automation in online gaming economies**, check out this article:
 
 📖 [How Runescape Botting Became a Survival Strategy for Venezuelans](https://www.polygon.com/features/2020/5/27/21265613/runescape-is-helping-venezuelans-survive)  
 
-This article explores how automation and gold farming became a **global economic force** within the OSRS community. While this project was a small-scale scripting experiment, it highlights how automation techniques—whether in gaming, business, or finance—can influence markets and decision-making.
+This article explores how automation and gold farming became a **global economic force** within the OSRS community. While my project was a small-scale scripting experiment, it highlights how automation techniques—whether in gaming, business, or finance — can influence markets and decision - making.
