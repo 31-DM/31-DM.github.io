@@ -7,10 +7,6 @@ While written in **2020**, these insights remain relevant as NVIDIA continues to
 
 **Course Grade:** A  
 
----
-
-## Methodology
-
 This project showcases my ability to:
 
 - **Apply structured strategic frameworks** to real-world companies  
