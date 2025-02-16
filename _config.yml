@@ -1,16 +1,17 @@
 title: "Dev Misra"
-description: "Technology, Strategy & AI at the intersection of business and analytics."
+description: "Technology, Strategy & AI - Business insights at the intersection of AI and strategy."
 url: "https://31-DM.github.io"
 email_address: dam387@cornell.edu
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
 
-# Navigation menu
+# Navigation Menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
   - { url: '#portfolio', text: 'Projects' }
   - { url: '#about', text: 'About' }
 
+# Footer
 footer_text: '© 2025 Dev Misra'
 admin_name: 'Dev Misra'
