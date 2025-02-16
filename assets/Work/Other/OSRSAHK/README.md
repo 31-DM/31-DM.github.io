@@ -72,8 +72,7 @@ The same automation principles explored in this project are applicable across in
 
 ## Author
 **Dev Misra**
-
-Check out my [portfolio](https://31-dm.github.io/) for more projects on **automation, scripting, and analytics**
+For more of my work, visit my [Portfolio](https://31-dm.github.io/)
 
 ## Further Reading
 For a broader look at **automation in online gaming economies**, check out this article:
