@@ -10,73 +10,27 @@ While written in **2020**, these insights remain relevant as NVIDIA continues to
 ---
 
 ## Methodology
+This project showcases my ability to:
+- **Apply structured strategic frameworks** to real-world companies
+- **Analyze competitive positioning** using industry-proven methodologies
+- **Develop actionable recommendations** for business growth
+- **Communicate complex business strategies** through structured analysis
+
 - **Frameworks Used:**  
   - **Porter’s Five Forces** – Industry & Competitive Analysis  
   - **VRIO Framework** – Internal Resource Strengths  
   - **SWOT Analysis** – Strategic Positioning  
   - **Financial Ratio Analysis** – Growth & Profitability Metrics  
 
-This project showcases my ability to:
-- **Apply structured strategic frameworks** to real-world companies.
-- **Analyze competitive positioning** using industry-proven methodologies.
-- **Develop actionable recommendations** for business growth.
-- **Communicate complex business strategies** through structured analysis.
-
 ---
 
 ## Papers in This Series
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 10px;
-    text-align: left;
-  }
-  th {
-    background-color: #f4f4f4;
-  }
-  td:nth-child(1) {
-    width: 20%; /* Adjust first column width */
-    white-space: nowrap;
-  }
-  td:nth-child(2) {
-    width: 65%;
-  }
-  td:nth-child(3) {
-    width: 15%;
-    text-align: center;
-  }
-</style>
 
-<table>
-  <thead>
-    <tr>
-      <th>Paper</th>
-      <th>Description</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>External Analysis</b></td>
-      <td>Evaluates NVIDIA’s industry, market forces, and competition using Porter’s Five Forces.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20External%20Analysis.pdf">Read Here</a></td>
-    </tr>
-    <tr>
-      <td><b>Internal Analysis</b></td>
-      <td>Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Internal%20Analysis.pdf">Read Here</a></td>
-    </tr>
-    <tr>
-      <td><b>Issues & Recommendations</b></td>
-      <td>Identifies key strategic challenges and proposes recommendations for sustained growth.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Issues%20and%20Recommendations.pdf">Read Here</a></td>
-    </tr>
-  </tbody>
-</table>
+| Paper | Description | Link |
+|-------|------------|------|
+| **External Analysis** | Evaluates NVIDIA’s industry, market forces, and competition using Porter’s Five Forces. | [Read Here](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20External%20Analysis.pdf) |
+| **Internal Analysis** | Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT. | [Read Here](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Internal%20Analysis.pdf) |
+| **Issues & Recommendations** | Identifies key strategic challenges and proposes recommendations for sustained growth. | [Read Here](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Issues%20and%20Recommendations.pdf) |
 
 ---
 
