@@ -26,6 +26,7 @@ Random, Dy2, Dy-10, Dy+10
 MouseMove, Dx2, Dy2, 5
 Sleep, 100
 Click
+```
 
 This approach avoids **static, repetitive inputs** that could be easily detected, introducing **variability** in execution. By incorporating **pixel-based detection and randomized input offsets**, the script mimics human behavior rather than following a fixed sequence of actions.
 
