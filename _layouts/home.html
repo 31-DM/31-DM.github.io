@@ -1,21 +1,38 @@
 {% include header.html %}
 
-{% include home-hero.html %}
+<div class="hero-container">
+  <div class="hero-content">
+    <h1>Dev Misra</h1>
+    <p>Technology, Strategy & AI</p>
+    <p>I analyze businesses, optimize operations, and develop insights at the intersection of <strong>technology and strategy.</strong></p>
+
+    <div class="hero-buttons">
+      <a href="#portfolio" class="btn btn-primary">View Projects</a>
+      <a href="mailto:{{ site.email_address }}" class="btn btn-outline-secondary">Contact</a>
+    </div>
+  </div>
+</div>
 
 <main id="portfolio">
   <div class="container">
-    <h3 class="section-title text-center">Projects</h3>
-
+    <h2 class="text-center">Projects</h2>
     <div class="row">
       {% for post in site.posts %}
-      <div class="col-md-6">
-        <div class="post-box">
-          {% include content-left.html %}
+      <div class="col-md-4">
+        <div class="project-card">
+          <img src="{{ post.featured_image }}" alt="{{ post.title }}">
+          <h3 class="project-title">{{ post.title }}</h3>
+          <p>{{ post.lead_text }}</p>
+          <a href="{{ post.url }}" class="btn btn-primary">Visit Project</a>
+          <div class="project-tags">
+            {% for tag in post.tags %}
+            <span>{{ tag }}</span>
+            {% endfor %}
+          </div>
         </div>
       </div>
       {% endfor %}
     </div>
-
   </div>
 </main>
 
