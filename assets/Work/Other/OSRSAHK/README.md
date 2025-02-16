@@ -65,7 +65,8 @@ This project was built as a **technical experiment** in **scripting and process 
 ---
 
 ## Author
-**Dev Misra**  
+**Dev Misra**
+
 Check out my [portfolio](https://31-dm.github.io/) for more projects on **automation, scripting, and analytics**
 
 ## Further Reading
