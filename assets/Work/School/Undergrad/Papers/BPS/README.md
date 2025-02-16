@@ -35,39 +35,27 @@ This project showcases my ability to:
 ---
 
 ## Key Takeaways
-- **NVIDIA's Competitive Position:** Industry leader in **GPUs, AI acceleration, and cloud computing**.
-- **Industry Challenges:** Increasing competition from **AMD, Intel, and emerging AI chip startups**.
-- **Strategic Recommendations:** Expansion into **enterprise AI, cloud services, and supply chain optimizations**.
+- **NVIDIA's Competitive Position:** Industry leader in **GPUs, AI acceleration, and cloud computing**
+- **Industry Challenges:** Increasing competition from **AMD, Intel, and emerging AI chip startups**
+- **Strategic Recommendations:** Expansion into **enterprise AI, cloud services, and supply chain optimizations**
 
 ---
 
 ## Relevance to Current Trends
 Although written in **2020**, the insights remain **highly relevant** today:
-- **AI Market Dominance (2024 & Beyond):** NVIDIA’s **H100 and Blackwell AI chips** now define the **AI acceleration market**, reinforcing its competitive advantage.
-- **Stock Market Impact:** NVIDIA’s valuation surged with the **AI revolution**, validating themes explored in this project.
-- **Enterprise Expansion:** As recommended in my final paper, NVIDIA has **aggressively expanded its data center and cloud computing business**, securing its **long-term dominance**.
+- **AI Market Dominance (2024 & Beyond):** NVIDIA’s **H100 and Blackwell AI chips** now define the **AI acceleration market**, reinforcing its competitive advantage
+- **Stock Market Impact:** NVIDIA’s valuation surged with the **AI revolution**, validating themes explored in this project
+- **Enterprise Expansion:** As recommended in my final paper, NVIDIA has **aggressively expanded its data center and cloud computing business**, securing its **long-term dominance**
 
 This project serves as a **case study in corporate strategy**, demonstrating how **market positioning, internal competencies, and strategic decision-making drive long-term success**.
 
 ---
 
-## Course Details
-- **Course:** Business Policy & Strategy (Rutgers Business School - Fall 2020)
-- **Instructor:** Kevin Johns
-- **Grade:** **A**
-- **Strategic Analysis Topics:**
-  - **Competitive Industry Analysis** (Porter’s Five Forces)
-  - **Internal Capabilities & Core Competencies** (VRIO, SWOT)
-  - **Financial Strength & Growth Potential** (Financial Ratios)
-  - **Strategic Recommendations** for Corporate Growth
-
----
-
 ## Why This Project Matters
 This project directly connects to my interests in:
-- **Technology Strategy & AI Market Trends** – NVIDIA’s evolution into **AI acceleration, cloud computing, and edge AI**.
-- **Business & Competitive Analysis** – Applying **structured methodologies** to evaluate firms’ market positioning.
-- **Corporate Strategy & Decision-Making** – Developing actionable insights for business leaders.
+- **Technology Strategy & AI Market Trends** – NVIDIA’s evolution into **AI acceleration, cloud computing, and edge AI**
+- **Business & Competitive Analysis** – Applying **structured methodologies** to evaluate firms’ market positioning
+- **Corporate Strategy & Decision-Making** – Developing actionable insights for business leaders
 
 These **foundational skills** align with my career focus on **AI-driven business strategy, private equity, and corporate development**.
 
