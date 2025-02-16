@@ -21,11 +21,12 @@ This project showcases my ability to apply structured strategic analysis to real
 ---
 
 ### Papers in This Series
+
 <table>
   <thead>
     <tr>
-      <th style="width: 10%;">Paper</th>
-      <th style="width: 75%;">Description</th>
+      <th style="width: 20%;">Paper</th>
+      <th style="width: 65%;">Description</th>
       <th style="width: 15%;">Link</th>
     </tr>
   </thead>
@@ -33,17 +34,17 @@ This project showcases my ability to apply structured strategic analysis to real
     <tr>
       <td><b>External Analysis</b></td>
       <td>Evaluates NVIDIA’s industry, market forces, and competition using Porter’s Five Forces.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20External%20Analysis.pdf">Read Here</a></td>
+      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20External%20Analysis.pdf">Read&nbsp;Here</a></td>
     </tr>
     <tr>
       <td><b>Internal Analysis</b></td>
       <td>Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Internal%20Analysis.pdf">Read Here</a></td>
+      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Internal%20Analysis.pdf">Read&nbsp;Here</a></td>
     </tr>
     <tr>
       <td><b>Issues & Recommendations</b></td>
       <td>Identifies key strategic challenges and proposes recommendations for sustained growth.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Issues%20and%20Recommendations.pdf">Read Here</a></td>
+      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Issues%20and%20Recommendations.pdf">Read&nbsp;Here</a></td>
     </tr>
   </tbody>
 </table>
