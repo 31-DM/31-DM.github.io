@@ -65,7 +65,6 @@ The dataset includes **chemical properties** such as:
 
 **Key Finding:**  
 For **red wine**, the top three predictors of quality were **Volatile Acidity, Sulphates, and Alcohol**
-
 For **white wine**, the most influential factors were **Fixed Acidity, Sulphates, and pH**
 
 ---
