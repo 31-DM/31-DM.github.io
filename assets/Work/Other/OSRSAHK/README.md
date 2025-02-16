@@ -4,9 +4,9 @@
 This repository contains a **proof-of-concept AutoHotkey (AHK) script** that automates a simple in-game task in **Old School RuneScape (OSRS)**. The script uses **pixel-based detection, randomized mouse movements, and input automation** to perform repetitive actions without direct user input.
 
 ## Motivation
-Many **public botting scripts** for the game were either rendered useless due to updates to the game's anti-botting software or easily identified and flagged for an instant account ban (read more on botting and Runescape in the "Further Reading" section at the bottom of this page), leading me to **write my own simple AutoHotkey script** to explore **UI automation**. While this started as a small experiment, it became my **first hands-on experience with scripting and automation**—reinforcing my interest in **process optimization, workflow automation, and decision-making under constraints**.
+Many **public botting scripts** for the game were either rendered useless due to updates to the game's anti-botting software or easily identified and flagged for an instant account ban (read more on botting and Runescape in the "Further Reading" section at the bottom of this page), leading me to **write my own simple AutoHotkey script** to explore **UI automation**. While this started as a small experiment, it became my **first hands-on experience with scripting and automation** — reinforcing my interest in **process optimization, workflow automation, and decision-making under constraints**.
 
-This early exposure to **automating repetitive inputs** naturally extended to my professional work in **data analytics, modeling, and visualization**. Whether in **financial modeling, operations strategy, or market analytics**, efficiency is critical. The same principles that applied to **optimizing in-game workflows**—such as **randomized behavior to avoid detection, structured task execution, and automation of repetitive actions**—parallel the logic behind **business process optimization, predictive modeling, and decision automation in consulting and strategy roles**.
+This early exposure to **automating repetitive inputs** naturally extended to my professional work in **data analytics, modeling, and visualization**. Whether in **financial modeling, operations strategy, or market analytics**, efficiency is critical. The same principles that applied to **optimizing in-game workflows** — such as **randomized behavior to avoid detection, structured task execution, and automation of repetitive actions** — parallel the logic behind **business process optimization, predictive modeling, and decision automation in consulting and strategy roles**.
 
 This project set the foundation for my interest in **leveraging automation to enhance decision-making and efficiency** — a theme that continues to drive my work today.
 
@@ -19,6 +19,7 @@ The script primarily automates **fishing movements** by:
 3. **Clicking the target** and repeating predefined movements
 
 ### **Key Code Snippet**
+```ahk
 PixelSearch, Dx, Dy, 400, 400, 1000, 575, 0x887569, 0, Fast
 Random, Dx2, Dx-10, Dx+10
 Random, Dy2, Dy-10, Dy+10
