@@ -20,32 +20,57 @@ This project showcases my ability to apply structured strategic analysis to real
 
 ---
 
+### Papers in This Series
+
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+  }
+  th {
+    background-color: #f4f4f4;
+  }
+  td:nth-child(1) {
+    width: 20%; /* Reduce first column width */
+    white-space: nowrap;
+  }
+  td:nth-child(2) {
+    width: 65%; /* Force description width */
+  }
+  td:nth-child(3) {
+    width: 15%; /* Make sure "Read Here" stays in one line */
+    text-align: center;
+  }
+</style>
+
 <table>
   <thead>
     <tr>
-      <th style="width: 20%;">Paper</th>
-      <th style="width: 65%;">Description</th>
-      <th style="width: 15%;">Link</th>
+      <th>Paper</th>
+      <th>Description</th>
+      <th>Link</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><b>External Analysis</b></td>
       <td>Evaluates NVIDIA’s industry, market forces, and competition using Porter’s Five Forces.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20External%20Analysis.pdf">Read&nbsp;Here</a></td>
+      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20External%20Analysis.pdf">Read Here</a></td>
     </tr>
     <tr>
       <td><b>Internal Analysis</b></td>
-      <td style="white-space: nowrap;">Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Internal%20Analysis.pdf">Read&nbsp;Here</a></td>
+      <td>Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT.</td>
+      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Internal%20Analysis.pdf">Read Here</a></td>
     </tr>
     <tr>
       <td><b>Issues & Recommendations</b></td>
       <td>Identifies key strategic challenges and proposes recommendations for sustained growth.</td>
-      <td><a href="https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Papers/BPS/Papers/NVIDIA%20Issues%20and%20Recommendations.pdf">Read&nbsp;Here</a></td>
-    </tr>
-  </tbody>
-</table>
+      <td><a href="https://github.com/31-DM/31-DM
 
 ---
 
