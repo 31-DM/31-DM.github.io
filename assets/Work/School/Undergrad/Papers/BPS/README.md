@@ -38,15 +38,15 @@ This project showcases my ability to:
 
 This analysis of **NVIDIA’s strategy in 2020** remains highly relevant today, offering insights into **long-term corporate growth, AI-driven market dominance, and strategic decision-making**.
 
-### **1. AI Market Leadership & Industry Positioning**
+### **I. AI Market Leadership & Industry Positioning**
 - **Then (2020):** Identified **AI acceleration & cloud computing** as key drivers of NVIDIA’s future growth.
 - **Now (2024):** NVIDIA is the **undisputed leader in AI**, with GPUs like **H100** and the **Blackwell architecture** powering **machine learning, cloud AI, and autonomous systems**.
 
-### **2. Financial & Competitive Strategy**
+### **II. Financial & Competitive Strategy**
 - **Then (2020):** Recommended **expansion into enterprise AI, data center dominance, and diversified revenue streams**.
 - **Now (2024):** NVIDIA has **aggressively scaled** its data center business, becoming a critical supplier for **Amazon, Microsoft, and Google Cloud**.
 
-### **3. Strategic Decision-Making in Corporate Growth**
+### **III. Strategic Decision-Making in Corporate Growth**
 - **Then (2020):** Anticipated growing **competition from AMD, Intel, and AI chip startups**.
 - **Now (2024):** Intel and AMD are **investing heavily in AI hardware**, while new players like **Cerebras and Tenstorrent** are challenging NVIDIA’s dominance.
 
