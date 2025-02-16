@@ -4,8 +4,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "DM Portfolio"
-description: "<h3>Welcome to my portfolio!</h3>
 <br>
+<br>
+description: "<h3>Welcome to my portfolio!</h3>
 <br>
 <font size = 3>
 Work in Progress
