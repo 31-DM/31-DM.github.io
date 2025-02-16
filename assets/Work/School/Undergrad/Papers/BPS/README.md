@@ -21,11 +21,32 @@ This project showcases my ability to apply structured strategic analysis to real
 ---
 
 ## Papers in This Series
-| **Paper** | **Description** | **Link** |
-|-----------|---------------|----------|
-| **External Analysis** | Evaluates NVIDIA’s industry, market forces, and competition using Porter’s Five Forces. | [Read Here](./NVIDIA%20External%20Analysis.pdf) |
-| **Internal Analysis** | Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT. | [Read Here](./NVIDIA%20Internal%20Analysis.pdf) |
-| **Issues & Recommendations** | Identifies key strategic challenges and proposes recommendations for sustained growth. | [Read Here](./NVIDIA%20Issues%20and%20Recommendations.pdf) |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align: left;">Paper</th>
+      <th style="text-align: left;">Description</th>
+      <th style="text-align: center; width: 120px;">Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>External Analysis</strong></td>
+      <td>Evaluates NVIDIA’s industry, market forces, and competition using Porter’s Five Forces.</td>
+      <td style="text-align: center;"><a href="./NVIDIA%20External%20Analysis.pdf">Read Here</a></td>
+    </tr>
+    <tr>
+      <td><strong>Internal Analysis</strong></td>
+      <td>Analyzes NVIDIA’s core competencies, resources, and strategic advantages using VRIO and SWOT.</td>
+      <td style="text-align: center;"><a href="./NVIDIA%20Internal%20Analysis.pdf">Read Here</a></td>
+    </tr>
+    <tr>
+      <td><strong>Issues & Recommendations</strong></td>
+      <td>Identifies key strategic challenges and proposes recommendations for sustained growth.</td>
+      <td style="text-align: center;"><a href="./NVIDIA%20Issues%20and%20Recommendations.pdf">Read Here</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
