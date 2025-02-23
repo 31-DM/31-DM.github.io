@@ -1,34 +1,71 @@
+31-DM.github.io/_layouts/projects.html -->
 {% include header.html %}
 
-    {% include projects-hero.html %}
+{% include projects-hero.html %}
 
-    <main id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-md-12">
-                    {% if site.section_title != '' %}
-                    <h2 class="section-title text-center">{{ site.section_title }}</h2>
-                    {% endif %}
-                    {% if site.section_subtitle != '' %}
-                    <p class="section-subtitle text-center">{{ site.section_subtitle }}</p>
-                    {% endif %}
+<main id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="projects-container">
+                    <details id="projects-details">
+                        <summary id="projects-summary" class="center-button">
+                            <i class="fa fa-folder fa-lg"></i> <span>View Projects</span>
+                        </summary>
+                        <div class="projects-content">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12">
+                                        {% if site.section_title != '' %}
+                                        <h2 class="section-title text-center">{{ site.section_title }}</h2>
+                                        {% endif %}
+                                        {% if site.section_subtitle != '' %}
+                                        <div class="section-subtitle text-center">{{ site.section_subtitle }}</div>
+                                        {% endif %}
 
-                    {% for post in site.posts %}
-                    <div class="wow fadeIn">
-                        {% if post.position == "left" %}
-                        {% include content-left.html %}
-                        {% endif %}
+                                        {% for post in site.posts %}
+                                        <div class="wow fadeIn">
+                                            {% if post.position == "left" %}
+                                            {% include content-left.html %}
+                                            {% endif %}
 
-                        {% if post.position == "right" %}
-                        {% include content-right.html %}
-                        {% endif %}
-                    </div>
-                    {% endfor %}
+                                            {% if post.position == "right" %}
+                                            {% include content-right.html %}
+                                            {% endif %}
+                                        </div>
+                                        {% endfor %}
 
-                    {% include pagination.html %}
+                                        {% include pagination.html %}
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </details>
                 </div>
             </div>
         </div>
-    </main>
+    </div>
+</main>
 
 {% include footer.html %}
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const details = document.getElementById('projects-details');
+        const summary = document.getElementById('projects-summary');
+        const icon = summary.querySelector('i');
+        const text = summary.querySelector('span');
+
+        details.addEventListener('toggle', function () {
+            if (details.open) {
+                text.textContent = 'Hide Projects';
+                icon.classList.remove('fa-folder');
+                icon.classList.add('fa-folder-open');
+            } else {
+                text.textContent = 'View Projects';
+                icon.classList.remove('fa-folder-open');
+                icon.classList.add('fa-folder');
+            }
+        });
+    });
+</script>

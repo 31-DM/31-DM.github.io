@@ -7,7 +7,7 @@ categories: R
 tags: R modeling time-series data-analytics sports-analytics forecasting
 featured_image: '/img/posts/NFLTSModel.png'
 project_link: 'https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Projects/TimeSeries/README.md'
-button_icon: 'chart-line'
+button_icon: 'fa-football-ball'
 button_text: 'Visit Project'
 lead_text: 'Quantitative forecasting meets sports analytics'
 ---

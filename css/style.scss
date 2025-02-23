@@ -62,7 +62,7 @@ a {
   @include transition(color .2s ease-in-out);
   color: #626f6f;
   &:hover {
-    color: #FF5B33;
+    color: rgb(221, 101, 101);
     text-decoration: none;
   }
 }
@@ -84,7 +84,8 @@ button.btn, input.btn {
   color: #2E4453;
   font-weight: 600;
   &:hover, &.btn-default:hover {
-    background-color: white;
+    background-color: rgb(221, 101, 101);
+    color: #ffffff;
     border: solid 1px #b0c5d2;
     -moz-box-shadow: 0 1px 0 #b0c5d2;
     -webkit-box-shadow: 0 1px 0 #b0c5d2;
@@ -112,7 +113,7 @@ button.btn, input.btn {
   position: relative;
   top: 0;
   color: #C8D7E1;
-  margin: 0 auto;
+  margin: 5em auto 0 auto;
   display: table;
   @include transition(top .2s ease-in);
   &:hover {
@@ -134,9 +135,10 @@ button.btn, input.btn {
 }
 
 .hero-content {
-  width: 65%;
+  width: 66%;
   margin: 0 auto;
   display: table;
+  text-align: center;
   @include bp-medium {
     width: 100%;
   }
@@ -165,7 +167,8 @@ button.btn, input.btn {
 	2.1 Projects Hero
 --------------------------------------------------------------*/
 .projects-container {
-  margin: 6em 0 0 0;
+  text-align: center;
+  margin: 2em 0 1em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
   }
@@ -178,6 +181,7 @@ button.btn, input.btn {
   width: 64%;
   margin: 0 auto;
   display: table;
+  text-align: center;
   @include bp-medium {
     width: 100%;
   }
@@ -193,6 +197,14 @@ button.btn, input.btn {
   p {
     margin: 2em 0 4em 0;
   }
+
+  #projects-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
   .projects-buttons {
     margin: 3em auto 1em auto;
     display: table;
@@ -200,6 +212,46 @@ button.btn, input.btn {
       padding-right: 0.5em;
     }
   }
+}
+
+summary {
+  cursor: pointer;
+  padding: 12px 35px;
+  margin: 2em 0.5em;
+  border: solid 1px #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  display: inline-block; /* Ensure the summary element is inline-block */
+  background-color: #ffffff; /* Add background color to match button */
+  font-size: 16px; /* Match the font size of the post buttons */
+  &:hover {
+    background-color: rgb(221, 101, 101);
+    color: #ffffff;
+    border: solid 1px #b0c5d2;
+    -moz-box-shadow: 0 1px 0 #b0c5d2;
+    -webkit-box-shadow: 0 1px 0 #b0c5d2;
+    box-shadow: 0 1px 0 #b0c5d2;
+  }
+  i {
+    padding-right: 0.5em;
+  }
+  @include bp-xsmall {
+    @include horizontal-align;
+    margin-bottom: 0.5em;
+  }
+}
+
+summary:hover {
+  background-color: rgb(221, 101, 101);
+  color: #e2e6ea;
+}
+
+.center-button {
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  width: auto;
 }
 
 /*--------------------------------------------------------------
@@ -259,7 +311,6 @@ button.btn, input.btn {
 	3.0 Posts
 --------------------------------------------------------------*/
 #portfolio .container {
-  margin-top: 2em;
   @include bp-xsmall {
     margin-top: 2em;
   }
@@ -271,22 +322,53 @@ button.btn, input.btn {
   }
 }
 
+summary {
+  cursor: pointer;
+  padding: 12px 35px;
+  margin: 2em 0.5em;
+  border: solid 1px #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  display: inline-block; /* Ensure the summary element is inline-block */
+  background-color: #ffffff; /* Add background color to match button */
+  &:hover {
+    background-color: rgb(221, 101, 101);
+    color: #ffffff;
+    border: solid 1px #b0c5d2;
+    -moz-box-shadow: 0 1px 0 #b0c5d2;
+    -webkit-box-shadow: 0 1px 0 #b0c5d2;
+    box-shadow: 0 1px 0 #b0c5d2;
+  }
+  i {
+    padding-right: 0.5em;
+  }
+  @include bp-xsmall {
+    @include horizontal-align;
+    margin-bottom: 0.5em;
+  }
+}
+
+summary:hover {
+  background-color: rgb(221, 101, 101);
+  color: #e2e6ea;
+}
+
+details[open] .section-title:after {
+  content: '';
+  position: absolute;
+  top: 1.75em; /* Position the line directly under the title */
+  left: 49%; /* Center the line horizontally */
+  transform: translateX(-50%); /* Adjust the position to center */
+  width: 50%;
+  height: 3px;
+  background-color: #ECEFF1;
+}
+
 .section-title {
   position: relative;
-  margin: 0 auto;
-  margin-bottom: 1em;
-  &:after {
-    content: '';
-    position: absolute;
-    top: 1.35em;
-    width: 3em;
-    height: 3px;
-    background-color: #ECEFF1;
-    left: 50%;
-    -webkit-transform: translateX(-50%);
-    -ms-transform: translateX(-50%);
-    transform: translateX(-50%);
-  }
+  margin: 0 auto .5em auto;
+  text-align: center; /* Center the text */
 }
 
 .section-subtitle {
@@ -301,7 +383,8 @@ button.btn, input.btn {
 }
 
 .content-wrap {
-  margin-bottom: 2em;
+  margin-bottom: 3em;
+  padding: 0 5em;
   @include bp-xsmall {
     margin-bottom: 2em;
   }
@@ -317,23 +400,21 @@ button.btn, input.btn {
     }
   }
   .content {
-    margin-top: 5em;
-    margin-left: 5em;
-    margin-right: 5em;
     @include bp-xsmall {
-      margin-left: 0;
+      margin-left: 2em;
     }
     h3.title {
       position: relative;
-      margin-bottom: 1.5em;
+      margin-bottom: 1em;
       &:after {
-        content: '';
-        position: absolute;
-        top: 1.5em;
-        left: 0;
-        width: 3em;
-        height: 3px;
-        background-color: #ECEFF1;
+      content: '';
+      position: absolute;
+      bottom: -0.4em;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 10em;
+      height: 3px;
+      background-color: #bfc2c599;
       }
     }
     .excerpt {
@@ -345,11 +426,11 @@ button.btn, input.btn {
     button{
       font-size: 16px;
       margin-left: 0;
-      margin-bottom: 1em;
-      margin-top: 1em;
+      margin-bottom: 0;
+      margin-top: 5em;
     }
     .tags, .categories {
-      margin: 2em 0;
+      margin: 1.5em 0;
       span {
         color: #9eb1bd;
         background-color: #ECEFF1;
@@ -384,7 +465,7 @@ button.btn, input.btn {
 --------------------------------------------------------------*/
 .site-footer {
   font-size: 14px;
-  margin-top: 2em;
+  margin-top: .5em;
   border-top: 1px solid #efefef;
   padding: 1em 0;
   p {
@@ -401,7 +482,7 @@ button.btn, input.btn {
     position: relative;
     top: 0;
     color: #C8D7E1;
-    margin: 1em auto 0 auto; /* Adjust the top margin as needed */
+    margin: 0.5 auto 0 auto; /* Adjust the top margin as needed */
     display: table;
     @include transition(top .2s ease-in);
     &:hover {
