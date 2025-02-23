@@ -1,0 +1,27 @@
+<div class="container">
+
+    <div class="row">
+
+        <div class="col-md-12">
+
+            <div class="about-container">
+
+                <div class="about-content">
+
+                    {% if site.abouttitle != '' %}
+                    <h2 class="text-center">{{site.abouttitle}}</h2>
+                    {% endif %}
+
+                    {% if site.aboutdescription != '' %}
+                    {{site.aboutdescription}}
+                    {% endif %}
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>

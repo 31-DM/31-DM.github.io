@@ -168,7 +168,7 @@ button.btn, input.btn {
 --------------------------------------------------------------*/
 .projects-container {
   text-align: center;
-  margin: 2em 0 1em 0;
+  margin: 6em 0 1em 0;
   @include bp-xsmall {
     margin: 5em 0 5em 0;
   }
@@ -255,7 +255,189 @@ summary:hover {
 }
 
 /*--------------------------------------------------------------
-	2.2 Contact
+	2.2 Gallery Hero
+--------------------------------------------------------------*/
+.gallery-container {
+  text-align: center;
+  margin: 6em 0 1em 0;
+  @include bp-xsmall {
+    margin: 5em 0 5em 0;
+  }
+  @include bp-small {
+    margin: 5em 0 5em 0;
+  }
+}
+
+.gallery-content {
+  width: 64%;
+  margin: 6em auto;
+  display: table;
+  text-align: center;
+  @include bp-medium {
+    width: 100%;
+  }
+  @include bp-small {
+    width: 100%;
+  }
+  @include bp-xsmall {
+    width: 100%;
+  }
+  h1 {
+    font-size: 48px;
+  }
+  p {
+    margin: 2em 0 4em 0;
+  }
+
+  #gallery-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .gallery-buttons {
+    margin: 3em auto 1em auto;
+    display: table;
+    i {
+      padding-right: 0.5em;
+    }
+  }
+}
+
+summary {
+  cursor: pointer;
+  padding: 12px 35px;
+  margin: 2em 0.5em;
+  border: solid 1px #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  display: inline-block; /* Ensure the summary element is inline-block */
+  background-color: #ffffff; /* Add background color to match button */
+  font-size: 16px; /* Match the font size of the post buttons */
+  &:hover {
+    background-color: rgb(221, 101, 101);
+    color: #ffffff;
+    border: solid 1px #b0c5d2;
+    -moz-box-shadow: 0 1px 0 #b0c5d2;
+    -webkit-box-shadow: 0 1px 0 #b0c5d2;
+    box-shadow: 0 1px 0 #b0c5d2;
+  }
+  i {
+    padding-right: 0.5em;
+  }
+  @include bp-xsmall {
+    @include horizontal-align;
+    margin-bottom: 0.5em;
+  }
+}
+
+summary:hover {
+  background-color: rgb(221, 101, 101);
+  color: #e2e6ea;
+}
+
+.center-button {
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  width: auto;
+}
+
+/*--------------------------------------------------------------
+	2.3 About Hero
+--------------------------------------------------------------*/
+.about-container {
+  text-align: center;
+  margin: 6em 0 1em 0;
+  @include bp-xsmall {
+    margin: 5em 0 5em 0;
+  }
+  @include bp-small {
+    margin: 5em 0 5em 0;
+  }
+}
+
+.about-content {
+  width: 64%;
+  margin: 6em auto;
+  display: table;
+  text-align: center;
+  @include bp-medium {
+    width: 100%;
+  }
+  @include bp-small {
+    width: 100%;
+  }
+  @include bp-xsmall {
+    width: 100%;
+  }
+  h1 {
+    font-size: 48px;
+  }
+  p {
+    margin: 2em 0 4em 0;
+  }
+
+  #about-details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .about-buttons {
+    margin: 3em auto 1em auto;
+    display: table;
+    i {
+      padding-right: 0.5em;
+    }
+  }
+}
+
+summary {
+  cursor: pointer;
+  padding: 12px 35px;
+  margin: 2em 0.5em;
+  border: solid 1px #d5e0e7;
+  border-radius: 4px;
+  color: #2E4453;
+  font-weight: 600;
+  display: inline-block; /* Ensure the summary element is inline-block */
+  background-color: #ffffff; /* Add background color to match button */
+  font-size: 16px; /* Match the font size of the post buttons */
+  &:hover {
+    background-color: rgb(221, 101, 101);
+    color: #ffffff;
+    border: solid 1px #b0c5d2;
+    -moz-box-shadow: 0 1px 0 #b0c5d2;
+    -webkit-box-shadow: 0 1px 0 #b0c5d2;
+    box-shadow: 0 1px 0 #b0c5d2;
+  }
+  i {
+    padding-right: 0.5em;
+  }
+  @include bp-xsmall {
+    @include horizontal-align;
+    margin-bottom: 0.5em;
+  }
+}
+
+summary:hover {
+  background-color: rgb(221, 101, 101);
+  color: #e2e6ea;
+}
+
+.center-button {
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  width: auto;
+}
+
+/*--------------------------------------------------------------
+	2.4 Contact
 --------------------------------------------------------------*/
 .modal-header {
   border-bottom: none;

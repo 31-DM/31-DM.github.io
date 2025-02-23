@@ -1,12 +1,13 @@
 ---
-layout: inner
+layout: about_layout
 title: About
 permalink: /about/
 ---
 
-## Coming Soon
+## Coming soon
 
-<!--- ## Markdown
+<!--
+## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -56,7 +57,7 @@ end
 ###### Header 6
 
 | head1        | head two          | three |
-|:-------------|:------------------|:------|
+| :----------- | :---------------- | :---- |
 | ok           | good swedish fish | nice  |
 | out of stock | good and plenty   | nice  |
 | ok           | good `oreos`      | hmm   |
@@ -206,6 +207,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
 {% endhighlight %}
-*
-
---->
+-->

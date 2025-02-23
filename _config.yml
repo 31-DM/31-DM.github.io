@@ -14,6 +14,12 @@ email_address: dam387@cornell.edu
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
 
+gallerytitle: "Gallery"
+gallerydescription: "Coming Soon"
+
+abouttitle: "More About Me"
+aboutdescription: "Coming Soon"
+
 # Build settings
 markdown: kramdown
 # theme: phantom # Uncomment once published to RubyGems
