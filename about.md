@@ -3,7 +3,10 @@ layout: inner
 title: About
 permalink: /about/
 ---
-## Markdown
+
+## Coming Soon
+
+<!-- ## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -203,3 +206,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
 {% endhighlight %}
+*
