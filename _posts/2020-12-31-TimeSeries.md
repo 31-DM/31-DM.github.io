@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: projects
 position: left
 title: 'Time Series Model for NFL Betting'
 date: 2020-12-31 00:00:04

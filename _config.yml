@@ -3,27 +3,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "DM Portfolio"
+title: "Portfolio"
+porttitle: "Projects"
 
-
-description: "<h3>Welcome to my portfolio!</h3>
-<font size = 3>
-Work in Progress
-<!---
-🔭 <b>I’m currently working on:</b> Developing case study solutions for business strategy and operations challenges
-<br>
-🤿 <b>I’m currently learning:</b> How to scuba dive; in the process of getting certified
-<br>
-📊 <b>I’m looking to collaborate on:</b> Data-driven storytelling through analytics and visualization
-<br>
-🤔 <b>I’m looking for help with:</b> Breaking into corporate strategy and product management roles
-<br>
-💬 <b>Ask me about:</b> Weightlifting, Nutrition, Stocks & Stock Options, Sports Betting, My Two Dogs
-<br>
-⚡ <b>Fun fact:</b> I've driven a tank
--->
-</font>"
+description: "<br><h4>Welcome to my portfolio!</h4><font size = 4><br>I specialize in business strategy, data analytics, and technology-driven decision-making, leveraging structured problem-solving to create meaningful insights and innovation. My background in consulting has allowed me to optimize business operations, develop data-driven strategies, and support high-impact projects across industries (including financial services, telecommunications, energy, and more).<br><br>Through case studies, projects, and industry analyses, this portfolio highlights my ability to blend strategic vision with analytical rigor - whether it’s driving operational improvements, enhancing data governance, or building scalable solutions.<br><br>I will periodically update this portfolio with relevant projects as I complete them. Feel free to explore my work, connect with me, or reach out - I’m always open to discussions!</font>"
 url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
+porturl: "https://31-DM.github.io/_layouts/projects.html"
+portdescription: "<br><h4>Welcome to my projects page!</h4><font size = 4><br>Here, you can explore my latest projects, case studies, and analyses. Each project is designed to showcase my skills in business strategy, data analytics, and technology-driven decision-making. From optimizing business operations to developing data-driven strategies, these projects highlight my ability to blend strategic vision with analytical rigor.<br><br>Feel free to explore my work, connect with me, or reach out - I’m always open to discussions!</font>"
 email_address: dam387@cornell.edu
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
@@ -105,3 +91,4 @@ admin_name: 'DM'
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
+  - { url: '/projects', text: 'Projects' }
