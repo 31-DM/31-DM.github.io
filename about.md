@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Coming Soon
 
-<!-- ## Markdown
+<!--- ## Markdown
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
@@ -207,3 +207,5 @@ nav_item:
   - { url: '/about', text: 'About' }
 {% endhighlight %}
 *
+
+--->
