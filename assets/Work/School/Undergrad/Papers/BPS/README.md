@@ -69,16 +69,6 @@ This project serves as a **case study in corporate strategy**, demonstrating how
 
 ---
 
-## Relevance to Current Trends
-Although written in **2020**, the insights remain **highly relevant** today:
-- **AI Market Dominance (2024 & Beyond):** NVIDIA’s **H100 and Blackwell AI chips** now define the **AI acceleration market**, reinforcing its competitive advantage
-- **Stock Market Impact:** NVIDIA’s valuation surged with the **AI revolution**, validating themes explored in this project
-- **Enterprise Expansion:** As recommended in my final paper, NVIDIA has **aggressively expanded its data center and cloud computing business**, securing its **long-term dominance**
-
-This project serves as a **case study in corporate strategy**, demonstrating how **market positioning, internal competencies, and strategic decision-making drive long-term success**.
-
----
-
 ## Why This Project Matters
 This project directly connects to my interests in:
 - **Technology Strategy & AI Market Trends** – NVIDIA’s evolution into **AI acceleration, cloud computing, and edge AI**
