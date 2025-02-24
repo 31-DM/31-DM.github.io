@@ -1,0 +1,203 @@
+I"(!<h2 id="coming-soon">Coming soon</h2>
+
+<!--
+## Markdown
+
+Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+
+[Link to another page](/index.html).
+
+There should be whitespace between paragraphs.
+
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// Javascript code with syntax highlighting.</span>
+<span class="kd">var</span> <span class="nx">fun</span> <span class="o">=</span> <span class="kd">function</span> <span class="nf">lang</span><span class="p">(</span><span class="nx">l</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nx">dateformat</span><span class="p">.</span><span class="nx">i18n</span> <span class="o">=</span> <span class="nf">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">./lang/</span><span class="dl">'</span> <span class="o">+</span> <span class="nx">l</span><span class="p">)</span>
+  <span class="k">return</span> <span class="kc">true</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
+
+
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="c1"># Ruby code with syntax highlighting</span>
+<span class="no">GitHubPages</span><span class="o">::</span><span class="no">Dependencies</span><span class="p">.</span><span class="nf">gems</span><span class="p">.</span><span class="nf">each</span> <span class="k">do</span> <span class="o">|</span><span class="n">gem</span><span class="p">,</span> <span class="n">version</span><span class="o">|</span>
+  <span class="n">s</span><span class="p">.</span><span class="nf">add_dependency</span><span class="p">(</span><span class="n">gem</span><span class="p">,</span> <span class="s2">"= </span><span class="si">#{</span><span class="n">version</span><span class="si">}</span><span class="s2">"</span><span class="p">)</span>
+<span class="k">end</span></code></pre></figure>
+
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+| :----------- | :---------------- | :---- |
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
+
+---
+
+### Here is an unordered list:
+
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Wide image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
+
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.</code></pre></figure>
+
+
+
+<figure class="highlight"><pre><code class="language-txt" data-lang="txt">The final element.</code></pre></figure>
+
+
+---
+
+## Syntax highlighting
+
+Jekyll has [built in support](https://jekyllrb.com/docs/templates/#code-snippet-highlighting) for syntax highlighting of over 60 languages thanks to [Rouge](http://rouge.jneen.net/).
+
+To render a code block with syntax highlighting, surround your code as follows:
+
+
+<figure class="highlight"><pre><code class="language-markdown" data-lang="markdown">{% highlight ruby %}
+def foo
+  puts 'foo'
+end
+{% endhighlight %}</code></pre></figure>
+
+
+[Pygments](http://pygments.org/) styles are present under section 6.0 of `css/style.scss` for customization.
+
+### Examples
+
+---
+
+#### Bash
+
+
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="o">&gt;</span>_ ssh <span class="nt">-i</span> ~/.ssh/id_rsa account@host.com
+account@host:~<span class="err">$</span>
+<span class="nv">$ var</span><span class="o">=</span><span class="s2">"my-value"</span>
+<span class="nv">$ </span><span class="nb">echo</span> <span class="nv">$var</span>
+my-value
+<span class="nv">$ </span><span class="nb">logout</span></code></pre></figure>
+
+
+#### HTML
+
+
+<figure class="highlight"><pre><code class="language-html" data-lang="html"><span class="cp">&lt;!DOCTYPE html&gt;</span>
+<span class="nt">&lt;html&gt;</span>
+ <span class="nt">&lt;head&gt;</span>
+   <span class="nt">&lt;meta</span> <span class="na">charset=</span><span class="s">"UTF-8"</span><span class="nt">&gt;</span>
+   <span class="nt">&lt;title&gt;</span>title<span class="nt">&lt;/title&gt;</span>
+ <span class="nt">&lt;/head&gt;</span>
+ <span class="nt">&lt;body&gt;</span>
+
+ <span class="nt">&lt;/body&gt;</span>
+<span class="nt">&lt;/html&gt;</span></code></pre></figure>
+
+
+#### CSS
+
+
+<figure class="highlight"><pre><code class="language-css" data-lang="css"><span class="c">/*--------------------------------------------------------------
+	1.0 Defaults
+--------------------------------------------------------------*/</span>
+
+<span class="k">@media</span> <span class="p">(</span><span class="n">min-width</span><span class="p">:</span> <span class="m">1200px</span><span class="p">)</span> <span class="p">{</span>
+  <span class="nc">.container</span> <span class="p">{</span>
+    <span class="nl">width</span><span class="p">:</span> <span class="m">1200px</span><span class="p">;</span>
+  <span class="p">}</span>
+<span class="p">}</span>
+
+<span class="nt">body</span> <span class="p">{</span>
+  <span class="nl">background-color</span><span class="p">:</span> <span class="m">#e9edf0</span><span class="p">;</span>
+  <span class="err">@extend</span> <span class="err">%opensans;</span>
+  <span class="nl">-webkit-font-smoothing</span><span class="p">:</span> <span class="n">antialiased</span><span class="p">;</span>
+<span class="p">}</span></code></pre></figure>
+
+
+#### YAML
+
+
+<figure class="highlight"><pre><code class="language-yaml" data-lang="yaml"><span class="c1">### Phantom settings</span>
+<span class="na">paginate</span><span class="pi">:</span> <span class="m">10</span>
+<span class="na">footer_text</span><span class="pi">:</span> <span class="s1">'</span><span class="s">©</span><span class="nv"> </span><span class="s">2018</span><span class="nv"> </span><span class="s">Jami</span><span class="nv"> </span><span class="s">Gibbs'</span>
+<span class="na">admin_name</span><span class="pi">:</span> <span class="s1">'</span><span class="s">Jami</span><span class="nv"> </span><span class="s">Gibbs'</span>
+<span class="na">google_analytics</span><span class="pi">:</span> <span class="s2">"</span><span class="s">UA-9999999-99"</span> <span class="c1"># Update with your own tracking ID</span>
+
+<span class="c1">#### Phantom Navigation menu</span>
+<span class="na">enable_nav</span><span class="pi">:</span> <span class="kc">true</span>
+<span class="na">nav_item</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="pi">{</span> <span class="nv">url</span><span class="pi">:</span> <span class="s1">'</span><span class="s">/'</span><span class="pi">,</span> <span class="nv">text</span><span class="pi">:</span> <span class="s1">'</span><span class="s">Home'</span> <span class="pi">}</span>
+  <span class="pi">-</span> <span class="pi">{</span> <span class="nv">url</span><span class="pi">:</span> <span class="s1">'</span><span class="s">/about'</span><span class="pi">,</span> <span class="nv">text</span><span class="pi">:</span> <span class="s1">'</span><span class="s">About'</span> <span class="pi">}</span></code></pre></figure>
+
+-->
+:ET
