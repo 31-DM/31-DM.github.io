@@ -63,7 +63,7 @@ The dataset includes **chemical properties** such as:
 | Initial White Wine Model | 0.2787 | 2.54e-15 (Significant) | 10.37% |
 | Improved White Wine Model | 0.2795 | 2e-16 (Highly Significant) | 10.37% |
 
-**Key Finding:**  
+**Key Findings:**  
 For **red wine**, the top three predictors of quality were **Volatile Acidity, Sulphates, and Alcohol**\
 For **white wine**, the most influential factors were **Fixed Acidity, Sulphates, and pH**
 
