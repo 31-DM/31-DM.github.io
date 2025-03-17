@@ -651,7 +651,25 @@ details[open] .section-title:after {
   width: auto;
   height: auto; /* Maintain aspect ratio */
   display: block;
-  margin: 2em auto 0 auto; /* Center the image */
+  margin: 5em auto 0 auto; /* Center the image */
+}
+
+.custom-featured-image2 {
+  /* Custom featured image2 */
+  max-width: 80%; /* Ensure the image does not exceed the container width */
+  width: auto;
+  height: 22em; /* Maintain aspect ratio */
+  display: block;
+  margin: 5em auto 0 auto; /* Center the image */
+}
+
+.custom-featured-image3 {
+  /* Custom featured image2 */
+  max-width: 100%; /* Ensure the image does not exceed the container width */
+  width: auto;
+  height: auto; /* Maintain aspect ratio */
+  display: block;
+  margin: 5em auto 0 auto; /* Center the image */
 }
 
 // vertically center content of post rows

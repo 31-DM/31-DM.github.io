@@ -1,6 +1,2 @@
-.jekyll-cache/
-_site/
-.sass-cache/
-.bundle/
-.jekyll-metadata
-Gemfile.lock
+# ignore everything in this directory
+*
