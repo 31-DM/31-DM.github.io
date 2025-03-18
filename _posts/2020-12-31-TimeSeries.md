@@ -2,7 +2,7 @@
 layout: projects
 position: left
 title: 'Time Series Model for NFL Betting'
-date: 2020-12-31 00:00:04
+date: 2020-12-31 00:00:20
 categories: R modeling time-series data-analytics sports-analytics forecasting undergrad
 tags: R modeling time-series data-analytics sports-analytics forecasting undergrad
 featured_image: '/img/posts/NFLTSModel.png'
