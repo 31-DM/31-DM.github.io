@@ -57,6 +57,6 @@ This study guide follows this structure, breaking each topic down into **key sub
 
 The complete study guide is available on **GitHub** and includes detailed explanations, reference materials, and example queries.
 
-📌 **[View the Study Guide](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Projects/Databricks/SG.pdf)**
+**[View the Study Guide](https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Projects/Databricks/SG.pdf)**
 
 ---
