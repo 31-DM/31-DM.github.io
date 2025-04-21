@@ -6,22 +6,10 @@
 title: "Portfolio"
 porttitle: "Projects"
 
-description: >
-  <br><h4>Welcome!</h4>
-  <font size="4">
-  <br>I'm an MBA candidate at Cornell SC Johnson College of Business with a background in consulting and a passion for data-driven strategy. I specialize in turning complex business problems into structured, analytical solutions — often using optimization models, regression, and advanced decision frameworks.
-  <br><br>I've led and supported high-impact projects across industries such as financial services, telecom, and energy. My work blends strategic thinking with technical depth, allowing me to approach real-world challenges from both a visionary and rigorous perspective.
-  <br><br>This portfolio showcases case studies, strategy projects, and analytical models I've developed — from optimizing facility locations and delivery networks to predicting consumer behavior using multivariate regression. Each project highlights my ability to translate ambiguity into action through modeling, analysis, and clear communication.
-  <br><br>Feel free to explore my work, connect with me, or reach out — I'm always open to new ideas and conversations.
-  </font>
+description: "<br><h4>Welcome!</h4><font size = 4><br>I'm an MBA candidate at Cornell SC Johnson College of Business, with a background in consulting and a passion for data-driven strategy. I specialize in turning complex business problems into structured, analytical solutions — often using optimization models, regression, and advanced decision frameworks.<br><br>I've led and supported high-impact projects across industries such as financial services, telecom, and energy. My work blends strategic thinking with technical depth, allowing me to approach real-world challenges from both a visionary and rigorous perspective.<br><br>This portfolio showcases case studies, strategy projects, and analytical models I've developed — from optimizing facility locations and delivery networks to predicting consumer behavior using multivariate regression. Each project highlights my ability to translate ambiguity into action through modeling, analysis, and clear communication.<br><br>Feel free to explore my work, connect with me, or reach out — I’m always open to new ideas and conversations!</font>"
 url: "https://31-DM.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 porturl: "https://31-DM.github.io/_layouts/projects.html"
-portdescription: >
-  <font size="4">
-  <br>Below is a curated selection of projects spanning optimization modeling, forecasting, data mining, and strategic analysis. These projects reflect my ability to combine business intuition with analytical precision — leveraging tools like AMPL, CPLEX, regression modeling, and time series forecasting.
-  <br><br>Each project includes documentation, code, and visualizations to demonstrate both the technical rigor and real-world relevance of the work. From complex supply chain problems to predictive modeling for consumer preferences, these projects illustrate how structured thinking can drive smarter decisions.
-  <br><br>I periodically update this portfolio with new material as I complete additional coursework, engagements, and independent explorations. Feel free to explore, connect, or start a conversation!
-  </font>
+portdescription: "<font size = 4><br>Below is a selection of some of my projects, case studies, and analyses. Each project showcases my skills in strategy, analytics, and more. From the creation of time-series forecasting models to the synthesis of a detailed company analysis, these projects highlight my ability to blend strategic vision with analytical rigor.<br><br>I will periodically update this portfolio with relevant projects as I complete them. Feel free to explore my work, connect with me, or reach out — I’m always open to discussions!</font>"
 email_address: dam387@cornell.edu
 linkedin_username: 'dev-misra'
 github_username: '31-DM'
