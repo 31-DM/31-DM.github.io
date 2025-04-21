@@ -3,7 +3,13 @@
 ### Overview  
 This folder showcases selected problem-solving work from the **Optimization Modeling** course, where I formulated real-world decision problems as mathematical optimization models, encoded them in **AMPL**, and solved them using industry-standard solver packages including **CPLEX** and **XPressMP**
 
-**Course Grade:** A  
+## Course Objectives  
+- Develop a structured understanding of **linear and integer programming**
+- Learn to model real-world decision scenarios using **high-level modeling languages like AMPL**
+- Apply **professional solvers** to identify optimal or near-optimal solutions
+- Gain fluency in interpreting solver output and translating results into action
+
+**Course Grade:** A
 
 ### Contents  
 - [SelectedWorks](./SelectedWorks): Collection of optimization modeling projects across multiple domains
@@ -12,25 +18,6 @@ Example projects:
 - **Library Location** – Determine optimal facility placement under cost and capacity constraints
 - **Olive Oil Mixing** – Maximize profit while meeting labeling requirements for blended olive oil
 - **Project Selection** – Select jobs and rent equipment within budget to optimize total return
-
----
-
-## Business & Practical Impact
-
-- **Data-Driven Decision Making**: These models reflect real-world business challenges where analytical rigor drives operational and financial decisions  
-- **Optimization in Practice**: Projects like facility placement, resource allocation, and product blending mirror problems faced in **supply chain**, **manufacturing**, **retail**, and **tech strategy**  
-- **Scalable Skillset**: Techniques demonstrated here are foundational to roles in **operations research**, **data science**, **financial modeling**, and **logistics planning**
-
----
-
-## Why This Project Matters
-
-Optimization isn’t just math — it’s a way to **formalize and solve real-world decisions** under constraints  
-The work in this repository demonstrates my ability to:
-- Translate business scenarios into structured models
-- Make decisions under limited resources
-- Extract actionable insights from abstract math
-- Use **AMPL**, a professional-grade modeling tool, to drive results
 
 ---
 
@@ -56,11 +43,23 @@ AMPLT supports industry solvers like **CPLEX**, **Gurobi**, and **HiGHS** in an 
 
 ---
 
-## Course Objectives  
-- Develop a structured understanding of **linear and integer programming**
-- Learn to model real-world decision scenarios using **high-level modeling languages like AMPL**
-- Apply **professional solvers** to identify optimal or near-optimal solutions
-- Gain fluency in interpreting solver output and translating results into action
+## Why This Project Matters
+
+Optimization isn’t just math — it’s a way to **formalize and solve real-world decisions** under constraints  
+
+The work in this repository demonstrates my ability to:
+- Translate business scenarios into structured models
+- Make decisions under limited resources
+- Extract actionable insights from abstract math
+- Use a professional-grade modeling tool, to drive results
+
+---
+
+## Business & Practical Impact
+
+- **Data-Driven Decision Making**: These models reflect real-world business challenges where analytical rigor drives operational and financial decisions  
+- **Optimization in Practice**: Projects like facility placement, resource allocation, and product blending mirror problems faced in **supply chain**, **manufacturing**, **retail**, and **tech strategy**  
+- **Scalable Skillset**: Techniques demonstrated here are foundational to roles in **operations research**, **data science**, **financial modeling**, and **logistics planning**
 
 ---
 
