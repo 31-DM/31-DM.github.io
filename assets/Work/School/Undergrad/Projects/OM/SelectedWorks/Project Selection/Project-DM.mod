@@ -22,7 +22,7 @@ maximize PROFIT:
 	
 	
 subject to WORKHOURS:
-	sum{e in EQUIPMENT} rentCost[e] * y[e] <= Capacity;			# total woring hours is limited
+	sum{e in EQUIPMENT} rentCost[e] * y[e] <= Capacity;			# total working hours is limited
 	
 subject to RENTALS{e in EQUIPMENT, j in JOBS: Reqs[e,j] = 1}:
 	x[j] <= y[e];												# cannot do a job if do not rentCost the needed equipment

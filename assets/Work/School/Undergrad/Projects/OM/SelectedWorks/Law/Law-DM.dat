@@ -1,0 +1,16 @@
+#Law data file
+
+set CASE := C1 C2 C3 C4 C5;
+
+set ASSOCIATE := Julie John Jim Jonathan Jack;
+
+param w:														#100% - percent chance of losing case = percent chance of winning case
+			C1		C2		C3		C4		C5 :=	
+Julie		74.78	77.39	60		59.78	50
+John		57.17	67.39	69.78	70		60
+Jim			80		70		90		77.39	50
+Jonathan	60		90		90		60		80
+Jack		70		80		65		90		50
+;
+
+

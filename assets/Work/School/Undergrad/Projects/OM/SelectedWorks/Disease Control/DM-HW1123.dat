@@ -1,0 +1,17 @@
+#HW1123 DAT FILE
+
+set GENES := A B C D E F G;
+
+set DISEASES := D1 D2 D3 D4 D5 D6 D7;
+
+set CONTROL[D1] := A B E;
+set CONTROL[D2] := B C E F;
+set CONTROL[D3] := A C D;
+set CONTROL[D4] := A F G;
+set CONTROL[D5] := B D E G;
+set CONTROL[D6] := C E G;
+set CONTROL[D7] := D E F;
+
+param minD := D1 1 D2 2 D3 2 D4 1 D5 2 D6 1 D7 1;
+
+param cost := A 5 B 3 C 3 D 8 E 9 F 7 G 2;

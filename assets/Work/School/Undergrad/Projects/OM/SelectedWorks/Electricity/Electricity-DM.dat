@@ -1,0 +1,10 @@
+#Electricity data file
+
+param a := 20;
+param b := 25;
+param c := 52.61;
+param s := 9.61;
+
+
+param demand := 1 1230 2 1190 3 845 4 935 5 915 6 1625 7 1510;
+

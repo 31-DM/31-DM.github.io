@@ -1,0 +1,37 @@
+*x.yz number = 7.61*
+
+BBQ PROBLEM:
+
+For the BBQ problem, there exists:
+
+	- 4 plants with a certain stock (W)
+	- 8 order locations with a certain demand (S)
+	
+To send a certain amount of stock w to a location, there exists a shipping cost,
+represented by c[Q,P], q∈ W, p∈ S
+
+The amount sent to an order location from a plant is represented by the decision variable "x"
+
+We want to minimize the delivery cost and find an optimal delivery plan to efficiently
+fulfill the demand requirements:
+
+		min ∑ c[Q,P] * x[Q,P]
+		
+This is subject to the demand constraint of satisfying demand exactly along with the 
+supply constraint of not exceeding the stock levels. 
+
+When the code is run, the following output is returned for the most optimal delivery path:
+
+x[q,p] :=
+AMD SCA   250
+CAK NJ    150
+CAK NYC   250
+CAK SCA    50
+CAK TX     50
+EGA FL    250
+EGA NV    100
+EGA TX     50
+EMN AL    150
+EMN CO    150
+
+(PLANT - ORDER LOCATION - ORDER QUANTITY)

@@ -1,0 +1,68 @@
+For the updated version of the two brigades problem, the variables, constraints, and objective functions remain exactly the same. 
+Because of the addition of a new home base, the set of nodes and arcs along with various parameters must be updated. 
+The resulting model is shown below:
+
+SETS - 
+
+	Nodes N - Node "s" removed and replaced with nodes "s1" and "s2"
+
+	Arcs A ⊆ N × N - Updated to include newly created arcs 
+
+	Brigades B.
+
+
+PARAMETERS - 
+
+	Supply: s[b, n], b ∈ B, ninN – number of soldiers from brigade b ∈ B residing at node n ∈ N.
+		**updated with new nodes s1 and s2**
+
+	Demand: d[b, n], b ∈ B, ninN – number of soldiers from brigade b ∈ B supposed to arrive to node n ∈ N.
+		**updated with new nodes s1 and s2**
+
+	Capacities of arcs u[i, j], (i, j) ∈ A
+		**updated with new nodes s1 and s2**
+
+	Unit cost of travel along arcs: c[i, j], (i, j) ∈ A.
+		**updated with new nodes s1 and s2**
+
+	Unit penalty costs of not traveling: p[b, b] ∈ B.
+	
+
+VARIABLES -
+
+	x[b, i, j],  – number of members of brigade b traveling along arc (i, j) (from i to j.)
+	   >= 0 for allb ∈ B, (i, j) ∈ A (integral)
+
+	y[b, j],  – number of members of brigade b ∈ B not departing from node j ∈ N (modifying supply).
+	   >= 0 for all b ∈ B, j ∈ N (integral)
+
+	z[b, j],  – number of members of brigade b ∈ B not arriving to node j ∈ N (modifying demand).
+	   >= 0 for allb ∈ B, j ∈ N (integral)
+
+
+CONSTRAINTS - 
+
+	Capacity constraints along arcs:
+
+		 Σ x[b, i, j] ≤ u[i, j] for all arcs (i, j) ∈ A.
+		b ∈ B
+
+	Law of conservation of material:
+		
+		s[b, j] − y[b, j] + Σ x[b, i, j] = d[b, j] − z[b, j] + Σ x[b, j, k] for all j ∈ N and b ∈ B.
+			      (i, j) ∈ A  		 (j, k) ∈ A
+
+	Departure limitations:
+
+		y[b, j] ≤ s[b, j] for all b ∈ B and j ∈ N.
+
+	Arrival limitations:
+
+		z[b, j] ≤ d[b, j] for all b ∈ B and j ∈ N.
+
+
+OBJECTIVE FUNCTION - 
+
+	min  Σ c[i, j]  *  Σ x[b, i, j]  +  Σ p[b]  *  Σ z[b, j]
+	     (i, j) ∈ A      b ∈ B	           b ∈ B         j ∈ N
+

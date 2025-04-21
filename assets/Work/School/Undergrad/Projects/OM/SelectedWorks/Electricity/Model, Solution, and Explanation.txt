@@ -1,0 +1,75 @@
+ELECTRICITY PROBLEM:
+
+**Electricity measured by MWhr**
+
+For the Electricity problem, there exists:
+
+	- A demand forecast for daily electricity required over the course of a week
+	- Set of days in the week
+	- A cost for using your own power plant (A)
+	- A cost for using a rented power plant (B)
+	- A cost for purchasing power (C)
+	- A cost for storing power (S)
+	- A daily limit to energy from each source of electricity
+
+For each cost, there respectively exists a decision variable representing how much energy
+is taken that day from that source {W, X, Y, Z}
+
+We want to minimize the costs of providing electricity while efficiently
+fulfilling the demand forecast:
+
+
+		min ∑ (A * W) + (B * X) + (C * Y) + (S * Z)
+		
+This is subject to:
+
+		W <= 500  (daily)
+		X <= 600  (daily)
+		Y <= 500  (daily)
+		Z[0] = 0
+		Z[6] = 0
+		Z[i-1] + W[i] + X[i] + Y[i] = demand[i] + Z[i]
+
+
+When the code is run, the following output is returned for the most efficient production plan:
+
+W[i] [*] :=     (ENERGY FROM OWN PLANT BY DAY)
+1  500
+2  500
+3  500
+4  500
+5  500
+6  500
+7  500
+;
+
+X[i] [*] :=     (ENERGY FROM RENTED PLANT BY DAY)
+1  600
+2  600
+3  345
+4  600
+5  600
+6  600
+7  600
+;
+
+Y[i] [*] :=     (ENERGY PURCHASED BY DAY)
+1  130
+2   90
+6  175
+7  410
+;
+
+Z[i] [*] :=     (ENERGY STORED BY DAY)
+4  165
+5  350
+;
+
+***EXTRA CREDIT***
+
+To modify the model to adjust for a 10% loss on energy stored from the previous day,
+a new constraint can be added:
+
+	subject to ConservationOfEnergy{i in END}: Z[i] = Z[i-1] * 0.9
+	
+This will represent only being able to use 90% of what was stored the previous day.

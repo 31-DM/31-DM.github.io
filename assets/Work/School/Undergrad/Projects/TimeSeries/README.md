@@ -87,5 +87,3 @@ A **55.7% accuracy rate** suggests that **long-term profits** could be generated
 **Dev Misra**  
 
 Check out my [portfolio](https://31-dm.github.io/) for more of my work
-
----

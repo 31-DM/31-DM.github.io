@@ -1,0 +1,38 @@
+#HW1116 data file
+
+set NODES := AMD CAK EMN EGA NJ NYC SCA FL TX AL CO NV;
+
+set LINKS := (CAK, EMN) (EMN, NYC) (EMN, CO) (CO, NV) (NV, SCA) (TX, NV) (AL, TX)
+			 (AL, CO) (EMN, AL) (AMD, NJ) (NJ, NYC) (AMD, FL) (AMD, EGA) (EGA, AMD)
+			 (EGA, AL) (EGA, FL) (EGA, TX) (FL, TX) (TX, SCA);
+			 
+set SAUCES := A B;															#sauce A = BBQ, sauce B = Chicken Spice
+
+param: 		cost 		capacity  :=
+CAK EMN		10			320
+EMN NYC		8			230
+EMN CO		3			500
+CO 	NV		5			190
+NV	SCA		2			120
+TX	NV		3			150
+AL	TX		1			90
+AL  CO		3			110
+EMN AL		4			180
+AMD NJ		4			120
+NJ  NYC		3			250
+AMD FL		4			230
+AMD EGA		4			500
+EGA AMD		3			400
+EGA AL		5			700
+EGA	FL		2			600
+EGA TX		6			500
+FL	TX		5			400
+TX 	SCA		6			250
+;
+
+param penalty := A 10000 B 10000;
+
+param supply default 0 := A AMD 250 A CAK 500 A EMN 300 A EGA 400 B AMD 1500;
+
+param demand default 0 := A NJ 150 A NYC 250 A SCA 300 A FL 250 A TX 100 A AL 150 A CO 150 A NV 100 B NJ 350 B NYC 250 B TX 500 B CO 400;
+

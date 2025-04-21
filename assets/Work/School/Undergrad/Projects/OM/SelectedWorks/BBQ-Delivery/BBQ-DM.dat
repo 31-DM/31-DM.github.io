@@ -1,0 +1,17 @@
+#BBQ data file
+
+set PLANTS := AMD CAK EMN EGA;
+
+set ORDERS := NJ NYC SCA FL TX AL CO NV;
+
+param ucost: 																		#Arbitrary large value of 500 being used because using "." results in an error 
+    NJ 	NYC 	SCA 	FL 		TX 		AL 		CO 		NV :=
+AMD 4	12.61	8		11.61	500		500		500		500  
+CAK 10	9		500		500		7		500		500		500
+EMN 500	8		500		500		500		4		10.61	500
+EGA 500	500		500		9.61	6		5		12		17.61
+;
+
+param supply := AMD 250 CAK 500 EMN 300 EGA 400;
+
+param demand := NJ 150 NYC 250 SCA 300 FL 250 TX 100 AL 150 CO 150 NV 100;

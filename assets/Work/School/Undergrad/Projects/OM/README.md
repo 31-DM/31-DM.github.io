@@ -3,88 +3,89 @@
 ### Overview  
 This folder showcases selected problem-solving work from the **Optimization Modeling** course, where I formulated real-world decision problems as mathematical optimization models, encoded them in **AMPL**, and solved them using industry-standard solver packages including **CPLEX** and **XPressMP**
 
-### Course Objectives  
+**Course Grade:** A  
+
+### Contents  
+- [SelectedWorks](./SelectedWorks): A portfolio of 10 optimization modeling projects
+  Each folder includes the original prompt, AMPL code, solver output, and a dedicated README
+
+---
+
+## Course Objectives  
 - Develop a structured understanding of **linear and integer programming**
 - Learn to model real-world decision scenarios using **high-level modeling languages like AMPL**
 - Apply **professional solvers** to identify optimal or near-optimal solutions
 - Gain fluency in interpreting solver output and translating results into action
 
-**Course Grade:** A
-
-### Contents  
-- [SelectedWorks](./SelectedWorks): Collection of optimization modeling projects across multiple domains
-
-#### Example projects:
-- **Library Location** – Determine optimal facility placement under cost and capacity constraints
-- **Olive Oil Mixing** – Maximize profit while meeting labeling requirements for blended olive oil
-- **Project Selection** – Select jobs and rent equipment within budget to optimize total return
-
 ---
 
-## What Is AMPL?
+## Problem Types Covered  
+- **Facility Location** – Balancing reach and cost  
+- **Resource Allocation** – Prioritizing investments under constraints  
+- **Assignment Problems** – Optimally matching agents to tasks  
+- **Transportation & Flow** – Delivering goods with cost and capacity limits  
+- **Set Covering** – Minimizing cost to cover multiple needs  
+- **Regression Modeling** – Predicting outcomes from quantitative and categorical variables
 
-**AMPL** (A Mathematical Programming Language) is a domain-specific language for describing and solving optimization problems
-
-In each subproject folder, you’ll find:
-- A `.mod` file defining the **model structure** (variables, objective, constraints)
-- A `.dat` file providing the **problem-specific data**
-- A solution explanation and output from a solver like **CPLEX**
-
-### How to Run AMPL Models
-
-You can run these models without installing anything using **AMPLT**, the official free online solver:
-
-1. Visit [ampl.com/try-ampl](https://ampl.com/try-ampl)
-2. Upload the `.mod` and `.dat` files from any project folder
-3. Type `solve` in the command line interface
-4. View the output, variable values, and objective result
-
-AMPLT supports industry solvers like **CPLEX**, **Gurobi**, and **HiGHS** in an accessible interface
-
----
-
-## Why This Project Matters
-
-Optimization isn’t just math — it’s a way to **formalize and solve real-world decisions** under constraints  
-
-The work in this repository demonstrates my ability to:
-- Translate business scenarios into structured models
-- Make decisions under limited resources
-- Extract actionable insights from abstract math
-- Use a professional-grade modeling tool, to drive results
+These categories are demonstrated through the following example projects:
+- **Library Location** – Optimal facility placement under cost and capacity constraints
+- **Electricity Provider** – Weekly demand fulfillment through energy source and storage planning
+- **Two Brigades** – Multi-agent flow optimization with arc capacity, cost, and penalties
 
 ---
 
 ## Business & Practical Impact
 
-- **Data-Driven Decision Making**: These models reflect real-world business challenges where analytical rigor drives operational and financial decisions  
-- **Optimization in Practice**: Projects like facility placement, resource allocation, and product blending mirror problems faced in **supply chain**, **manufacturing**, **retail**, and **tech strategy**  
-- **Scalable Skillset**: Techniques demonstrated here are foundational to roles in **operations research**, **data science**, **financial modeling**, and **logistics planning**
+- **Data-Driven Decision Making**: These models mirror real-world business scenarios that require quantitative resource planning  
+- **Optimization in Action**: Projects reflect core use cases across logistics, operations, R&D, and policy planning  
+- **Transferable Skillset**: Skills developed align with roles in consulting, product ops, data science, operations research, and finance
+
+---
+
+## Why This Work Matters
+
+This repository demonstrates how mathematical modeling can be used to:
+- Translate messy real-world decisions into solvable systems
+- Optimize performance under hard constraints
+- Quantify tradeoffs and costs using structured analysis
+- Communicate insights using technical tools and written documentation
+
+---
+
+## What Is AMPL?
+
+**AMPL** (A Mathematical Programming Language) is a high-level language used to define optimization problems with clean syntax for sets, parameters, variables, constraints, and objective functions
+
+Each project folder includes:
+- `.mod` – Model file defining variables, constraints, and the objective
+- `.dat` – Data file defining the scenario-specific values
+- `solve` – The command used inside AMPL to compute the optimal solution
+
+### Try it Live
+
+Use [ampl.com/try-ampl](https://ampl.com/try-ampl) to run the models online:
+1. Upload `.mod` and `.dat` files
+2. Type `solve` in the terminal
+3. Review the output
 
 ---
 
 ## Modeling Workflow  
 1. Define sets, parameters, and variables  
-2. Formulate objective function(s)  
-3. Apply constraints based on real-world logic  
+2. Write the objective function  
+3. Formulate constraints using domain logic  
 4. Encode the model in AMPL  
-5. Test and solve using optimization software  
-6. Interpret and validate the results
-
-Each subproject includes:
-- A PDF and visual snapshot of the original problem
-- `.mod` and `.dat` files
-- A `README.md` summarizing the logic and results
-- Solver output and analysis
+5. Run the model with data  
+6. Interpret the output and assess sensitivity
 
 ---
 
 ## Tools & Skills Used  
 - **AMPL** – Algebraic modeling language for optimization  
-- **CPLEX / XPressMP** – Commercial solvers for LP/MILP problems  
-- **Mathematical Modeling** – Linear programming, binary decision variables  
-- **Strategic Thinking** – Applying models to real-world resource decisions  
-- **Communication** – Translating math into insight
+- **CPLEX / XPressMP** – Commercial-grade solvers  
+- **Integer & Linear Programming** – Formulations for real-world systems  
+- **Sensitivity Analysis** – Exploring impact of parameter changes  
+- **Structured Thinking** – Translating business problems into quantitative frameworks
 
 ---
 

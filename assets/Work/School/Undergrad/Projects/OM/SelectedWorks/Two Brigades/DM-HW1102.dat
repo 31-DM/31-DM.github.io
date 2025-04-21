@@ -1,0 +1,28 @@
+# Updated two brigades data file 
+
+set Nodes := s1 s2 1 2 3 4 5 6 t1 t2;
+
+set Arcs := (s1,1) (s1,2) (s2,1) (s2,3) (1,4) (1,6) (2,4) (2,5) (3,6) 
+				(4,t1) (4,t2) (5,t1) (6,t2);
+
+set Brigades := A B;
+
+param supply default 0 := A s1 200 B s2 400;
+param demand default 0 := A t1 50 A t2 150 B t1 300 B t2 100;
+
+param penalty := A 10000 B 100000;
+
+param: 		cost	capacity :=
+s1 1			8		250
+s1 2			13		250
+s2 1			15		350
+s2 3			9		350
+1 4			13		190
+1 6			17		120
+2 4			9		150
+2 5			7		90
+3 6			8		110
+4 t1		12		180
+4 t2		17		120
+5 t1		7		250
+6 t2		14		230;

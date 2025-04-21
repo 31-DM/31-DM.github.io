@@ -1,0 +1,42 @@
+LAW PROBLEM:
+
+For the law problem, there exists:
+
+	- 5 separate cases that may be solved (P)
+	- 5 separate associates (Q)
+	- A requirement for one-to-one assignment of cases to associates/associates to cases
+	
+Each associate has a certain % chance to win or lose the case, with the % chance to win the case being:
+
+	% chance to win the case = 100% - % chance to lose the case,
+	
+			*represented by w[Q, P]*	
+
+A binary decision variable "l" determines which case will be assigned to which associate.
+
+We want to maximize the % chance of winning all of the cases, as each case has equal payout for winning
+and no payout for losing:
+
+	max ∑ w[Q, P] * l[Q, P]
+	
+This is subject to a one-to-one assignment of cases/associates to associates/cases.
+
+When the code is run, the following output is received:
+
+CPLEX 12.10.0.0: optimal integer solution; objective 404.78
+set {q in ASSOCIATE, p in CASE: l[q,p] > 0}  :=
+(Julie,C1)      (John,C5)       (Jim,C3)        (Jonathan,C2)   (Jack,C4);
+
+When interpreted:
+
+Case One - Julie
+Case Two - Jonathan
+Case Three- Jim
+Case Four - Jack
+Case Five - John
+
+This solution represents the assignment that will result in the highest percent chance of winning
+all of the cases, which is:
+
+	404.78/500 = 0.80956 = 80.956% chance of winning all of the cases
+
