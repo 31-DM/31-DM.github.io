@@ -1,7 +1,8 @@
 ## BBQ Sauce and Spice Delivery – Network Flow Optimization
 
-This project addresses a multi-commodity minimum-cost flow problem with capacity constraints  
-As the proud creator of “The best barbecue sauce on earth” and its spicy counterpart, "Chicken with a Rhythm," you need to deliver two different products from your plants to customers across the country. The challenge is to minimize the total shipping cost while adhering to capacity constraints on each shipping route and fulfilling customer demand as fully as possible
+This project addresses a multi-commodity minimum-cost flow problem with capacity constraints:
+
+As the proud creator of “The best barbecue sauce on earth” and its spicy counterpart, "Chicken with a Rhythm," you need to deliver two different products from your plants to customers across the country. The challenge is to minimize the total shipping cost while adhering to capacity constraints on each shipping route and fulfilling customer demand as fully as possible.
 
 ### Problem Details
 - Two products: BBQ Sauce and Chicken Spice

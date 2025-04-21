@@ -1,7 +1,8 @@
 ## Lawfirm Associates – Assignment Optimization Problem
 
-This project addresses a one-to-one assignment optimization scenario  
-You are managing a law firm with five associates and five high-stakes cases. Based on mock trial simulations, each associate has a known probability of losing a given case. The objective is to assign one associate to each case in a way that maximizes the overall probability of winning all five cases
+This project addresses a one-to-one assignment optimization scenario:
+
+You are managing a law firm with five associates and five high-stakes cases. Based on mock trial simulations, each associate has a known probability of losing a given case. The objective is to assign one associate to each case in a way that maximizes the overall probability of winning all five cases.
 
 ### Problem Details
 - There are 5 associates and 5 cases (C1–C5)

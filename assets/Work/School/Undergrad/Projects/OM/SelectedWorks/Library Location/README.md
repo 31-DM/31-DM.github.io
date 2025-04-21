@@ -1,7 +1,8 @@
 ## Library Location – Facility Optimization Problem
 
-This project addresses a facility location optimization scenario  
-The Foundation for the Highest Education (FHE) seeks to open public libraries along a highway in Mine County. The goal is to determine the most cost-effective placement of libraries such that all town populations are served and no library exceeds its capacity
+This project addresses a facility location optimization scenario:
+
+The Foundation for the Highest Education (FHE) seeks to open public libraries along a highway in Mine County. The goal is to determine the most cost-effective placement of libraries such that all town populations are served and no library exceeds its capacity.
 
 ### Problem Details
 - There are 5 potential township locations

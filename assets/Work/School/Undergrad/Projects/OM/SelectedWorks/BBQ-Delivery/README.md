@@ -1,7 +1,8 @@
 ## Barbecue Sauce Delivery – Transportation Cost Minimization
 
-This project explores a classic transportation optimization problem  
-As the founder of “the best barbecue sauce on earth,” you must deliver bottles from your production plants to distributors across the country. With varying shipping costs and supply/demand constraints, the objective is to find a cost-minimizing delivery plan that fulfills every order exactly while respecting stock limits
+This project explores a classic transportation optimization problem:
+
+As the founder of “the best barbecue sauce on earth,” you must deliver bottles from your production plants to distributors across the country. With varying shipping costs and supply/demand constraints, the objective is to find a cost-minimizing delivery plan that fulfills every order exactly while respecting stock limits.
 
 ### Problem Details
 - 4 plant locations with limited stock:

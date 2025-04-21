@@ -1,7 +1,8 @@
 ## Pastry Rating – Multivariate Linear Regression
 
-This project applies multivariate linear regression to identify how pastry characteristics influence judges’ ratings  
-Given experimental data on pastry **moisture content**, **sweetness**, and (in the extended version) **color**, this project explores the development of predictive models using linear regression. The objective is to determine which features most strongly impact pastry ratings and build models that best estimate outcomes
+This project applies multivariate linear regression to identify how pastry characteristics influence judges’ ratings:
+
+Given experimental data on pastry moisture content, sweetness, and (in the extended version) color, this project explores the development of predictive models using linear regression. The objective is to determine which features most strongly impact pastry ratings and build models that best estimate outcomes.
 
 ### Problem Details
 - 16 pastry samples were evaluated by a panel of judges
@@ -27,8 +28,8 @@ For reference, see full prompt:
 ---
 
 ## Files Included
-- [`DM-HW1130L1.mod`](./DM-HW1130L1.mod) – AMPL model for **Moisture + Sweetness**
-- [`DM-HW1130L2.mod`](./DM-HW1130L2.mod) – Extended model with **Color** added as a third predictor
+- [`DM-HW1130L1.mod`](./DM-HW1130L1.mod) – AMPL model for Moisture + Sweetness
+- [`DM-HW1130L2.mod`](./DM-HW1130L2.mod) – Extended model with Color added as a third predictor
 - [`DM-HW1130.dat`](./DM-HW1130.dat) – Input data for all three variables across 16 observations
 - [`Model, Solution, and Explanation.txt`](./Model%2C%20Solution%2C%20and%20Explanation.txt) – Summary of results, coefficient interpretations, and predictions
 

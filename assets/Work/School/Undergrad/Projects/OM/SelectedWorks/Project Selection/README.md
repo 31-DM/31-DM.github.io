@@ -1,7 +1,8 @@
 ## Project Selection – Resource-Constrained Decision Problem
 
-This project explores a constrained selection problem  
-Julie wants to start a photo business and has a limited budget to rent the necessary equipment. Each potential job generates revenue but requires a specific set of equipment. The objective is to determine which jobs to accept and what equipment to rent to maximize total profit, given the $600 budget
+This project explores a constrained selection problem:
+
+Julie wants to start a photo business and has a limited budget to rent the necessary equipment. Each potential job generates revenue but requires a specific set of equipment. The objective is to determine which jobs to accept and what equipment to rent to maximize total profit, given the $600 budget.
 
 ### Problem Details
 - There are four potential photography jobs (J1–J4)

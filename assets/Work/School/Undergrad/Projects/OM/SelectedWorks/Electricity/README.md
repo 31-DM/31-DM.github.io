@@ -1,7 +1,8 @@
 ## Electricity Provider – Cost Minimization with Storage Optimization
 
-This project addresses a time-dependent cost minimization problem  
-As a local electricity provider, you're responsible for meeting fluctuating daily energy demands over a 7-day period. You must determine how much electricity to produce, rent, purchase, and store each day in order to minimize total costs while ensuring daily demand is met
+This project addresses a time-dependent cost minimization problem:
+
+As a local electricity provider, you're responsible for meeting fluctuating daily energy demands over a 7-day period. You must determine how much electricity to produce, rent, purchase, and store each day in order to minimize total costs while ensuring daily demand is met.
 
 ### Problem Details
 - Daily demand forecasts: 1230, 1190, 845, 935, 915, 1625, 1510 MWhr

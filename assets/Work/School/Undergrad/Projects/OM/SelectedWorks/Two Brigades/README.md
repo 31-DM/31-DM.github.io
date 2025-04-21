@@ -1,7 +1,8 @@
 ## Two Brigades – Network Flow Optimization with Dual Origins
 
-This project builds on a classic minimum-cost flow problem with a twist:  
-Two separate brigades (A and B) each have their own origin nodes, and must move personnel through a shared network to their assigned destinations. Each arc has a fixed capacity and cost. The objective is to minimize total cost, including penalties for underdelivery
+This project builds on a classic minimum-cost flow problem with a twist:
+
+Two separate brigades (A and B) each have their own origin nodes, and must move personnel through a shared network to their assigned destinations. Each arc has a fixed capacity and cost. The objective is to minimize total cost, including penalties for underdelivery.
 
 ### Problem Details
 - Network includes two origin nodes: `s1` (brigade A), `s2` (brigade B)

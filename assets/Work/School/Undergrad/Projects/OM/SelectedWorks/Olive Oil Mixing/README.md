@@ -1,7 +1,8 @@
 ## Olive Oil Mixing – Blending Optimization Problem
 
-This project explores a blending optimization scenario  
-A European company is mixing olive oils from different regions to create branded products (Sicilian, Italian, Spanish) with the goal of maximizing total profit. Each brand has distinct labeling requirements based on oil origin percentages and sells at different price points
+This project explores a blending optimization scenario:
+
+A European company is mixing olive oils from different regions to create branded products (Sicilian, Italian, Spanish) with the goal of maximizing total profit. Each brand has distinct labeling requirements based on oil origin percentages and sells at different price points.
 
 ### Problem Details
 - There are three oil sources: Spain (Granada), Tuscany, and Sicily

@@ -1,7 +1,8 @@
 ## Disease Control – Gene Targeting Optimization
 
-This project addresses a cost-minimization set covering problem in the context of disease treatment  
-Given a list of diseases and the genes that control them, the objective is to identify the smallest-cost subset of genes to target such that all diseases can be blocked. An extended version of the problem introduces minimum gene coverage requirements for each disease, adding a more complex layer to the optimization model
+This project addresses a cost-minimization set covering problem in the context of disease treatment:
+
+Given a list of diseases and the genes that control them, the objective is to identify the smallest-cost subset of genes to target such that all diseases can be blocked. An extended version of the problem introduces minimum gene coverage requirements for each disease, adding a more complex layer to the optimization model.
 
 ### Problem Details
 - 7 diseases are controlled by combinations of 7 genes (A–G)
