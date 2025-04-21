@@ -3,7 +3,7 @@
 ### Overview  
 This folder showcases selected problem-solving work from the **Optimization Modeling** course, where I formulated real-world decision problems as mathematical optimization models, encoded them in **AMPL**, and solved them using industry-standard solver packages including **CPLEX** and **XPressMP**
 
-## Course Objectives  
+### Course Objectives  
 - Develop a structured understanding of **linear and integer programming**
 - Learn to model real-world decision scenarios using **high-level modeling languages like AMPL**
 - Apply **professional solvers** to identify optimal or near-optimal solutions
