@@ -13,10 +13,7 @@ The Foundation for the Highest Education (FHE) seeks to open public libraries al
 ### Problem Prompt Snapshot
 The images below are excerpts from the original class handout describing the problem setup
 
-**Page 1**  
 ![Problem Description – Page 1](./LIbrary%20Location%20P1.png)
-
-**Page 2**  
 ![Problem Description – Page 2](./LIbrary%20Location%20P2.png)
 
 For reference, see the full PDF versions:
