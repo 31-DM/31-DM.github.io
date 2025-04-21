@@ -13,7 +13,6 @@ Julie wants to start a photo business and has a limited budget to rent the neces
 
 ### Problem Prompt Snapshot
 
-**Prompt Overview**  
 ![Problem Description](./Project%20Selection.png)
 
 For reference, see the full prompt:

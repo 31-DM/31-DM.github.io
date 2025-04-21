@@ -13,7 +13,6 @@ A European company is mixing olive oils from different regions to create branded
 
 ### Problem Prompt Snapshot
 
-**Olive Oil Mixing Overview**  
 ![Problem Description](./Olive%20Oil%20Mixing.png)
 
 For reference, see the full prompt:
