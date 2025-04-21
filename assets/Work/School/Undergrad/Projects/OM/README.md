@@ -63,14 +63,6 @@ The work in this repository demonstrates my ability to:
 
 ---
 
-## Problem Types Covered  
-- **Facility Location** – Balancing coverage and cost
-- **Resource Allocation** – Selecting jobs and tools under budget
-- **Blending Problems** – Satisfying product composition rules under supply limits
-- **Network/Flow Optimization** – (to be added in future projects)
-
----
-
 ## Modeling Workflow  
 1. Define sets, parameters, and variables  
 2. Formulate objective function(s)  
