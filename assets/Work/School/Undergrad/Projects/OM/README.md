@@ -14,7 +14,7 @@ This folder showcases selected problem-solving work from the **Optimization Mode
 ### Contents  
 - [SelectedWorks](./SelectedWorks): Collection of optimization modeling projects across multiple domains
 
-Example projects:
+#### Example projects:
 - **Library Location** – Determine optimal facility placement under cost and capacity constraints
 - **Olive Oil Mixing** – Maximize profit while meeting labeling requirements for blended olive oil
 - **Project Selection** – Select jobs and rent equipment within budget to optimize total return
