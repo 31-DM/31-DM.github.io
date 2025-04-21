@@ -1,0 +1,29 @@
+#Blending question .dat file
+#xy = 12
+
+set OILTYPE := Spanish Tuscan Sicilian;
+#set OIL := S I SP;
+	
+param a :=
+Spanish		2120
+Tuscan 		1500
+Sicilian	2800
+;
+
+
+param: 		OIL: 	p :=
+			S 		200
+			I 		150
+			SP 		120;
+	
+		
+param Q :=
+Spanish S 0.25
+Spanish I 0.4 
+;
+
+
+param q :=
+Spanish SP 0.6
+Sicilian S 0.5
+;

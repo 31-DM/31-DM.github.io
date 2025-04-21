@@ -1,0 +1,41 @@
+#Library Question .dat file
+#xy = 12
+
+set TOWNS := Silverton Ironhill Goldbridge Brasskill Pewterplace;
+
+
+param: 			Location 	Population 	Cost 	Capacity :=
+Silverton		59			45			15.24		100
+Ironhill		103			35			20			90
+Goldbridge		125			25			15			125
+Brasskill		150			25			18.12		100
+Pewterplace		179			35			21			120;
+
+
+param: 					Closest :=
+Silverton Silverton		0					
+Silverton Ironhill 		44
+Silverton Goldbridge	66		
+Silverton Brasskill		91		
+Silverton Pewterplace	120	
+Ironhill Ironhill		0	
+Ironhill Silverton		44
+Ironhill Goldbridge		22
+Ironhill Brasskill 		47
+Ironhill Pewterplace	76
+Goldbridge Goldbridge	0
+Goldbridge Silverton	66
+Goldbridge Ironhill		22
+Goldbridge Brasskill	25
+Goldbridge Pewterplace	54
+Brasskill Brasskill		0
+Brasskill Silverton		91
+Brasskill Ironhill		47			
+Brasskill Goldbridge	25			
+Brasskill Pewterplace	29			
+Pewterplace Pewterplace	0			
+Pewterplace Silverton	120			
+Pewterplace Ironhill	76			
+Pewterplace Brasskill	54			
+Pewterplace Goldbridge	29;
+

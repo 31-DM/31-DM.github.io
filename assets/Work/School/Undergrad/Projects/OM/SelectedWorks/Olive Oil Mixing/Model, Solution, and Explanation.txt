@@ -1,0 +1,48 @@
+Olive Oil Mixing Problem:
+
+For the oil mixing problem there exists:
+
+	- Set of oil sources
+	- Set of mixed oils
+	- Available amounts of oil from sources
+	- Selling price of oils (P)
+	- Percentages of oil from sources needed to be blended in order to make mixed oils
+
+The variables are:
+
+	x = amount of type i oil used to make oil j
+	y = amount of oils produced
+	z = amount of oils used in process
+
+We want to maximize profit:
+
+	max ∑ P * Y
+
+This is subject to availability of source oils, conservation of source oils, and the percentage limits defined necessary to create the mixed oils.
+
+When the code is run, the following output is returned:
+
+CPLEX 12.10.0.0: optimal solution; objective 1223400
+3 dual simplex iterations (0 in phase I)
+x[i,j] :=
+Sicilian S    2800
+Spanish  I      66.6667
+Spanish  S    1400
+Spanish  SP    653.333
+Tuscan   I     100
+Tuscan   S    1400
+;
+
+y[j] [*] :=
+I   166.667
+S  5600
+SP   653.333
+;
+
+z[i] [*] :=
+Sicilian  2800
+Spanish  2120
+Tuscan  1500
+;
+
+Meaning to maximize profit, the above amounts of source oils should be used to create the above amounts of mixed oils.

@@ -1,0 +1,41 @@
+Library Location Problem:
+
+For the library location problem, there exists:
+
+	- Set of towns (T)
+	- Cost of building libraries (Cost)
+	- Location of town
+	- Population of town
+	- Capacity of library built
+
+There are three variables:
+
+	x = whether to build a library or not (binary)
+	y = whether the library can service another district or not (binary)
+	z = population service variable
+
+We want to minimize the cost:
+
+	min ∑ {t in T} x[t]*Cost[t]
+
+This is subject to capacity constraints, closest location constraints, and population constraints.
+
+When the code is run, the following output is received:
+
+CPLEX 12.10.0.0: optimal integer solution; objective 30.24
+13 MIP simplex iterations
+0 branch-and-bound nodes
+x[t] [*] :=
+Goldbridge  1
+ Silverton  1
+;
+
+y[t,u] :=
+Goldbridge Brasskill     1
+Goldbridge Goldbridge    1
+Goldbridge Ironhill      1
+Goldbridge Pewterplace   1
+Silverton  Silverton     1
+;
+
+Meaning a library should be built in Goldbridge and Silverton.

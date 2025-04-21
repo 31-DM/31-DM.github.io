@@ -1,0 +1,34 @@
+#Project Planning .dat file
+#xy = 12
+
+set JOBS := J1 J2 J3 J4;
+set EQUIPMENT := A B C D;
+
+param: revenue:= 
+J1 400
+J2 588
+J3 500
+J4 400
+;
+
+param rentCost :=
+A 112
+B 200
+C 300
+D 100
+;
+
+param Reqs default 0 := 
+A J1 1
+A J2 1
+B J1 1
+B J3 1
+B J4 1
+C J2 1
+C J3 1
+D J2 1
+D J3 1
+D J4 1
+;
+
+param Capacity := 600;

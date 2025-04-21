@@ -1,0 +1,39 @@
+Project Selection Problem:
+
+For the project selection problem, there exists:
+
+	- Set of jobs
+	- Set of equipment
+	- The revenue produced if a job is accepted (R)
+	- A limit to hours worked
+	- A binary variable representing the need for equipment
+	- A cost for renting equipment (C)
+
+There are two binary variables:
+
+	X = accept job j or not
+	Y = rent equipment e or not
+
+We want to maximize profit:
+
+	max ∑ (R * X) - (C *Y)
+
+This is subject to a constraint on total hours worked and if the equipment necessary to do the job is rented.
+
+When the code is run, the following output is returned:
+
+CPLEX 12.10.0.0: optimal integer solution; objective 388
+9 MIP simplex iterations
+0 branch-and-bound nodes
+x[j] [*] :=
+J1  1
+J4  1
+;
+
+y[e] [*] :=
+A  1
+B  1
+D  1
+;
+
+Meaning that jobs J! and J4 should be taken by renting equipment A, B, and D in order to maximize profit.
