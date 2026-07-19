@@ -1,0 +1,12 @@
+layout: projects
+position: right
+title: Love 2.0
+date: 2026-07-19 12:00:00 -0400
+categories: writing communication critical-analysis
+tags: writing rhetoric research analysis
+featured_image: /img/posts/love.jpg
+project_link: https://github.com/31-DM/31-DM.github.io/blob/master/assets/Work/School/Undergrad/Writing/Love2.0/Love2.0.pdf
+button_icon: fas fa-book
+button_text: Read Paper
+lead_text: A rhetorical analysis challenging the biological framework of love presented in Barbara Fredrickson's Love 2.0.
+featured_image_class: custom-featured-image
